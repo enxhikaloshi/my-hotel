@@ -1,2 +1,5 @@
 /*@import "tailwind base";;
 @tailwind utilities;*/
+body {
+  background-attachment: fixed;
+}

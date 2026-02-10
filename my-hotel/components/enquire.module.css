@@ -90,7 +90,7 @@
 
 }
 
-:global(.react-datepicker__month-container) {
+.wrapper :global(.react-datepicker__month-container) {
   float: left !important;
   background-color: white;
 }

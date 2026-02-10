@@ -212,8 +212,8 @@
 }
 
 
-:global(.swiper-button-next),
-:global(.swiper-button-prev) {
+.root :global(.swiper-button-next),
+.root :global(.swiper-button-prev) {
   display: none !important;
 }
 .collapsed {
