@@ -1,0 +1,234 @@
+.stepTwoContent {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.stepTwoContent h2 {
+  font-size: 28px;
+  font-weight: 500;
+  margin-bottom: 8px;
+  color: #333;
+}
+
+.subtitle {
+  color: #666;
+  font-size: 14px;
+  margin-bottom: 30px;
+}
+
+.buyerForm {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+}
+
+.formGroup {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+}
+
+.formGroup > input:not(.row input),
+.formGroup > select:not(.row select) {
+  width: 100%;
+  max-width: 512px;
+}
+
+.label {
+  font-size: 14px;
+  font-weight: 500;
+  color: #333;
+  margin-bottom: 4px;
+}
+
+.required {
+  color: #e74c3c;
+  margin-left: 2px;
+}
+
+.radioGroup {
+  display: flex;
+  gap: 12px;
+}
+
+.radioButton,
+.activeRadio {
+  padding: 10px 24px;
+  border: 1px solid #ddd;
+  background: white;
+  cursor: pointer;
+  font-size: 14px;
+  transition: all 0.2s ease;
+  border-radius: 4px;
+  font-weight: 400;
+  color: #666;
+}
+
+.radioButton:hover {
+  border-color: #bbb;
+  background: #f9f9f9;
+}
+
+.activeRadio {
+  background: #f0f0f0;
+  border-color: #999;
+  color: #333;
+  font-weight: 500;
+}
+
+.row {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 12px;
+}
+
+.inputWrapper {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.buyerForm input,
+.buyerForm select,
+.textarea {
+  width: 100%;
+  padding: 12px 16px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 14px;
+  font-family: inherit;
+  transition: border-color 0.2s ease;
+  background: white;
+  box-sizing: border-box;
+}
+
+.buyerForm input:focus,
+.buyerForm select:focus,
+.textarea:focus {
+  outline: none;
+  border-color: #666;
+}
+
+.buyerForm input::placeholder,
+.textarea::placeholder {
+  color: #999;
+}
+
+.inputError {
+  border-color: #e74c3c !important;
+}
+
+.error {
+  color: #e74c3c;
+  font-size: 12px;
+  margin-top: 4px;
+}
+
+.textarea {
+  resize: vertical;
+  min-height: 100px;
+  margin-bottom: 50px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .row {
+    grid-template-columns: 1fr;
+  }
+  
+  .radioGroup {
+    flex-wrap: wrap;
+  }
+  
+  .proceedBtn {
+    width: 100%;
+  }
+}
+.buttonActionGroup {
+  display: flex;
+  gap: 15px;
+  margin-top: 30px;
+  align-items: center;
+}
+
+.backStepBtn {
+  background: white;
+  border: 1px solid #ddd;
+  padding: 12px 24px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: #333;
+  font-size: 14px;
+}
+
+.proceedBtn {
+  background-color: #a69685; 
+  color: white;
+  border: none;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.requiredNote {
+  font-size: 12px;
+  color: #333;
+  margin-top: 15px;
+}
+/* Kontenieri i butonave */
+.titleButtonGroup {
+  display: flex;
+  border: 1px solid #ddd;
+  border-radius: 4px; /* Qoshet e rrumbullakosura vetëm në fundet e grupit */
+  width: fit-content;
+  overflow: hidden; /* Prerja e qosheve të butonave brenda */
+}
+
+/* Stili i butonit kur nuk është i selektuar */
+.titleBtn {
+  padding: 10px 30px;
+  background: white;
+  border: none;
+  border-right: 1px solid #ddd; 
+  cursor: pointer;
+  font-size: 14px;
+  color: #333;
+  transition: background 0.2s ease;
+}
+
+
+.titleBtn:last-child {
+  border-right: none;
+}
+
+
+.titleBtnActive {
+  padding: 10px 30px;
+  background: #f1ede8; 
+  border: none;
+  border-right: 1px solid #ddd;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 500;
+  color: #333;
+}
+
+.titleBtnActive:last-child {
+  border-right: none;
+}
+
+
+.titleBtn:hover {
+  background: #f9f9f9;
+}

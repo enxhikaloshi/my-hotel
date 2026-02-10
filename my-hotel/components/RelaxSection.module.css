@@ -1,0 +1,173 @@
+.container {
+  padding: 100px 20px;
+  background-color: #ffffff;
+  display: flex;
+  justify-content: center;
+  font-family: 'Montserrat', sans-serif;
+  color: #4a4a4a;
+}
+
+.content {
+  max-width: 800px;
+  text-align: center;
+}
+
+.title {
+  font-size: 38px;
+  font-weight: 400;
+  margin-bottom: 30px;
+  color: #333;
+}
+
+.description {
+  font-size: 18px;
+  line-height: 1.6;
+  margin-bottom: 60px;
+  font-weight: 300;
+}
+
+/* Kutia e Katalogut */
+.catalogCard {
+  background-color: #f7f6f2; /* Ngjyra e sfondit si në foto */
+  display: inline-flex;
+  align-items: center;
+  padding: 30px 60px;
+  gap: 25px;
+  text-align: left;
+}
+
+.iconWrapper {
+  background: white;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #ddd;
+}
+
+.catalogText h3 {
+  margin: 0;
+  font-size: 24px;
+  font-weight: 400;
+  color: #333;
+}
+
+.downloadLink {
+  text-decoration: none;
+  color: #4a4a4a;
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 5px;
+  transition: opacity 0.3s;
+}
+
+.downloadLink:hover {
+  opacity: 0.7;
+}
+
+.downloadLink span {
+  font-size: 20px;
+}
+
+/* Mobile responsive */
+@media (max-width: 600px) {
+  .title { font-size: 28px; }
+  .catalogCard {
+    padding: 20px 30px;
+    flex-direction: column;
+    text-align: center;
+  }
+}
+.imageContainer {
+  width: 100%;
+  max-width: 1000px; 
+  margin: 40px auto; 
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+}
+
+.responsiveImage {
+  width: 100%;
+  height: auto;
+  object-fit: cover; 
+  display: block;
+}
+.title {
+  text-align: center;
+  padding: 40px 20px;
+  color: #333333;
+}
+
+.title p {
+  font-family: 'Montserrat', sans-serif; 
+  font-size: 42px;
+  font-weight: 400;
+  line-height: 1.3;
+  letter-spacing: -0.5px; 
+  margin: 0;
+}
+
+@media (max-width: 768px) {
+  .title p {
+    font-size: 28px;
+  }
+}
+.whiteSectionContent {
+  max-width: 900px;         
+  margin: 0 auto;          
+  padding: 100px 100px;      
+  text-align: center;       
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: -50px;
+}
+
+.whiteTitle {
+  font-family: serif;      
+  font-size: 2.8rem;        
+  font-weight: 400;         
+  color: #333;             
+  line-height: 1.2;
+  margin-bottom: 20px;      
+  max-width: 700px;         
+}
+
+.whiteText {
+  font-family: sans-serif;
+  font-size: 1.1rem;
+  line-height: 1.8;     
+  color: #555;
+  max-width: 800px;
+}
+
+.whiteText strong {
+  font-weight: 600;
+  color: #222;
+}
+
+.link {
+  color: #333;
+  text-decoration: underline;
+  text-underline-offset: 4px; 
+  transition: opacity 0.3s ease;
+}
+
+.link:hover {
+  opacity: 0.7;
+}
+
+/* Për celularë */
+@media (max-width: 768px) {
+  .whiteTitle {
+    font-size: 2rem;
+  }
+  .whiteSectionContent {
+    padding: 60px 20px;
+  }
+}

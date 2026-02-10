@@ -1,0 +1,163 @@
+.spontaneousPage {
+  background-color: #fff;
+  min-height: 100vh;
+}
+
+.hero {
+  text-align: center;
+  padding: 80px 20px;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.hertitle {
+  font-size: 2.5rem;
+  font-weight: 300;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.gridContainer {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px 100px;
+}
+
+.dealsGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(500px, 1fr));
+  gap: 40px;
+}
+
+.dealCard {
+  display: flex;
+  flex-direction: column;
+}
+
+.imageWrapper {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 3 / 2;
+  overflow: hidden;
+}
+
+.dealImage {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.5s ease;
+}
+
+.dealCard:hover .dealImage {
+  transform: scale(1.05);
+}
+
+
+.roomNameBadge {
+  position: absolute;
+  top: 15px;
+  left: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  padding: 5px 15px;
+  font-size: 0.9rem;
+  color: #333;
+  border-radius: 2px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+
+.priceBadge {
+  position: absolute;
+  bottom: 15px;
+  left: 15px;
+  background-color: rgba(255, 255, 255, 0.95);
+  padding: 8px 20px;
+  font-size: 0.85rem;
+  color: #333;
+  border-radius: 25px; 
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+.dealInfo {
+  padding: 25px 0;
+}
+
+.dealTitle {
+  font-size: 1.6rem;
+  font-weight: 400;
+  margin-bottom: 8px;
+  color: #222;
+}
+
+.dealDetails {
+  font-size: 0.95rem;
+  color: #666;
+  margin-bottom: 5px;
+}
+
+.dates {
+  font-size: 0.95rem;
+  color: #444;
+  margin-bottom: 20px;
+}
+
+.enquireButton {
+  display: inline-block;
+  background-color: #b5a48b; 
+  color: white;
+  padding: 12px 35px;
+  text-decoration: none;
+  border-radius: 4px;
+  font-size: 0.9rem;
+  transition: background 0.3s;
+}
+
+.enquireButton:hover {
+  background-color: #9c8b72;
+}
+
+/* Mobile Responsive */
+@media (max-width: 768px) {
+  .dealsGrid {
+    grid-template-columns: 1fr;
+  }
+}
+.heroContainer {
+  padding: 80px 20px;
+  background-color: #ffffff;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title {
+  font-size: 2.8rem;
+  font-weight: 300; 
+  color: #333;
+  margin-bottom: 30px;
+  letter-spacing: 1px;
+}
+
+.descriptionWrapper {
+  max-width: 650px;
+}
+
+.description {
+  font-size: 1.1rem;
+  line-height: 1.6;
+  color: #555;
+  font-style: italic; 
+}
+
+.link {
+  color: #222;
+  text-decoration: none;
+  border-bottom: 1px solid #999;
+  transition: border-color 0.3s ease;
+  cursor: pointer;
+}
+
+.link:hover {
+  border-bottom-color: #000;
+}

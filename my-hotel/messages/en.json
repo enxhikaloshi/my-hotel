@@ -1,0 +1,1189 @@
+
+{
+  
+  "metadata": {
+    "title": "Alpen Tesitin Hotel Panorama Resort - Dolomites 5 Star",
+    "siteName": "Alpen Tesitin Hotel",
+    "description": "Alpen Tesitin: Exclusive 5-star luxury hotel in the heart of the Dolomites. Experience unparalleled alpine elegance with panoramic suites, gourmet dining, and a world-class wellness spa.",
+    "keywords": "hotel booking,Italian Alps,Dolomites,South Tyrol,5-star hotel,alpine luxury,panoramic suites,wellness hotel,luxury spa,gourmet restaurant,Alpen Tesitin,wellness treatments,beauty center,hair salon,car rental,fitness gym,Finnish sauna,Turkish bath,special offers,vacation packages,Dolomites weather,mountain weather forecast,guided hikes,winter ski vacation",
+    "author": "Alpen Tesitin",
+    "ogImageAlt": "Alpen Tesitin Hotel - Luxury 5-star hotel with panoramic views of the Dolomites"
+  },
+  "HomePage": {
+    "main_title": "Alpen Tesitin – your dream 5-star hotel in Val Pusteria/Pustertal",
+    "main_description": "Our hotel in Val Pusteria/Pustertal, the Alpen Tesitin, is an insider tip if you're looking for something that bit special. For rest and comfort. For wellness and experiences in South Tyrol. Right before your eyes tower the awe-inspiring peaks of the Dolomites that dominate the view and whisk you away into a world of unrivalled beauty. Trees, open space, mountains, and sunshine outside. A harmonious feel-good ambience and luxurious comfort inside. Plus a close-knit team that intuitively grants your every wish. And a holiday that will stay in your heart forever.",
+    
+    "wellness_title": "Wellness",
+    "wellness_text": "A world of spacious pools and soothing saunas, with beauty area, hair salon, and gym, awaits you at our hotel in Welsberg, Taisten.",
+    
+    "architecture": "Architecture",
+    "cuisine": "Cuisine",
+    "panoramic_location": "Panoramic Location",
+    
+    "offers_title": "Hotel in Taisten: offers",
+    "offers_subtitle": "Are you longing for a romantic couple's weekend, an adventure-filled family holiday, or simply a getaway amidst nature? Our wide variety of offers will put a smile on everyone's face.",
+    "show_offers": "Show all offers",
+    
+    "testimonial_text": "Your hotel is one of the best places we have visited. The place, your staff, your spa, and your meals, all was perfect.",
+    "testimonial_author": "The Gennetay family",
+    
+    "holiday_title": "A holiday at the Alpen Tesitin - the heights of joy",
+    "holiday_text": "Here where majestic peaks touch the sky and nature flourishes in its purest form, holiday bliss awaits.",
+    
+    "experiences_title": "Experiences",
+    "experiences_text": "Here with us, the world's largest ski carousel and the legendary hiking trails of the Dolomites await you alongside solitary paths through snowy nature and thrilling bike routes to flower-filled Alpine meadows.",
+    "read_more": "Read More",
+    
+    "car_rental": "Car Rental",
+    "vouchers": "Vouchers",
+    "impressions": "Impressions",
+    
+ 
+    "slide1_title": "admiration",
+    "slide1_desc": "Enjoy the endless expanse of the infinity pool and let the water carry you as you admire the breathtaking scenery in the morning light.",
+    
+    "slide2_title": "indulgent breakfast (7.15 a.m. – 11 a.m.)",
+    "slide2_desc": "A symphony of fragrant espresso and creamy cappuccino plus crispy bread from the organic bakery, honey from the beekeeper in Taisten, fluffy waffles, the finest ham, and much more besides. Served on our hotel terrace in summer.",
+    
+    "slide3_title": "adventure",
+    "slide3_desc": "A rowing boat trip on Lake Braies/Pragser Wildsee, skiing at Mt Plan de Corones/Kronplatz, hiking in the Dolomites UNESCO World Heritage, or cross-country skiing in the winter peace of Val Casies/Gsieser Tal – no matter the season, there's so much to love in Alta Pusteria/Hochpustertal.",
+    
+    "slide4_title": "lunch buffet (12.30 p.m. – 4.30 p.m.)",
+    "slide4_desc": "Choose from fresh salads, fine antipasti, and tasty soups as well as homemade cakes and treats from the AT patisserie.",
+    
+    "slide5_title": "a spin",
+    "slide5_desc": "Mercedes, Porsche, or Lamborghini: Discover pure freedom on the pass roads in the Dolomites with our luxury car rental.",
+    
+    "slide6_title": "relaxation",
+    "slide6_desc": "Natural luxury is at your fingertips in our wellness world. Spacious pool areas, cosy sauna oases, and pampering treatments invite you to linger and dream.",
+    
+    "slide7_title": "aperitif",
+    "slide7_desc": "Settle in amidst the natural beauty of our hotel terrace, surrounded by majestic mountain peaks. Here, immersed in this glorious setting, an aperitif becomes an experience for all the senses.",
+    
+    "slide8_title": "gourmet dinner (6.45 p.m. – 8.45 p.m.)",
+    "slide8_desc": "The highlight of the day: an exquisite 5- to 7-course gourmet menu that takes you on a culinary journey through the aromas of South Tyrol and Italy.",
+    
+    "slide9_title": "cheers!",
+    "slide9_desc": "Enjoy our selection of excellent drinks while thinking back on the day's adventures. In our bar, you'll always find the right atmosphere to make new memories.",
+    
+    "slide10_title": "time to get cosy",
+    "slide10_desc": "Fall into the embrace of our lovely rooms and suites and treat yourself to some well-earned relaxation after an exciting day. Welcome to your personal oasis of well-being.",
+    "sideSection": {
+    "items": {
+        "wellness": {
+          "title": "Wellness",
+          "description": "A world of<link> spacious pools</link> and soothing saunas, with beauty area, hair salon, and gym, awaits you at our hotel in Welsberg, Taisten."
+        },
+        "architecture": {
+          "title": "Architecture",
+          "description": "Experience Alpine flair with a new twist: Styled with floor-to-ceiling glazing and a contemporary design, the Alpen Tesitin offers luxurious comfort in an ultramodern ambience."
+        },
+        "cuisine": {
+          "title": "Cuisine",
+          "description": "At our hotel in Val Pusteria/Pustertal, cuisine is transformed into an authentic experience. Because we're passionate about showing you the unique variety of South Tyrolean cuisine."
+        },
+        "panoramicLocation": {
+          "title": "Panoramic location",
+          "description": "Above Taisten, one of South Tyrol's \"sun villages\", amidst unspoilt meadows and dense forests, the Alpen Tesitin enjoys unrestricted views of the Dolomites UNESCO World Heritage."
+        }
+      },
+      "activities": {
+        "experiences": {
+          "title": "Experiences",
+          "description": "Here with us, the world's largest ski carousel and the legendary hiking trails of the Dolomites await you alongside solitary paths through snowy nature and thrilling bike routes to flower-filled Alpine meadows."
+        },
+        "carRental": {
+          "title": "Car rental",
+          "description": "Whether in a Porsche or Lamborghini – with its scenic mountain roads and legendary Dolomites passes, Val Pusteria/Pustertal offers a unique setting for unforgettable driving experiences."
+        },
+        "vouchers": {
+          "title": "Vouchers",
+          "description": "Treat your loved ones to moments that touch the heart in one of the most beautiful places in South Tyrol. The Alpen Tesitin, your hotel in Val Pusteria/Pustertal, awaits!"
+        },
+        "impressions": {
+          "title": "Impressions",
+          "description": "Click your way through our world of majestic Dolomites peaks and luxurious 5-star amenities – a sense of wonder is guaranteed!"
+        }
+      }
+    }
+},
+
+  "CarRentalPage": {
+    "title": "Car rental at the Alpen Tesitin",
+    "description": "Whether you travel without your car or want to feel pure freedom on the pass roads of the Dolomites, reserve the car of your dreams with us at the Alpen Tesitin and collect unforgettable driving experiences.",
+    "note": "Please note: Car rental is exclusively available to guests staying at the Alpen Tesitin.",
+    
+    "vwPolo": {
+      "title": "AT VW Polo",
+      "description": "VW Polo with manual transmission, liability insurance and will be handed over full to full. 1 day €45. From 5 days €35 per day"
+    },
+    
+    "bmwIx": {
+      "title": "BMW iX 60",
+      "description": "BMW iX 60 (fully electric) with a range of 701 km, 544 hp, automatic transmission, and all-wheel drive. Fully comprehensive insurance with a €1,000 deductible. Free charging at the hotel. 1 day: €95. From 5 days: €85 per day"
+    },
+    
+    "mercedesG500": {
+      "title": "Mercedes-Benz G 500",
+      "description": "Mercedes-Benz G 500 with automatic transmission and all-wheel drive has fully comprehensive insurance with an excess of €2,000 and will be handed over full to full. 1 day €380. From 5 days €320 per day"
+    },
+    
+    "porsche911": {
+      "title": "Porsche 911 Carrera 4 GTS (992)",
+      "intro": "Experience dream days in the Dolomites with dream cabriolets. Required: A minimum age of 30 years and a valid driving licence held for at least 10 years.",
+      "halfDay": "½ day (4 hours)",
+      "km150": "150 km",
+      "price330": "€ 330",
+      "oneDay": "1 day (8 hours)",
+      "km250": "250 km",
+      "price500": "€ 500",
+      "threeDays": "3 days",
+      "km700": "700 km",
+      "price1250": "€ 1.250",
+      "sixDays": "6 days",
+      "km1400": "1.400 km",
+      "price2400": "€ 2.400",
+      "tenDayPackage": "10-day package (01.05. – 31.10.)",
+      "km2200": "2.200 km",
+      "price3700": "€ 3.700",
+      "additionalKm": "Each additional kilometre €2.50",
+      "petrol": "Petrol full to full (98 or 100 octane – Super Plus)"
+    },
+    
+    "mercedesAMG": {
+      "title": "Mercedes-Benz AMG GTC",
+      "intro": "Savour the concentrated power of the Mercedes-Benz AMG GTC as you soar elegantly around the corners while conquering the roads of Val Pusteria/Pustertal. Required: A minimum age of 30 years and a valid driving licence held for at least 10 years.",
+      "halfDay": "½ day (4 hours)",
+      "km150": "150 km",
+      "price330": "€ 330",
+      "oneDay": "1 day (8 hours)",
+      "km250": "250 km",
+      "price500": "€ 500",
+      "threeDays": "3 days",
+      "km700": "700 km",
+      "price1250": "€ 1.250",
+      "sixDays": "6 days",
+      "km1400": "1.400 km",
+      "price2400": "€ 2.400",
+      "tenDayPackage": "10-day package (01.05. – 31.10.)",
+      "km2200": "2.200 km",
+      "price3700": "€ 3.700",
+      "additionalKm": "Each additional kilometre €2.50",
+      "petrol": "Petrol full to full (98 or 100 octane – Super Plus)"
+    },
+    
+    "lamborghini": {
+      "title": "Lamborghini Huracan Evo Spyder",
+      "intro": "Experience dream days in the Dolomites with dream cabriolets. Required: Sports-car experience, a minimum age of 40 years and a valid driving licence held for at least 10 years.",
+      "halfDay": "½ day (4 hours)",
+      "km150": "150 km",
+      "price620": "€ 620",
+      "oneDay": "1 day (8 hours)",
+      "km250": "250 km",
+      "price990": "€ 990",
+      "threeDays": "3 days",
+      "km700": "700 km",
+      "price2550": "€ 2.550",
+      "sixDays": "6 days",
+      "km1400": "1.400 km",
+      "price5000": "€ 5.000",
+      "tenDayPackage": "10-day package (01.05. – 31.10.)",
+      "km2200": "2.200 km",
+      "price8200": "€ 8.200",
+      "additionalKm": "Each additional kilometre €2.50",
+      "petrol": "Petrol full to full (100 octane – Super Plus)"
+    },
+    
+    "table": {
+      "rentalDuration": "Rental duration",
+      "included": "Included",
+      "rate": "Rate"
+    },
+    
+    "seeContract": "See the rental contract",
+    
+    "responsibility": {
+      "title": "Driving pleasure with responsibility",
+      "quote": "For every cabriolet drive, we plant new trees to offset CO2 emissions. That way, not only do unforgettable journeys remain, but also a sustainable contribution to nature.",
+      "signature": "Familie Feichter and the AT Team"
+    },
+    
+    "voucher": {
+      "title": "Say it with a voucher",
+      "subtitle": "… for sports-car lovers, open-top enthusiasts, and everyone who wants to experience driving thrills.",
+      "description": "You can buy vouchers for our car rental directly with us at the hotel. Please note that it is only possible to redeem these in conjunction with a hotel stay. If you have any questions, please feel free to contact us at any time."
+    }
+  },
+  
+  "LivePage": {
+    "heroTitle": "Our luxury hotel in South Tyrol with 5-star services",
+    "intro": "You'll find an abundance of <link>inclusive services</link> at the Alpen Tesitin. To whet your appetite for your holiday, here's a quick peek of all the luxury here of our hotel in South Tyrol.",
+    "services": {
+      "item1": "<strong>Indulgent breakfast buffet</strong> from 7:15 a.m. to 11 a.m.",
+      "item2": "<link>Lunch and afternoon buffet:</link> fresh and different every day, always prepared with love",
+      "item3": "Gourmet dinner with <strong>5- to 7-course gourmet menu</strong>",
+      "item4": "<strong>10 guided hikes or 6 guided snowshoe hikes</strong> per week. Explore the nature of Val Pusteria/Pustertal in both summer and winter.",
+      "item5": "<strong>3 guided ski days</strong> per week in winter",
+      "item6": "12<strong> relaxation sessions</strong> per week with morning exercises, water aerobics, yoga, back relaxation, stretching, legs, abs, and glutes training, and much more",
+      "item7": "<strong>Guest Pass:</strong> special conditions for participation in events and hikes organised by the tourist association; free use of public transport",
+      "item8": "<strong>Fun in the water:</strong> indoor pool (33°C) and outdoor pool (34°C) plus outdoor sun infinity pool (20x9m) with wow factor, 180° dream view, and a water temperature of 32°C",
+      "item9": "<strong>Spacious sauna area</strong> with phenomenal view of the Dolomites UNESCO World Heritage"
+    },
+    "button": "And much more",
+    "infoSections": {
+      "family": {
+        "title": "Are you travelling with your family?",
+        "text": "From spacious family rooms to child-friendly activities and services, we make sure you feel right at home in our luxury hotel in South Tyrol and can enjoy your stay to the fullest. During the day, you can explore the surroundings together, splash in the pool, or hit the ski slopes or bike trails. Because one thing is guaranteed: Family is at the heart of everything we do here, and we go above and beyond to transform your stay into an unforgettable experience for all ages."
+      },
+      "adventures": {
+        "title": "Adventures that transform into memories",
+        "text": "Whether you'll be scaling the peaks, hiking through flower-filled meadows, or simply enjoying the tranquillity of nature, our luxury hotel in South Tyrol offers you the ideal starting point for unforgettable experiences in our unique mountain world."
+      }
+    },
+    "holidayMagic": "Holiday magic is in the air<br/>at our luxury hotel in Val Pusteria/Pustertal"
+  },
+  
+  "InclusiveServicesPage": {
+    "heroTitle": "Our inclusive services – to make your holiday second-to-none",
+    "heroDescription": "The majestic view of the <strong>Prags Dolomites</strong>. The wondrously <strong>clear mountain air</strong>. The relaxingly <strong>friendly ambience</strong>. Your holiday at the Alpen Tesitin? Dedicated to refreshment, inner balance, and joie de vivre.<br/><br/>What else awaits you? Sweet idleness. Romance. A mouth-watering cocktail to sip while thinking back on a <link>fantastic day</link> and looking forward to an evening of culinary indulgence. Plus our fine <strong>inclusive services</strong>. For a holiday experience that's perfect in every respect.",
+    "accordion": {
+      "cuisine": {
+        "title": "Cuisine: indulgence³",
+        "intro": "Enjoy the finer things in life on your holiday in Val Pusteria/Pustertal with our <strong>¾ course gourmet board</strong>.",
+        "breakfast": {
+          "title": "Indulgent breakfast buffet from 7.15 a.m. to 11 a.m.",
+          "items": {
+            "item1": "We serve you fragrant espresso and creamy cappuccino to help you wake up. You can also look forward to crispy bread from the organic bakery, brioche that's still warm from the oven, delicious cakes from our in-house patisserie, fine ham from South Tyrol and other areas of Italy, flavoursome cheeses, organic egg dishes prepared to order, homemade spreads and honey from a beekeeper in Taisten, fruity juices and smoothies, fluffy waffles, and much, much more. Pure breakfast indulgence!",
+            "item2": "You can also order breakfast to be delivered to your room at any time through room service (for an additional fee)."
+          }
+        },
+        "lunch": {
+          "title": "Lunch and afternoon buffet: fresh and different every day, always prepared with love",
+          "items": {
+            "item1": "12.30 p.m. to 2 p.m.: warm lunch dish from the show kitchen",
+            "item2": "12.30 p.m. to 4.30 p.m.: Afternoon buffet with fresh salads and fine antipasti, tasty soups and crispy bread from the organic bakery, homemade cakes and treats from the AT patisserie",
+            "item3": "From 12.30 p.m.: Delicious fruit, vegetable sticks with dips, dried fruit and nuts, as well as a variety of teas and juices from our wellness bar",
+            "item4": "12.00 p.m. to 2 p.m.: exquisite à-la-carte lunch in our restaurant (for an additional fee)."
+          }
+        },
+        "dinner": {
+          "title": "Gourmet dinner with gourmet menu from 6.45 p.m. to 8.45 p.m.",
+          "items": {
+            "item1": "In the evening, our kitchen team pampers you with a 5- to 7-course gourmet menu. Embark on a culinary voyage through South Tyrol and the rest of Italy. You're also welcome to select your dinner from the à la carte menu. Aperitifs, speciality evenings, dessert buffets with sweet temptations, an exquisite gala dinner, and highlights from the show kitchen round off your gourmet experience."
+          }
+        },
+        "indulgence": {
+          "title": "Culinary indulgence from morning til night",
+          "items": {
+            "item1": "<strong>24-hour menu:</strong> We're delighted to pamper you with the finest à la carte dishes around the clock (for an additional fee).",
+            "item2": "Our sommeliers Gerold and Max passionately guide you through our <strong>world of wine with 365 labels.</strong>",
+            "item3": "The AT wine bunker with view of the awe-inspiring mountains is an impressive setting for the<strong> twice-weekly wine tastings</strong> (for an additional fee)."
+          }
+        }
+      },
+      "activities": {
+        "title": "Activities: active experiences",
+        "intro": "Discover the most <strong>stunning spots</strong> in the<strong> Dolomites</strong> and explore the fascinating nature around your holiday hideaway.",
+        "summer": {
+          "title": "In Summer",
+          "items": {
+            "item1": "<strong>10 guided hikes</strong>, mountain tours, and adventurous excursions per week",
+            "item2": "Rental of <strong>mountain bikes</strong> with helmet (complimentary)",
+            "item3": "Rental of <strong>gravel bikes</strong> with helmet (for an additional fee)",
+            "item4": "Rental of <strong>fully e-bikes</strong> including helmet (for an additional fee)",
+            "item5": "Two-wheeled dolce vita: <strong>Vespa rental</strong> including helmet (for an additional fee)"
+          }
+        },
+        "winter": {
+          "title": "In Winter",
+          "items": {
+            "item1": "6 <strong>guided snowshoe hikes</strong> per week",
+            "item2": "3 <strong>guided ski days</strong> per week: Discover the best ski areas in the Dolomites.",
+            "item3": "Our <strong>complimentary AT ski shuttles</strong> transport you to South Tyrol's number 1 ski area, Mt Plan de Corones/Kronplatz, in just 14 minutes"
+          }
+        },
+        "yearRound": {
+          "title": "Year-round",
+          "items": {
+            "item1": "12 <strong>relaxation sessions</strong> per week with morning exercises, water aerobics, yoga, back relaxation, stretching, legs, abs, and glutes training, and much more",
+            "item2": "Light-flooded, 140m² <strong>gym</strong> with captivating view of the Dolomites",
+            "item3": "Individual support from a <strong>personal trainer</strong> in the gym (for an additional fee)",
+            "item4": "Light-flooded, 100m² <strong>exercise and yoga room</strong>",
+            "item5": "<strong>Guest Pass:</strong> Special conditions for participation in events and hikes organised by the tourist association and free use of public transport (excluded: shuttle to Prato Piazza/Plätzwiese high plateau and Rifugio Auronzo and transport of dogs and bikes)",
+            "item6": "<strong>Complimentary rental:</strong> hiking and Nordic walking poles, backpacks, water bottles, hiking maps, snowshoes, and much more",
+            "item7": "<strong>Mountain corner:</strong> Mountain corner with hiking recommendations, maps, and much more",
+            "item8": "You'll receive all photos taken by our hiking guide during the hikes by WeTransfer in the original size (alternative: USB stick for €5)."
+          }
+        }
+      },
+      "wellness": {
+        "title": "Wellness: relax and enjoy",
+        "intro": "Pause for a moment. Listen to your own thoughts. Discover the joy of slowing down. And look forward to relaxing inclusive services.",
+        "items": {
+          "item1": "Spa bag, fluffy bathrobes, and soft AT slippers",
+          "item2": "<strong>Indoor pool</strong> (33°C) and <strong>outdoor pool</strong> (34°C) with unique view of the Dolomites for lovers of the finer things in life",
+          "item3": "Peak swimming bliss: outdoor <strong>sun infinity pool</strong> (20x9m) with wow factor, 180° dream view, and a water temperature of 32°C",
+          "item4": "<strong>Luxury infinity whirlpool</strong> (8x5m) with stunning view of the Dolomites and 36°C warm water; open to guests aged 16 and up",
+          "item5": "<strong>Infinity brine relax pool</strong> (8x5m) with salt water to drift and relax in at 36°C; nude area – open to guests aged 16 and up",
+          "item6": "<strong>Plunge pool</strong> (8x3m) with 14°C fresh mountain spring water; nude area – open to guests aged 16 and up",
+          "item7": "<strong>Our sauna world:</strong> infusion experience sauna, panoramic Finnish sauna, sauna made of kelo wood, bio-soft herbal sauna made of Swiss-pine wood, crystal aroma steam bath, brine steam bath, and infrared loungers; nude area – open to guests aged 16 and up",
+          "item8": "Bio-soft sauna and aroma steam bath in the <strong>clothed area around the swimming pool</strong>",
+          "item9": "12 excellently trained spa employees for <strong>treatments and massages</strong>",
+          "item10": "<strong>Panoramic sunbathing lawn</strong> with comfortable loungers, swings, and cosy nests (in summer)",
+          "item11": "In the sauna garden: sunbathing lawn featuring swings and loungers with mountain views (in summer, open to guests aged 16 and up)",
+          "item12": "Cosy niches and water beds in lovely <strong>panoramic relaxation rooms</strong>",
+          "item13": "<strong>Wi-Fi relaxation room</strong> with cosy beds",
+          "item14": "<strong>Wellness bar</strong> with fresh fruit and vegetable sticks with dips, dried fruits and nuts, as well as spring water, teas, and juices",
+          "item15": "Three <strong>sauna infusion events</strong> per day with varying themes",
+          "item16": "Daily <strong>herbal peels</strong> in the crystal aroma steam bath",
+          "item17": "Romantic firepit in the sauna garden (in winter)"
+        }
+      },
+      "kids": {
+        "title": "Our services for kids and teens",
+        "intro": "There's also plenty to keep kids and teens happy on your holiday in Val Pusteria/Pustertal.",
+        "items": {
+          "item1": "Fluffy bathrobes and AT slippers in children's and teenagers' sizes",
+          "item2": "<strong>Children's and teens'</strong> room with lots of highlights (chill-out corner, climbing wall, Lamborghini driving simulator, foosball, soft Lego, Fun4Four games table, and much more)",
+          "item3": "Fun in the water: <strong>Indoor pool</strong> (33°C) and <strong>outdoor pool</strong> (34°C) plus outdoor <strong>sun infinity pool</strong> (20x9m) with wow factor, 180° dream view, and a water temperature of 32°C",
+          "item4": "<strong>Bio-soft sauna</strong> and <strong>aroma steam bath</strong> in the clothed area around the swimming pool",
+          "item5": "Available to borrow when arranged in advance: kettle in your room, highchairs, cot, baby monitor, stroller, baby carrier for hiking",
+          "item6": "A selection of delicious kids' dishes"
+        }
+      }
+    }
+  },
+  
+  "RelaxPage": {
+    "heroTitle": "Your spa hotel in Val Pusteria/Pustertal with Dolomites views",
+    "heroDescription": "The Dolomites within reach, luxuriant nature just outside your window – in our<strong> spa hotel in Val Pusteria/Pustertal,</strong> you'll experience wellness in a setting that makes your heart skip a beat. During a dip in the indoor or outdoor pool, you'll be immersed in the awe-inspiring mountain panorama reflected in the crystal-clear water as your gaze drifts over the majestic peaks before you. The magic of the Dolomites even accompanies you in the heat of the sauna or while working up a sweat in the <link>gym and exercise room.</link> And as we pamper you in our treatment rooms, you'll be embraced by the beauty of nature and immersed in peace and comfort.",
+    "spaTitle": "A spa & sport hotel in Val Pusteria/Pustertal<br/>that revives your senses",
+    "relaxActivities": {
+      "warmth": {
+        "title": "Embraced by warmth",
+        "description": "Soothing herbal scents lead you through the spacious sauna area of our spa hotel in Val Pusteria/Pustertal. Just follow your nose, but keep your eyes open, too, because the view from our eight saunas and steam baths is simply stunning!"
+      },
+      "water": {
+        "title": "Surrounded by water",
+        "description": "All tension falls away in the year-round heated indoor and outdoor pool of our spa hotel in Val Pusteria/Pustertal, while a session in the bubbling whirlpool will leave you feeling reborn."
+      }
+    },
+    "infoSections": {
+      "pampered": {
+        "title": "Pampered by pros",
+        "text": "Savour the <link1>feeling of lightness</link1> and find a new zest for life thanks to the power of nature – in both<link2> winter</link2> and <link3>summer</link3>. The <strong>rich selection of massages and treatments</strong> at our spa hotel in Val Pusteria/Pustertal reflects the variety of South Tyrol and lets you find the treatment method that perfectly suits you and your needs. Our <strong>hair expert</strong> will also enhance your natural beauty with a new cut or a trendy hairstyle – for a special occasion or just because."
+      },
+      "revitalised": {
+        "title": "Revitalised by freshness",
+        "text": "It's well worth paying a visit to the <strong>spa bar</strong>. Fresh fruit and vegetable sticks with dips, dried fruit, spring water, teas, and juices are wonderfully refreshing – and it's a great place to stop for a friendly chat, too."
+      }
+    },
+    "activeHotel": {
+      "title": "Looking for an active hotel in South Tyrol?",
+      "description": "If you're fascinated by the Dolomites, you'll absolutely love our <strong>gym and exercise room</strong> with view of the Pale Mountains. It's open from <strong>7 a.m. to 10 p.m.</strong> – with professional guidance if you wish. Relaxation and fitness sessions such as yoga and stretching also regularly take place."
+    },
+    "catalog": {
+      "title": "Beauty catalog",
+      "download": "Download"
+    }
+  },
+  
+  "PoolPage": {
+    "heroTitle": "Aquatic refreshment at our hotel in Val Pusteria/Pustertal with pool",
+    "heroDescription": "Gentle water, mesmerising peace, and enchanting views – the water world of our <strong>hotel in Val Pusteria/Pustertal with pool</strong> is a place of magical <link>relaxation</link>. Whether you're drifting in the refreshing water or soaking up the sun on a poolside lounger.",
+    "poolData": {
+      "infinityPool": {
+        "title": "Highlight: sun infinity pool in Val Pusteria/Pustertal",
+        "specs": "(20x9m | 32°C)",
+        "text": "Swim on top of the world in our sun infinity pool. The interplay of crystal-clear water heated to 32°C and glorious views creates a magical atmosphere that invites you to leave everyday stress behind and surrender heart and soul to the moment. Our hotel with heated outdoor pool in South Tyrol promises wow moments and a dream 180° view."
+      },
+      "indoorPool": {
+        "title": "Panoramic indoor pool",
+        "specs": "(26m long | 34°C)",
+        "text": "Surrounded by floor-to-ceiling windows that open up an enchanting view of the majestic Dolomites, at our hotel in Val Pusteria/Pustertal with pool, you can take a dip while soaking up the beauty of nature. Or you can glide through the passthrough out into the outdoor pool – 26 metres long and heated to a pleasant temperature of 34°C all year round."
+      },
+      "brinePool": {
+        "title": "Infinity brine relax pool",
+        "specs": "(8x5m | 36°C)",
+        "text": "The warm brine softly caresses your skin and helps release all traces of tension. This pool will conquer your heart with its unique design and infinite views. In summer, you can then make yourself comfortable on the outdoor loungers, while warmth and tranquillity await you indoors in winter.<br /><br />Please note that the infinity brine relax pool is a nude area. Only open to guests aged 16 and up."
+      },
+      "whirlpool": {
+        "title": "Luxury infinity whirlpool",
+        "specs": "(8x5m | 36°C)",
+        "text": "Whether you're enjoying some relaxing me time or sharing the whirlpool with friends or your partner, this luxurious retreat with stunning Dolomites panorama offers you an unforgettable wellness experience. Let the bubbling water jets pamper you and experience a 36°C bathing experience that you won't forget in a hurry.<br /><br />Only open to guests aged 16 and up."
+      },
+      "plungePool": {
+        "title": "Plunge pool",
+        "specs": "(8x3m | 14°C)",
+        "text": "After a sauna session or hot shower at our hotel in Val Pusteria/Pustertal with pool, a quick dip in the plunge pool is a feel-good experience that stimulates your circulation and revitalises your body. The crisp 14°C mountain spring water makes you feel refreshed and revitalised.<br /><br />Please note that the plunge pool is a nude area. Only open to guests aged 16 and up."
+      }
+    }
+  },
+
+  "SaunaPage": {
+    "heroTitle": "Your hotel with sauna area in South Tyrol",
+    "heroDescription": "<strong> Every day from 12 noon to 7.30 p.m.</strong> at our <strong>hotel with sauna in South Tyrol</strong>, the door opens to a world of<link1> profound relaxation</link1>, where you can sit back in the soothing warmth and feel yourself filled with a renewed sense of buoyancy. It's a place where you'll not only enjoy the beneficial heat of our saunas, but also soak up phenomenal views of the<link2> Dolomites UNESCO World Heritage</link2>.",
+    "dailyInfusions": "3 sauna infusions & peels every day",
+    "saunaData": {
+      "infusionSauna": {
+        "title": "Infusion experience sauna",
+        "specs": "80-85°C | 10-20% humidity | nude area",
+        "text": "Our Finnish sauna in Val Pusteria/Pustertal, made of fine walnut wood, strengthens your immune system, trains your cardiovascular system, lowers blood pressure, cleanses your body, and relaxes your muscles. It also improves blood flow to the respiratory system and increases overall efficiency. Regular sauna sessions can prevent hyperacidity, slow skin ageing, and relieve headaches and migraines."
+      },
+      "panoramicSauna": {
+        "title": "Panoramic infusion sauna made of antique wood",
+        "specs": "75-80°C | 10-20% humidity | nude area",
+        "text": "A sauna for everyone, including beginners, with a fantastic effect: It boosts the immune system, activates the body's defences, trains the cardiovascular system, relaxes the muscles, improves blood flow to mucous membranes, boosts performance … and has a view you'll fall in love with!"
+      },
+      "bioSauna": {
+        "title": "Bio-soft herbal sauna made from Swiss-pine wood",
+        "specs": "60-65°C | 35-45% humidity | nude area",
+        "text": "A gentle sauna for newbies and people with circulatory issues. The blend of herbs (marigold, lemon balm, peppermint) from the Alpen Tesitin garden and the stunning view into the distance work in tandem to help you relax."
+      },
+      "finnishSauna": {
+        "title": "Finnish sauna made of kelo wood",
+        "specs": "90°C | 10-20% humidity | nude area",
+        "text": "The dry heat of the Finnish sauna is a panacea for experienced sauna fans. It boosts the body's defences and the cardiovascular system, relaxes the muscles, and helps signs of ageing, headaches, and migraines."
+      },
+      "crystalBath": {
+        "title": "Crystal bath",
+        "specs": "40-45°C | 100% humidity | nude area",
+        "text": "Here, the pores open up to let masks or peels penetrate deep into the lower layers of skin for even more effective nourishment. The immune system is also strengthened, the circulation is stimulated, and the airways are freed."
+      },
+      "brineBath": {
+        "title": "Sorapis brine steam bath",
+        "specs": "40-45°C | 100% humidity | nude area",
+        "text": "Enjoy the ideal combination of heat, salt, and humidity in the brine steam bath. It has a tension-relieving, cleansing, nurturing, and relaxing effect."
+      },
+      "infraredLoungers": {
+        "title": "Infrared loungers",
+        "specs": "38-55°C | clothed area",
+        "text": "While you relax on the lounger, the radiated heat increases your body temperature from within. This helps you achieve a good sweat without putting strain on the body, meaning it's especially popular with people who are sensitive to heat."
+      }
+    },
+    "steamBath": {
+      "title": "Clothed steam bath",
+      "temperature": "40–42°C",
+      "humidity": "100% humidity",
+      "area": "clothed area",
+      "description": "Especially gentle on the body, making it ideal for sauna newbies as well as children and teens. The high humidity helps with respiratory issues and has an antibacterial effect."
+    },
+    "bioSauna": {
+      "title": "Clothed bio sauna",
+      "temperature": "50–60°C",
+      "humidity": "30–40% humidity",
+      "area": "clothed area",
+      "description": "Fragrant herbs from our garden (marigold, lemon balm, peppermint) not only promote well-being, but also have a beneficial effect on mood, metabolism, and circulatory system."
+    },
+    "havenSection": {
+      "title": "Peaceful havens that invite you to dream",
+      "description": "Wellness and the Dolomites are an extraordinary combination. Simply gaze out through the panoramic windows that await you in all <strong>four relaxation areas</strong> of our wellness hotel and you'll be filled with a unique sense of calmness and serenity. Cosy niches and water beds await you in the stunning panoramic relaxation room, and other small, lovely relaxation rooms also invite you to linger. In summer, when the sun is high in the sky, there's nothing better than soaking up the peace of nature on the <strong>spacious sunbathing lawn</strong> and snuggling up in the comfortable loungers, chairs, and cosy niches."
+    }
+  },
+  
+  "GymPage": {
+    "heroTitle": "Your wellness hotel with gym and view of the Dolomites",
+    "heroDescription": "At the heart of the majestic <link1>Dolomites</link1>, besides the awe-inspiring views, you'll also find our <strong>wellness hotel with gym</strong>, which is just waiting to exhilarate your senses and bring your fitness goals within reach. Treat yourself to a training session with a view and experience the <link2>power of nature</link2><strong> inspiring you to new heights of performance </strong> - and then relax in our <link3>sublimely beautiful wellness world</link3>.",
+    "gymHours": "Our gym:<br></br>open for you from 7 a.m. to 10 p.m. every day!",
+    "gymSection": {
+      "title": "What will it be today?",
+      "description": "Discover our gym with <strong>the latest equipment</strong> – or take part in our active programme. You can look forward to a <link>varied range of activities</link> every day, including <strong>morning exercises</strong>, yoga, <strong>healthy back training</strong>, stretching, <strong>legs, abs, and glutes training</strong>, and much more."
+    },
+    "activities": {
+      "skiing": {
+        "title": "Skiing"
+      },
+      "crossCountry": {
+        "title": "Cross-country skiing"
+      },
+      "snowshoeing": {
+        "title": "Snowshoeing"
+      },
+      "hiking": {
+        "title": "Hiking"
+      },
+      "biking": {
+        "title": "Biking"
+      }
+    }
+  },
+  
+  "ExperiencePage": {
+    "heroTitle": "Your 5-star sport hotel in South Tyrol",
+    "heroDescription": "The Alpen Tesitin, your<strong> sport hotel in South Tyrol</strong>, is your gateway to a bona fide paradise. Step inside and discover the endless magic of a world full of adventures and unforgettable natural experiences.",
+    "seasons": {
+      "winter": {
+        "title": "Winter",
+        "description": "The crystal-clear mountain air, snow-bound Dolomites peaks, and thrilling ski runs of Mt Plan de Corones/Kronplatz, South Tyrol's no. 1 ski mountain – <a href='/winter'>in winter</a>, Val Pusteria/Pustertal exudes its own, special charm."
+      },
+      "summer": {
+        "title": "Summer",
+        "description": "<a href='/summer'>Summer</a> lets you discover the intrinsic peace of nature and effortlessly escape the daily grind, surrounded by dense forests, wild meadows, and a majestic mountain panorama."
+      }
+    },
+    "infoSections": {
+      "wonderDay": {
+        "title": "A day filled with wonder",
+        "text": "Unparalleled adventures await you against the backdrop of the majestic Dolomites, legendary Mt Plan de Corones/Kronplatz, and the world-famous Three Peaks. No matter whether you explore nature while hiking, biking, or indulging or scale peaks with skis, cross-country skis, or snowshoes on your feet, you'll find an active paradise that's in a class of its own around our sport hotel in South Tyrol. Dive right in and marvel at the beauty of nature in Val Pusteria/Pustertal. Get ready to fall in love!"
+      },
+      "seasonsMagic": {
+        "title": "The magic of the seasons",
+        "text": "Experience spring, when the Alpine meadows are bursting with colourful blooms. Enjoy summer, when the lush nature is caressed by a pleasant breeze. Admire autumn, when the views from the peaks reach impressively far. Or immerse yourself in winter, when Val Pusteria/Pustertal transforms into a snow-bound winter wonderland and snowflakes dance gently down from the sky. At the Alpen Tesitin, your sport hotel in South Tyrol, each season has its own, incomparable charm. Find out for yourself!"
+      }
+    },
+    "luxuryCar": {
+      "title": "The sport hotel in Val Pusteria/Pustertal with <br /> luxury cabriolet rental",
+      "description": "Unadulterated luxury on the majestic pass roads of the Dolomites. The wind in your hair, a feeling of freedom in your heart. Rent one of the <link>luxury cabriolets</link> at our sport hotel in South Tyrol and experience the unbridled power of nature while soaking up the <strong>beauty of our iconic routes</strong>. As the glorious scenery passes by and your horizons expand, you'll feel more alive than ever before."
+    },
+    "topThree": {
+      "title": "Our Top 3",
+      "subtitle": "at our active hotel in South Tyrol",
+      "items": {
+        "item1": "Explore the winter paradise on the sunny <strong>cross-country ski trails in Val Casies/Gsieser Tal</strong>",
+        "item2": "Admire the glittering <strong>beauty of Lake Braies/Pragser Wildsee</strong>, Lake Dobbiaco/Toblacher See, and Lake Landro/Dürrensee with your own eyes",
+        "item3": "Discover the secluded <strong>peace of Mt Luta/Lutterkopf</strong> on a hike and experience nature in all its unspoilt beauty"
+      }
+    }
+  },
+  
+  "CuisinePage": {
+    "heroTitle": "Our gourmet hotel in South Tyrol: indulgence galore",
+    "heroDescription": "At our<strong> gourmet hotel in South Tyrol</strong>, passion for creative cuisine and love for<link> our homeland </link> fuse together to create an unrivalled culinary experience. Once you've tasted South Tyrol's mouth-watering specialities, you'll always be longing for more. The intensive aromas, tempting fragrances, and abundance of regional products that await you at the Alpen Tesitin will make every foodie's heart rejoice.",
+    "cuisineItems": {
+      "breakfast": {
+        "title": "Indulgent breakfast",
+        "description": "<strong>(7.15 a.m. - 11 a.m.)</strong><br/><br/> Fragrant espresso and creamy cappuccino, crispy bread from the <strong>organic bakery</strong>, fresh pastries and cakes from our patisserie, the finest ham and cheeses, as well as <strong>organic egg dishes</strong> prepared to order. Plus home-made spreads and honey from the local beekeeper, fruit juices, smoothies, and fluffy waffles. Can also be served in your room all day long (for an additional fee)."
+      },
+      "lunch": {
+        "title": "Lunch buffet",
+        "description": "<strong>(12.30 p.m. – 4.30 p.m.)</strong><br/>You have four options for lunch:<br/><br/><ul><li>A hot <strong>lunch prepared in our show kitchen</strong> (12.30 p.m. – 2 p.m.)</li><li>Fresh salads, delicious antipasti, warming soups, and a selection of bread, cakes, and other treats from our <strong>AT patisserie</strong> (12.30 p.m. – 4.30 p.m.)</li><li>Delicious fruit, vegetable sticks with dips, dried fruit and nuts, as well as a variety of teas and juices from our <strong>wellness bar</strong> (from 12.30 p.m.)</li><li>Or, for an additional fee, an exquisite <strong>à-la-carte lunch</strong> in our restaurant (12 p.m. – 2 p.m.)</li></ul>"
+      },
+      "dinner": {
+        "title": "Gourmet dinner",
+        "description": "<strong>(6.45 p.m. – 8.45 p.m.)</strong><br/><br/>A <strong>5- to 7-course indulgent journey</strong> through the culinary variety of South Tyrol and the rest of Italy or an <strong>à-la-carte dinner</strong>? You have the freedom to choose every day. You can also regularly look forward to aperitifs, special themed evenings, tempting dessert buffets, exclusive gala dinners, and live cooking shows. We're happy to<strong> cater to your individual needs</strong> and recommend selected wines from the AT wine bunker."
+      }
+    },
+    "menus": {
+      "menu": "See the menu",
+      "wineList": "See the wine list",
+      "barMenu": "See the bar menu"
+    },
+    "slideData": {
+      "item1": {
+        "time": "9 a.m.",
+        "title": "indulgent breakfast",
+        "description": "A symphony of fragrant espresso and creamy cappuccino plus crispy bread from the organic bakery, honey from the beekeeper in Taisten, fluffy waffles, the finest ham, and much more besides. In summer, served on our hotel terrace. <br/><br/>When? 7.15 a.m. to 11 a.m. – or, for an additional fee, in your room whenever you wish"
+      },
+      "item2": {
+        "time": "12:30 p.m.",
+        "title": "vitality buffet",
+        "description": "Enjoy our vitality buffet at the wellness bar, which awaits you with fresh fruit and vegetable sticks with dips, dried fruits and nuts, and a wide range of teas and refreshing juices.<br/><br/>When? From 12.30 p.m."
+      },
+      "item3": {
+        "time": "1 p.m.",
+        "title": "à la carte",
+        "description": "Enchant your senses with the exquisite à la carte dishes in our restaurant (for an additional fee), which will leave your stomach and heart wonderfully full.<br/><br/>When? 12 p.m. to 2 p.m."
+      },
+      "item4": {
+        "time": "1.30 p.m.",
+        "title": "show cooking",
+        "description": "In our show kitchen, we conjure up tasty lunch options every day that tantalise your taste buds and treat you to moments of pure indulgence.<br/><br/>When? 12.30 p.m. to 2 p.m."
+      },
+      "item5": {
+        "time": "3 p.m.",
+        "title": "afternoon buffet",
+        "description": "Choose from fresh salads, fine antipasti, and tasty soups as well as homemade cakes and treats from the AT patisserie.<br/><br/>When? 12.30 p.m. to 4.30 p.m."
+      },
+      "item6": {
+        "time": "7.00 p.m.",
+        "title": "wine tasting",
+        "description": "The AT wine bunker with view of the awe-inspiring mountains is an impressive setting for the twice-weekly wine tastings (for an additional fee).<br/><br/>When? Twice a week"
+      },
+      "item7": {
+        "time": "8.30 p.m.",
+        "title": "gourmet dinner",
+        "description": "The highlight of the day: an exquisite 5- to 7-course gourmet menu that takes you on a culinary voyage through the aromas of South Tyrol and the rest of Italy.<br/><br/>When? 6.45 p.m. to 8.45 p.m."
+      },
+      "item8": {
+        "time": "9.30 p.m.",
+        "title": "cheers!",
+        "description": "Enjoy our selection of excellent drinks while thinking back on the day's adventures. In our bar, you'll always find the right atmosphere to make new memories.<br/><br/>When? During the bar's opening times"
+      },
+      "item9": {
+        "time": "11 p.m.",
+        "title": "hungry?",
+        "description": "Morning, afternoon, evening, or night – with our 24-hour menu, culinary delights await you at any time of the day or night."
+      }
+    },
+    "chefSection": {
+      "title": "Let us introduce you our head chef Michael",
+      "description": "Our head chef along with his first-class kitchen team, tirelessly wield their wooden spoons every day and serve you <strong>traditional dishes with a pinch of international flair</strong>. Experience our creative daily menu combinations and let our gourmet hotel in South Tyrol whisk you away on a culinary voyage that will enchant your senses."
+    },
+    "quoteSection": {
+      "quote": "\"Fresh ingredients, honest cooking – that's my thing.\"",
+      "chefName": "Head chef Michael"
+    },
+    "introSection": {
+      "title": "Cuisine at the Alpen Tesitin:",
+      "subtitle": "an unforgettable experience",
+      "description": "<underlineText>Our hearts</underlineText> beat for introducing you to the incomparable variety of South Tyrolean cuisine – an earnest promise that we passionately keep from sunrise to sunset at our gourmet hotel in South Tyrol."
+    }
+  },
+  
+  "SummerPage": {
+    "heroTitle": "Summer holidays in Val Pusteria/Pustertal – a dream come true",
+    "heroDescription": "The Alpen Tesitin stands in a <link1>prime location </link1>in the \"sun village\" of Taisten, making it the perfect base camp for <strong>summer holidays in Val Pusteria/Pustertal</strong>. Here – surrounded by dense forests, wild meadows, and a majestic mountain panorama – you can discover the intrinsic peace of nature and effortlessly escape the daily grind. No matter whether you prefer the <link2>gentle trails</link2> through the pastures of Val Casies/Gsieser Talor the awe-inspiring peaks of the Dolomites, whether you're planning a relaxed day with your family or an action-packed adventure with friends – a world of options is available around our hotel!",
+    "weeklyProgramme": {
+      "title": "Weekly programme",
+      "description": "There's always something to do in Val Pusteria/Pustertal – as we locals well know. That's why it's so easy for us to create a wonderfully varied weekly programme for you that shows you all the most beautiful spots and highlights of your holiday region!",
+      "link": "See the weekly programme"
+    },
+    "activities": {
+      "hiking": {
+        "title": "Hiking"
+      },
+      "biking": {
+        "title": "Biking"
+      },
+      "climbing": {
+        "title": "Climbing"
+      },
+      "action": {
+        "title": "Action & Adventure"
+      }
+    },
+    "golf": {
+      "title": "Golf",
+      "description": "Perfect shots amidst dream scenery are par for the course around the Alpen Tesitin. Our favourite courses? We're more than happy to share them with you."
+    },
+    "golfClubs": {
+      "pustertal": {
+        "title": "Golf club Pustertal | Bruneck",
+        "description": "Golf Club Pustertal at the foot of Mt Plan de Corones/Kronplatz offers an extensive 9-hole course – par 33 spanning 2,690m, partly in the forest and partly in the open. The wide range of options offered by the holes and modern practice course are a real draw for beginners, seasoned golfers, and ambitious tournament challengers, as are the professional lessons and the <strong>clubhouse with restaurant, bar, and sun terrace.</strong>"
+      },
+      "mirabell": {
+        "title": "Golf club Mirabell | Olang",
+        "description": "Golf Club Mirabell is an excellent place for <strong>pros to train</strong> and <strong>beginners to learn the ropes</strong>. The small but excellently maintained 3-hole course with driving range features a pond and a small stream, as well as grass groomed to perfection. A real treat for your golf holiday in the Dolomites!"
+      },
+      "dolomitengolf": {
+        "title": "Golf club Dolomitengolf | East-Tyrol",
+        "description": "36 holes set <strong>against the skyline of the Lienz Dolomites</strong> await you at Golf Club Dolomitengolf near the sunny city of Lienz. Look forward to a fantastically tended facility set amidst unspoilt nature and featuring wetland areas, biotopes, pristine flora and fauna, and a pleasant southern climate. By the way: The Dolomitengolf Academy is one of the top professional golf schools in Austria."
+      },
+      "cortina": {
+        "title": "Golfclub Cortina | Cortina d'Ampezzo",
+        "description": "Historic Golfclub Cortina is located between the <strong>imposing Dolomites peaks</strong> of Mt Faloria and Mt Cristallo and offers golfers a challenging game throughout the year. Besides the 9-hole course and an indoor training facility for the winter months, you can also look forward to an elegant clubhouse that boasts a <strong>renowned gourmet restaurant</strong>."
+      },
+      "altaBadia": {
+        "title": "Golfclub Alta Badia | Corvara",
+        "description": "Par 72, 9-hole Golf Club \"Tranrüs\" in Alta Badia is <strong>one of the highest golf courses throughout Europe</strong>. Nestled in the majestic landscape of the Dolomites, at the foot of Mt Sassongher and the Sella Group, this course gives golfers the opportunity to improve their game amidst stunning natural scenery and relax in the <strong>Alpine</strong> clubhouse from June to October."
+      }
+    },
+    "tennis": {
+      "title": "Tennis",
+      "description": "With its glorious panoramas, <strong>excellently equipped tennis facilities</strong>, and qualified instructors, Alta Pusteria/Hochpustertal is an absolute paradise for tennis lovers. <strong>Rent racquets and equipment when you arrive</strong> and lose yourself in gripping outdoor or indoor matches. Who knows: Perhaps your next serve will take inspiration from <strong>Jannik Sinner, who discovered his passion for tennis here.</strong>"
+    },
+    "guestPass": {
+      "title": "Included on your summer holiday in South Tyrol: <br /> GUEST PASS",
+      "description": "Your ticket for free travel on all public transport throughout South Tyrol and participation in the varied weekly programme of the local tourist association."
+    },
+    "tips": {
+      "title": "Tips for action and experiences?",
+      "button": "Right here."
+    }
+  },
+  
+  "WinterPage": {
+    "heroTitle": "Planning a winter holiday in Val Pusteria/Pustertal?",
+    "heroDescription": "A <strong>winter holiday in Val Pusteria/Pustertal</strong> guarantees extraordinary experiences every single year. But the region really shows how beautiful it can be when a sparkling blanket of snow is draped across the land. The <strong>crystal-clear mountain air</strong>, the crunching of snow under your boots, and the majestic beauty of the snowy Dolomites creates an atmosphere that couldn't be more magical.",
+    "weeklyProgramme": {
+      "title": "Weekly programme",
+      "description": "There's always something to do in Val Pusteria/Pustertal – as we locals well know. That's why it's so easy for us to create a wonderfully varied weekly programme for you and your family that shows you all the most beautiful spots and highlights of your holiday region!",
+      "link": "See the weekly programme"
+    },
+    "activities": {
+      "skiing": {
+        "title": "Skiing",
+        "description": "A <a href='/experience/skiing'>ski holiday</a> at the Alpen Tesitin? Absolutely legendary! Just a short distance from our hotel, you'll find not only the sunny ski slopes of<strong> Mt Plan de Corones/Kronplatz, South Tyrol's no. 1 ski mountain,</strong> but also 12 interconnected ski areas and 1,200 kilometres of perfectly groomed runs that you can access with just one ski pass. And it's all thanks to Dolomiti Superski!"
+      },
+      "crossCountry": {
+        "title": "Cross-country skiing",
+        "description": "Are you dreaming of gliding along stunning trails amidst unspoilt scenery? With <strong>over 1,300 kilometres of perfectly groomed routes </strong>and guaranteed snow from Christmas to March, an unrivalled cross-country skiing paradise awaits you around the Alpen Tesitin."
+      },
+      "snowshoeing": {
+        "title": "Snowshoeing",
+        "description": "Have you always longed to explore the Dolomites with snowshoes on your feet? Blissful moments,<strong> panoramic peaks</strong>, and enchanting snowscapes await you around our hotel."
+      },
+      "winterHiking": {
+        "title": "Winter hiking",
+        "description": "Winter hiking in the Dolomites is a fantastic experience. The snow crunching underfoot, white expanses that reach as far as the eye can see, the invigorating winter air – simply divine! The best thing about spending your holiday in the Mt Plan de Corones/Kronplatz holiday region is that three magnificent mountain settings are within easy reach: Winter hiking in the Dolomites today, the <strong>Gruppo delle Vedrette di Ries-Aurina/Rieserfernergruppe</strong> tomorrow, and maybe the <strong>Deferegg Alps</strong> the day after. And a tour on the snow-bound <a href='/experience/attractions-distances'>Prato Piazza/Plätzwiese high plateau</a> near Prags is a real must!"
+      }
+    },
+    "infoSections": {
+      "iceSkating": {
+        "title": "Ice-skating in the park",
+        "text": "From <strong>mid-November to the end of January</strong>, Prenninger Park in Welsberg invites you to ice-skate in an enchanting setting. Rent your skates there and glide elegantly over the ice."
+      },
+      "tobogganing": {
+        "title": "Fancy a little tobogganing fun?",
+        "text": "<strong>Malga di Tesido/Taistner Alm pasture</strong><br/><br/>The family-friendly toboggan run to the catered hut on the Malga di Tesido di Fuori/Vordere Taistneralm pasture starts<strong> less than 10 minutes away from the Alpen Tesitin.</strong> Once you've arrived at the top, you can enjoy delicious South Tyrolean cuisine and a view of our local mountain, Mt Roda di Scandole/Rudlhorn.<br/><br/><strong>Uwald Alm pasture (Gsies)</strong><br/>From the Talschluss hut in St. Magdalena, route 12 leads you up to<strong> 2,403m-high Uwald Alm pasture.</strong> Enjoy the glorious view over the valley before zooming back down to your starting point.<br/><br/><strong>Mt Baranci/Haunold (Innichen)</strong><br/>Loved by kids and grown-ups alike: the toboggan run <strong>in the Realm of the Giant Baranci</strong> (known as Haunold in German). If you're not in the mood for skiing, grab a toboggan and whizz gleefully down the 2km-long run. The four-seater chairlift lets you reach the top of the run in comfort.<br/><br/><strong>Mt Croda Rossa/Rotwand (Sexten)</strong><br/>With its legendary 5km descent<strong> at the heart of the Sexten Dolomites,</strong> this toboggan run promises exciting tobogganing adventures. And thanks to the cable car, you can reach the top in just 6 minutes!"
+      }
+    },
+    "guestPass": {
+      "title": "Included on your winter holiday in South Tyrol: <br /> GUEST PASS",
+      "description": "Your ticket for free travel on all public transport throughout South Tyrol and participation in the varied weekly programme of the local tourist association."
+    },
+    "tips": {
+      "title": "Tips for action and experiences?",
+      "button": "Right here."
+    }
+  },
+  
+  "CarPage": {
+    "heroTitle": "Rent your sports car in the Dolomites!",
+    "heroDescription": "Do you want to<strong> rent a sports car and explore the Dolomites?</strong> Then Val Pusteria/Pustertal is the ideal starting point for your adventures. With its scenic mountain roads and the legendary Dolomites passes, the<link1> region </link1>offers a unique setting for unforgettable driving experiences. Whether you explore famous passes like <strong>Passo Giau pass, Passo Falzarego pass,</strong> or <strong>Passo Tre Croci pass</strong>, Val Pusteria/Pustertal promises incomparable driving pleasure on corner-filled roads with phenomenal panoramic views. Get ready for the adventure of a lifetime and experience the Dolomites from a whole new perspective – from <link2>behind the wheel of your dream car!</link2>",
+    "note": {
+      "title": "Please note:",
+      "text": "Car rental is only available in conjunction with a stay at the Alpen Tesitin. <br /> The lessee must have held a valid driving licence for at least 10 years."
+    },
+    "tableHeaders": {
+      "duration": "Rental duration",
+      "included": "Included",
+      "rate": "Rate"
+    },
+    "cars": {
+      "mercedesPorsche": {
+        "title": "A Mercedes-Benz or Porsche: Which takes your fancy?",
+        "description": "The legendary Porsche 911 Carrera 4 GTS (992) is the essence of performance, style, and luxury and promises a driving experience that stimulates your senses. With its elegant design and impressive power, the iconic sports car is a unique <strong>combination of aesthetics and dynamism</strong>. Its striking exterior and powerful engine make the Mercedes-Benz AMG GTC a real eye-catcher.",
+        "accordion": {
+          "title": "Mercedes-Benz AMG GTC & Porsche 911 Carrera 4 GTS (992)",
+          "description": "Savour the concentrated power of the Mercedes-Benz AMG GTC and Porsche 911 Carrera 4 GTS (992) as you soar elegantly around the corners while conquering the roads of Val Pusteria/Pustertal.<br /><br/>Required: A minimum age of 30 years and a valid driving licence held for at least 10 years."
+        },
+        "rentalOptions": {
+          "halfDay": {
+            "duration": "½ day (4 hours)",
+            "km": "150 km",
+            "price": "€ 330"
+          },
+          "fullDay": {
+            "duration": "1 day (8 hours)",
+            "km": "250 km",
+            "price": "€ 500"
+          },
+          "threeDays": {
+            "duration": "3 days",
+            "km": "700 km",
+            "price": "€ 1.250"
+          },
+          "sixDays": {
+            "duration": "6 days",
+            "km": "1.400 km",
+            "price": "€ 2.400"
+          },
+          "tenDayPackage": {
+            "duration": "10-day package (01.05. – 31.10.)",
+            "km": "2.200 km",
+            "price": "€ 3.700"
+          }
+        },
+        "footer": {
+          "extraKm": "Each additional kilometre €2.50",
+          "fuel": "Petrol full to full (98 or 100 octane – Super Plus)",
+          "contract": "See the rental contract"
+        }
+      },
+      "lamborghini": {
+        "title": "Make your dream of hiring a Lamborghini come true!",
+        "description": "This masterpiece of engineering combines the ultimate performance with unrivalled elegance and offers you a driving experience that exceeds all your expectations. The powerful engine, aerodynamic design, and the roof that glides gently open above your head let you feel the rhythm of the road. Every corner, every moment behind the wheel of this super sports car transforms into a driving experience you'll remember for years to come. Ready to hire your Lamborghini?",
+        "accordion": {
+          "title": "Lamborghini Huracán EVO Spyder",
+          "description": "Experience dream days in the Dolomites with dream cabriolets. <br /><br/>Required: Sports-car experience, a minimum age of 40 years and a valid driving licence held for at least 10 years."
+        },
+        "rentalOptions": {
+          "halfDay": {
+            "duration": "½ day (4 hours)",
+            "km": "150 km",
+            "price": "€ 620"
+          },
+          "fullDay": {
+            "duration": "1 day (8 hours)",
+            "km": "250 km",
+            "price": "€ 990"
+          },
+          "threeDays": {
+            "duration": "3 days",
+            "km": "700 km",
+            "price": "€ 2.550"
+          },
+          "sixDays": {
+            "duration": "6 days",
+            "km": "1.400 km",
+            "price": "€ 5.000"
+          },
+          "tenDayPackage": {
+            "duration": "10-day package (01.05. – 31.10.)",
+            "km": "2.200 km",
+            "price": "€ 8.200"
+          }
+        },
+        "footer": {
+          "extraKm": "Each additional kilometre €4.50",
+          "fuel": "Petrol full to full (100 octane – Super Plus)",
+          "contract": "See the rental contract"
+        }
+      }
+    }
+  },
+
+  "MagicMoments": {
+    "heroTitle": "Our guests' magic moments",
+    "heroDescription": "A magic moment fills your heart with joy. That's what we believe here at the <link>Alpen Tesitin </link> – and that's confirmed by all the special experiences shared by our guests and friends during their stay with us.",
+    "testimonial": {
+      "greeting1": "Hello,",
+      "greeting2": "thanks for your message.",
+      "message": "We just want to say to you that we have spent one week in your hotel and it was one of the best places we have visited. We have already visited four Belvita hotel and yours was the best !",
+      "compliment": "The place, your staff, your SPA and your meals, all was perfect.",
+      "promise": "We will come back.",
+      "closing": "Best regards,",
+      "signature": "The GENNETAY family"
+    }
+  },
+  
+  "InfoPage": {
+    "heroTitle": "All information at a glance",
+    "heroDescription": "We invite you to find out more about the fascinating world of the<link> Alpen Tesitin</link>, where <strong>each detail has been lovingly designed</strong> to ensure each moment here is memorable. Admire our views, learn more about our amenities, find the answers to frequently asked questions, and discover how we turn your stay into an unforgettable experience. Welcome to the Alpen Tesitin – where dreams come true and heart-warming memories are created.",
+    "activities": {
+      "photos": {
+        "title": "Photos & videos"
+      },
+      "information": {
+        "title": "Useful information"
+      },
+      "carRental": {
+        "title": "Car rental"
+      },
+      "giftVouchers": {
+        "title": "Gift Vouchers"
+      },
+      "gettingHere": {
+        "title": "Getting here"
+      }
+    }
+  },
+  
+  "PhotosVideos": {
+    "heroTitle": "A symphony of natural beauty and luxury",
+    "heroDescription": "A world of rugged Dolomites peaks and 5-star luxury, unforgettable experiences and the heights of indulgence – dive into our inspiring picture gallery and fall in love before you even <link>arrive.</link>",
+    "filters": {
+      "all": "All",
+      "hotel": "Hotel",
+      "architecture": "Architecture",
+      "wellness": "Wellness",
+      "cuisine": "Cuisine",
+      "video": "Video",
+      "social": "Social Media Wall"
+    },
+    "mediaItems": {
+      "item1": {
+        "alt": "Hotel exterior in winter"
+      },
+      "item2": {
+        "alt": "Hotel lobby"
+      },
+      "item3": {
+        "alt": "Hotel reception area"
+      },
+      "item4": {
+        "alt": "Decorative chandelier"
+      },
+      "item5": {
+        "alt": "Indoor pool"
+      },
+      "item6": {
+        "alt": "Spa area"
+      },
+      "item7": {
+        "alt": "Restaurant"
+      },
+      "item8": {
+        "alt": "Hotel video"
+      },
+      "item9": {
+        "alt": "Social media photo"
+      },
+      "item10": {
+        "alt": "Restaurant"
+      },
+      "item11": {
+        "alt": "Restaurant"
+      },
+      "item12": {
+        "alt": "Restaurant"
+      }
+    }
+  },
+  
+  "GettingHere": {
+    "heroTitle": "Where nature welcomes you with open arms",
+    "heroDescription": "The journey to the Alpen Tesitin in Alta Pusteria/Hochpustertal is an awe-inspiring experience in and of itself. The majestic mountains and verdant Alpine meadows all around will awaken your longing for unforgettable adventures.",
+    "rentCarButton": "Rent your dream car on holiday",
+    "mapTitle": "Alpen Tesitin location on Google Maps",
+    "tips": {
+      "title": "Tips for reaching us",
+      "description": "We're happy to share our tips for enjoying a stress-free, comfortable journey to your <link>holiday paradise</link> and savouring every moment to the fullest."
+    },
+    "transportation": {
+      "car": {
+        "title": "Arriving by car",
+        "description": "Are you travelling from the north, south, or west? Follow the route over the Brenner motorway to the Brixen-Val Pusteria/Pustertal exit and then continue along the Val Pusteria/Pustertal state road for around 60 kilometres until you reach Welsberg. Turn left towards Gsies/Taisten directly after entering the village. Once you arrive in Taisten, follow the signs to the Alpen Tesitin past idyllic meadows and forests. Enjoy the one-of-a-kind views during your journey and marvel at the beauty of the surrounding nature. (Important: Selecting the \"fastest route\" might lead you over a somewhat uncomfortable mountain road.)<br /><br />The route from the east via Lienz leads over the Austrian-Italian border. From the border, follow the state road to Welsberg and then turn right towards Gsies/Taisten. Once you arrive in Taisten, follow the signs to the Alpen Tesitin past idyllic meadows and forests. You'll be sure to fall in love with the stunning views that accompany your journey."
+      },
+      "train": {
+        "title": "Arriving by train",
+        "description": "Enjoy a relaxed journey with Italy's Trenitalia, Austria's ÖBB, Germany's DB, or South Tyrol's SAD trains to Franzensfeste. Change trains there and take the regional train to Welsberg in Val Pusteria/Pustertal. We'll be happy to pick you up at the train station free of charge. Simply call us on +39 0474 950020 to let us know your exact arrival time before you set off."
+      },
+      "plane": {
+        "title": "Arriving by plane",
+        "description": "South Tyrolean airline SkyAlps transports you directly from the main European cities to South Tyrol's provincial capital, Bolzano. From there, you can reach our hotel quickly and easily by train, helicopter, or shuttle transfer."
+      },
+      "helicopter": {
+        "title": "Helicopter transfer",
+        "description": "Luxury and comfort with a bird's eye view: Enjoy a dream flight or airport transfer by helicopter and experience an unforgettable, carefree journey. <link>Click here for further information or to send a no-obligation enquiry.</link>"
+      },
+      "shuttle": {
+        "title": "Shuttle transfer",
+        "description": "Do you want to be environmentally conscious and travel to South Tyrol by train or long-distance bus? The Südtirol Transfer's connection shuttle promises a stress-free journey from the train or bus station directly to the Alpen Tesitin.<link> You can enquire about it here.</link>"
+      }
+    }
+  },
+  
+  "Footer": {
+    "address": {
+      "title": "Panorama Wellness Resort Alpen Tesitin",
+      "family": "The Feichter Family",
+      "street": "Unterrainerstraße 22",
+      "city": "39035 Tesido/Monguelfo",
+      "region": "Plan de Corones / Val Pusteria",
+      "country": "Dolomites | South Tyrol | Italy"
+    },
+    "contact": {
+      "title": "Contact",
+      "phone": "+39 0474 950020",
+      "email": "info@alpentesitin.it"
+    },
+    "links": {
+      "title": "Further links",
+      "guestnet": "Guestnet",
+      "live": "Live",
+      "relax": "Relax",
+      "experience": "Experience",
+      "info": "Info",
+      "belvita": "Belvita",
+      "catalogue": "Catalogue request"
+    },
+    "newsletter": {
+      "title": "Newsletter",
+      "placeholder": "E-Mail Address",
+      "button": "Log in"
+    },
+    "icons": {
+      "download": "Download",
+      "weather": "Weather",
+      "gift": "Gift Vouchers",
+      "photos": "360° Photos & Videos"
+    },
+    "bottom": {
+      "home": "Home",
+      "privacy": "Privacy",
+      "settings": "Privacy settings",
+      "copyright": "© 2025 Panorama Wellness Resort Alpen Tesitin | VAT no.: IT01622840211"
+    },
+    "dropdowns": {
+      "partners": "Partners",
+      "pages": "Interesting pages",
+      "pageItems": {
+        "luxury": "Luxury hotel South Tyrol,",
+        "spa": "Spa hotel Val Pusteria/Pustertal,",
+        "pool": "Hotel Val Pusteria/Pustertal with pool,",
+        "sport": "Sport hotel South Tyrol,",
+        "gourmet": "Gourmet hotel South Tyrol,",
+        "hiking": "Hiking hotel Val Pusteria/Pustertal,",
+        "ski": "Ski holiday South Tyrol,",
+        "rent": "Rent sports car South Tyrol"
+      }
+    },
+    "modal": {
+      "title": "Newsletter Registration",
+      "titleLabel": "Title",
+      "titles": {
+        "family": "Family",
+        "mr": "Mr",
+        "ms": "Ms"
+      },
+      "placeholders": {
+        "name": "Name",
+        "surname": "Surname*",
+        "email": "Email*"
+      },
+      "consent": {
+        "text": "Consent to marketing activities*",
+        "tooltip": "Having read and understood the Privacy Statement made available at this link, and with reference to the data processing activities for which the Data Subject's consent is required by law, I hereby consent to my Personal Data being used by Alpen Tesitin for the sending of promotional messages and marketing communications, including newsletters, regarding their promotions, offers etc., carried out by automated (e-mail, SMS etc.) and non-automated means (regular mail, telephone calls by operators)."
+      },
+      "requiredFields": "*Required fields",
+      "submitButton": "Submit"
+    }
+  },
+  
+  "Header": {
+    "languages": {
+      "en": "English",
+      "de": "Deutsch",
+      "it": "Italian"
+    },
+    "buttons": {
+      "close": "Close",
+      "menu": "Menu",
+      "phone": "Call us",
+      "enquire": "Enquire",
+      "book": "Book"
+    },
+    "logo": "AT ALPEN TESITIN",
+    "subtitle": "PANORAMA WELLNESS RESORT ★★★★★"
+  },
+  
+  "EnquirePage": {
+    "hero": {
+      "title": "Enquire now and start dreaming",
+      "subtitle": "Discover the luxurious world of the <bold>Alpen Tesitin</bold>. Your no-obligation enquiry opens the door to a fantastic holiday experience."
+    },
+    "extras": {
+      "sectionTitle": "Extras",
+      "selectedService": "Selected additional service",
+      "addAdditionalBtn": "Add additional services",
+      "notePlaceholder": "Enter desired date, time, etc...",
+      "amount": "Amount",
+      "modal": {
+        "title": "Select additional service",
+        "category": "Category",
+        "addServices": "Add services"
+      }
+    },
+    "offers": {
+      "selectedOffer": "Selected offer",
+      "defaultDescription": "7 nights with ¾ gourmet board"
+    },
+    "stay": {
+      "sectionTitle": "Details of your stay #",
+      "arrivalDeparture": "Arrival and departure*",
+      "guests": {
+        "adults": "Adults",
+        "adultsSub": "Over 17 years old",
+        "children": "Children",
+        "childrenSub": "Up to 17 years old",
+        "boardOption": "Board option",
+        "save": "Save"
+      },
+      "roomOptions": {
+        "noParticular": "No particular room",
+        "noParticularSub": "Please advise me",
+        "specificRequest": "Specific room request",
+        "specificRequestSub": "I wish to choose a particular room",
+        "addRoom": "Add room",
+        "modal": {
+          "title": "Select room",
+          "selectionHint": "Your selection:"
+        }
+      },
+      "addStay": "Add stay"
+    },
+    "personalInfo": {
+      "sectionTitle": "Personal information",
+      "titleLabel": "Title",
+      "titles": {
+        "family": "Family",
+        "mr": "Mr",
+        "ms": "Ms"
+      },
+      "fields": {
+        "firstName": "Name*",
+        "lastName": "Surname*",
+        "email": "Email*",
+        "street": "Street",
+        "postcode": "Postcode",
+        "city": "City",
+        "country": "Select country",
+        "comment": "Comment",
+        "phone": "Phone"
+      },
+      "address": {
+        "show": "Show address fields",
+        "hide": "Hide address fields"
+      },
+      "consent": "Consent to marketing activities",
+      "privacyText": "Having read and understood the <link>Privacy Statement made available at this link</link>, and with reference to the data processing activities for which the Data Subject's consent is required by law, I hereby consent to my Personal Data being used by Alpen Tesitin***** for the sending of promotional messages and marketing communications.",
+      "requiredNote": "*Required fields",
+      "submit": "Submit",
+      "submitting": "Sending..."
+    },
+    "errors": {
+      "required": "This field cannot remain empty.",
+      "dateRequired": "Please select arrival and departure dates."
+    },
+    "alerts": {
+      "success": "Enquiry sent successfully!",
+      "error": "Error: ",
+      "failed": "Failed to send enquiry",
+      "wentWrong": "Something went wrong. Please try again."
+    },
+    "countries": {
+      "GB": "United Kingdom",
+      "AL": "Albania",
+      "XK": "Kosovo",
+      "IT": "Italy",
+      "DE": "Germany",
+      "AT": "Austria",
+      "CH": "Switzerland",
+      "FR": "France",
+      "US": "United States",
+      "GR": "Greece",
+      "MK": "North Macedonia",
+      "ME": "Montenegro",
+      "HR": "Croatia",
+      "SI": "Slovenia",
+      "BE": "Belgium",
+      "NL": "Netherlands",
+      "ES": "Spain",
+      "TR": "Turkey",
+      "SE": "Sweden",
+      "NO": "Norway"
+    },
+    "boardOptions": {
+      "threeQuarter": "Three-quarter board"
+    },
+    "room": {
+      "approx": "approx.",
+      "capacity": "persons",
+      "size": "approx."
+    },
+    "ariaLabels": {
+      "remove": "remove",
+      "close": "close",
+      "showAll": "show all",
+      "removeOffer": "Remove offer",
+      "removeButton": "remove button",
+      "removeStay": "Remove this stay",
+      "decreaseAdults": "decrease adults",
+      "addAdult": "add adult",
+      "decreaseChildren": "decrease children",
+      "addChildren": "add children",
+      "chooseBoard": "choose board",
+      "saveButton": "save button",
+      "addRoom": "add room",
+      "family": "family",
+      "mr": "Mr",
+      "ms": "Ms",
+      "country": "country",
+      "submitButton": "submit button"
+    }
+  }
+}
+
+

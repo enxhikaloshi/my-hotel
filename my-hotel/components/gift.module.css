@@ -1,0 +1,1414 @@
+
+
+.bigCard {
+  position: relative;
+  overflow: hidden;
+  border-radius: 2px;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+}
+
+.bigCard:hover {
+  transform: scale(1.02);
+}
+
+.bigCard img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.cardOverlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 20px;
+  background: linear-gradient(to bottom, rgba(0,0,0,0.1) 0%, rgba(0,0,0,0.4) 100%);
+}
+
+.topPrice {
+  align-self: flex-end;
+  background: white;
+  padding: 8px 16px;
+  border-radius: 3px;
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.bottomInfo {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  color: white;
+}
+
+.categoryLabel {
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  opacity: 0.9;
+}
+
+.bottomInfo h3 {
+  font-size: 24px;
+  font-weight: 600;
+  margin: 0;
+}
+
+.detailsBtn {
+  background: white;
+  color: #333;
+  border: none;
+  padding: 12px 24px;
+  border-radius: 4px;
+  font-weight: 600;
+  cursor: pointer;
+  align-self: flex-start;
+  opacity: 0;
+  transform: translateY(10px);
+  transition: opacity 0.3s ease, transform 0.3s ease;
+}
+
+.bigCard:hover .detailsBtn {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.detailsBtn:hover {
+  background: #dda15e;
+}
+
+.voucherGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  gap: 24px;
+  padding: 40px 0;
+}
+
+.filterBar {
+  display: flex;
+  gap: 16px;
+  padding: 20px 0;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.filterBar button {
+  background: none;
+  border: none;
+  padding: 8px 16px;
+  cursor: pointer;
+  font-size: 16px;
+  color: #666;
+  transition: color 0.3s ease;
+}
+
+.activeFilter {
+  color: #333 !important;
+  font-weight: 600;
+  border-bottom: 2px solid #333;
+}
+
+.heroContainer {
+  text-align: center;
+  padding: 60px 20px 40px;
+}
+
+.title {
+  font-size: 36px;
+  font-weight: 300;
+  margin-bottom: 16px;
+  color: #333;
+}
+
+.description {
+  display: inline-block;
+  font-size: 18px;
+  color: #666;
+  line-height: 1.6;
+  width: 800px;
+  align-items: center;
+  justify-content: center;
+}
+
+.link {
+  color: inherit;
+  text-decoration: underline;
+  transition: opacity 0.3s ease;
+}
+
+.link:hover {
+  opacity: 0.7;
+}
+
+.pageWrapper {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.mainContent {
+  flex: 1;
+  max-width: 1200px;
+  margin: 0 auto;
+  width: 100%;
+  padding: 0 20px;
+}
+.paymentSection {
+  padding: 10px 0;
+  background-color: #fff; /* Ose transparent nëse është mbi një background tjetër */
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start; 
+  margin-left: 170px;
+}
+
+.paymentTitle {
+  font-size: 15px;
+  color: #333;
+  margin-bottom: 10px;
+  font-family: inherit; 
+}
+
+.paymentButtons {
+  display: flex;
+  gap: 12px; 
+}
+
+.methodBtn {
+  background-color: #ffffff;
+  border: 1px solid #e2e2e2; 
+  padding: 13px 17px;
+  font-size: 13px;
+  color: #2c3e50;
+  border-radius: 4px; 
+  transition: all 0.2s ease-in-out;
+  outline: none;
+}
+
+
+/* Stepper and form styles */
+.stepperContainer {
+  padding: 20px 0;
+  align-items: flex-start;
+}
+
+.stepper {
+  display: flex;
+  align-items: flex-start;
+  gap: 40px;
+  margin-bottom: 60px;
+  position: relative;
+  max-width: 900px;
+  margin-top:90px;
+}
+
+.step {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  position: relative;
+}
+
+.step:not(:last-child)::after {
+  content: '—';
+  position: absolute;
+  right: -35px;
+  color: #ddd;
+  font-size: 20px;
+}
+
+.stepNum {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: #e0e0e0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 600;
+  color: #999;
+  font-size: 16px;
+  flex-shrink: 0;
+}
+
+.stepActive .stepNum {
+  background: #9f8362;
+  color: white;
+}
+
+.stepLabel {
+  font-size: 14px;
+  color: #ccc;
+  white-space: nowrap;
+}
+
+.stepActive .stepLabel {
+  color: #333;
+  font-weight: 500;
+}
+
+.backBtn {
+  background: none;
+  border: 1px solid #ddd;
+  padding: 8px 16px;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.arrowLeft {
+  font-size: 18px;
+}
+
+/* Main Container */
+.container {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #333;
+  background-color: #f9f9f9;
+}
+
+
+
+
+.arrowLeft {
+  font-size: 20px;
+}
+
+/* Step One Content */
+.stepOneContent {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 40px 20px;
+}
+
+.stepOneContent h2 {
+  font-size: 28px;
+  font-weight: 400;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.subtext {
+  font-size: 15px;
+  color: #666;
+  margin-bottom: 30px;
+}
+
+/* Motif text */
+.motifSelector {
+  margin-bottom: 50px;
+}
+
+.motifSelector h3 {
+  font-size: 22px;
+  font-weight: 400;
+  color: #333;
+  margin-bottom: 8px;
+}
+
+.motifSelector h4 {
+  font-size: 14px;
+  font-weight: 400;
+  color: #666;
+  margin-bottom: 25px;
+}
+.selectedItem {
+  display: flex;
+  justify-content: space-between; /* E dërgon "x" në fund të rreshtit */
+  align-items: center;
+  background-color: #f9f9f9;
+  padding: 12px 16px;
+  border: 1px solid #eee;
+  border-radius: 4px;
+  margin-bottom: 8px;
+  font-size: 14px;
+  color: #333;
+}
+
+.removeItemBtn {
+  background: none;
+  border: none;
+  color: #999;
+  font-size: 20px;
+  cursor: pointer;
+  line-height: 1;
+  padding: 0 5px;
+  transition: color 0.2s;
+}
+
+.removeItemBtn:hover {
+  color: #ff4d4f; /* Ngjyrë e kuqe e lehtë kur bën hover */
+}
+
+
+
+/* Services Section */
+.servicesSection {
+  margin-bottom: 50px;
+  max-width: 600px;
+}
+
+.servicesSection h3 {
+  font-size: 22px;
+  font-weight: 400;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.selectedList {
+  margin-bottom: 20px;
+}
+
+
+
+.addServiceBtn {
+  background-color: #f0f0f0;
+  border: 1px dashed #ccc;
+  color: #666;
+  padding: 14px 24px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 15px;
+  transition: all 0.2s;
+  width: 100%;
+  max-width: 600px;
+}
+
+.addServiceBtn:hover {
+  background-color: #e8e8e8;
+  border-color: #d4af37;
+  color: #d4af37;
+}
+
+/* Value Section */
+.valueSection {
+  margin-bottom: 50px;
+  max-width: 600px;
+}
+
+.valueSection h3 {
+  font-size: 22px;
+  font-weight: 400;
+  color: #333;
+  margin-bottom: 8px;
+}
+
+.amountLabel {
+  display: block;
+  font-size: 14px;
+  color: #666;
+  margin-bottom: 10px;
+  font-weight: 500;
+}
+
+.amountInputContainer {
+  position: relative;
+  display: flex;
+  align-items: center;
+  max-width: 300px;
+}
+
+.amountInput {
+  width: 100%;
+  padding: 14px 60px 14px 16px;
+  font-size: 16px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  outline: none;
+  transition: border-color 0.2s;
+}
+
+.amountInput:focus {
+  border-color: #d4af37;
+}
+
+.chevronControls {
+  position: absolute;
+  right: 45px;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.chevronBtn {
+  background: none;
+  border: none;
+  color: #999;
+  cursor: pointer;
+  font-size: 10px;
+  padding: 2px 6px;
+  transition: color 0.2s;
+}
+
+.chevronBtn:hover {
+  color: #d4af37;
+}
+
+.currencySymbol {
+  position: absolute;
+  right: 16px;
+  font-size: 16px;
+  color: #666;
+  pointer-events: none;
+}
+
+/* Message Section */
+.messageSection {
+  margin-bottom: 50px;
+  max-width: 600px;
+}
+
+.messageSection label {
+  font-size: 22px;
+  font-weight: 400;
+  color: #333;
+  display: block;
+  margin-bottom: 8px;
+}
+
+.messageSection h4 {
+  font-size: 14px;
+  font-weight: 400;
+  color: #666;
+  margin-bottom: 25px;
+}
+
+.messageSection h5 {
+  font-size: 14px;
+  font-weight: 500;
+  color: #666;
+  margin-bottom: 10px;
+  margin-top: 20px;
+}
+
+.inputField,
+.textArea {
+  width: 100%;
+  padding: 14px 16px;
+  font-size: 15px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  outline: none;
+  font-family: inherit;
+  transition: border-color 0.2s;
+}
+
+.inputField:focus,
+.textArea:focus {
+  border-color: #d4af37;
+}
+
+.textArea {
+  min-height: 120px;
+  resize: vertical;
+}
+
+/* Proceed Button */
+.buttonActionGroup {
+  display: flex;
+  align-items: center;
+  gap: 15px; /* Hapësira mes butonave */
+  margin-top: 30px;
+}
+
+/* Butoni BACK (I bardhë me border) */
+.backStepBtn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  background-color: #ffffff;
+  border: 1px solid #e2e2e2;
+  color: #333;
+  padding: 12px 25px;
+  font-size: 16px;
+  border-radius: 4px;
+  cursor: pointer;
+  min-width: 120px;
+  transition: all 0.2s ease;
+}
+
+.backStepBtn:hover {
+  background-color: #f9f9f9;
+  border-color: #ccc;
+}
+
+.backArrow {
+  font-size: 20px;
+  line-height: 0;
+  margin-bottom: 2px; /* Rregullim i vogël optik për shigjetën */
+}
+
+/* Butoni PROCEED (Ngjyra bezhë/taupe e hotelit) */
+.proceedBtn {
+  background-color: #a69685; /* Ngjyra specifike nga fotoja */
+  color: #ffffff;
+  border: none;
+  padding: 12px 35px;
+  font-size: 16px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+  font-weight: 400;
+  flex: 1; /* Nëse dëshiron të zërë hapësirën e mbetur, ose hiqe për madhësi auto */
+  max-width: fit-content;
+}
+
+.proceedBtn:hover {
+  background-color: #928374;
+}
+
+/* Teksti poshtë butonave */
+.requiredFieldNote {
+  display: block;
+  margin-top: 15px;
+  font-size: 14px;
+  color: #333;
+}
+/* Step Two Content */
+.stepTwoContent {
+  max-width: 800px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+
+.stepTwoContent h2 {
+  font-size: 28px;
+  font-weight: 400;
+  color: #333;
+  margin-bottom: 30px;
+}
+
+.buyerForm {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.radioGroup {
+  display: flex;
+  gap: 12px;
+  margin-bottom: 10px;
+}
+
+.radioGroup button {
+  padding: 10px 24px;
+  border: 1px solid #ddd;
+  background-color: white;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: all 0.2s;
+}
+
+.radioGroup button:hover {
+  border-color: #d4af37;
+}
+
+.activeRadio {
+  background-color: #d4af37 !important;
+  color: white !important;
+  border-color: #d4af37 !important;
+}
+
+.row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+}
+
+.buyerForm input {
+  padding: 14px 16px;
+  font-size: 15px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  outline: none;
+  transition: border-color 0.2s;
+}
+
+.buyerForm input:focus {
+  border-color: #d4af37;
+}
+
+
+/* Modal */
+.modalOverlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.6);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+  padding: 20px;
+}
+
+.modalContent {
+  background-color: white;
+  border-radius: 8px;
+  width: 100%;
+  max-width: 700px;
+  max-height: 85vh;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.25);
+}
+
+.modalHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 28px 32px 20px;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.headerText h3 {
+  font-size: 24px;
+  font-weight: 400;
+  color: #1f2937;
+  margin: 0 0 8px 0;
+}
+
+.headerText p {
+  font-size: 14px;
+  color: #6b7280;
+  margin: 0;
+  font-weight: 400;
+}
+
+.closeBtn {
+  background: #f3f4f6;
+  border: none;
+  font-size: 24px;
+  color: #374151;
+  cursor: pointer;
+  line-height: 1;
+  padding: 0;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  transition: all 0.2s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.closeBtn:hover {
+  background: #e5e7eb;
+  color: #1f2937;
+}
+
+.serviceList {
+  overflow-y: auto;
+  padding: 0;
+  flex: 1;
+}
+
+.serviceItemContainer {
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.serviceItemRow {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 32px;
+  background: white;
+  transition: background-color 0.2s;
+}
+
+.serviceItemRow:hover {
+  background-color: #f9fafb;
+}
+
+.itemMainInfo {
+  display: flex;
+  align-items: flex-start;
+  gap: 14px;
+  flex: 1;
+}
+
+.nameWrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.checkbox {
+  width: 24px;
+  height: 24px;
+  border: 2px solid #d1d5db;
+  border-radius: 50%;
+  cursor: pointer;
+  transition: all 0.2s;
+  flex-shrink: 0;
+  position: relative;
+  margin-top: 2px;
+}
+
+.checkbox:hover {
+  border-color: #9ca3af;
+}
+
+.checked {
+  background-color: #a8a29e;
+  border-color: #a8a29e;
+}
+
+.checked::after {
+  content: '✓';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.serviceName {
+  font-size: 15px;
+  color: #1f2937;
+  font-weight: 400;
+}
+
+.showDetails {
+  background: none;
+  border: none;
+  color: #6b7280;
+  font-size: 13px;
+  cursor: pointer;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  transition: color 0.2s;
+}
+
+.showDetails:hover {
+  color: #1f2937;
+}
+
+.smallArrow {
+  font-size: 10px;
+  transition: transform 0.2s;
+}
+
+.arrowUp {
+  transform: rotate(180deg);
+}
+
+.quantityDropdownWrapper {
+  position: relative;
+}
+
+.quantityDropdown {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  background: white;
+  border: 1px solid #e5e7eb;
+  padding: 8px 14px;
+  border-radius: 6px;
+  font-size: 14px;
+  color: #374151;
+  cursor: pointer;
+  min-width: 140px;
+  justify-content: space-between;
+  transition: all 0.2s;
+}
+
+
+
+.dropdownArrow {
+  font-size: 10px;
+  color: #6b7280;
+  transition: transform 0.2s;
+}
+
+.arrowRotated {
+  transform: rotate(180deg);
+}
+
+.dropdownMenu {
+  position: absolute;
+  top: calc(100% + 4px);
+  right: 0;
+  background: white;
+  border: 1px solid #e5e7eb;
+  border-radius: 6px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  min-width: 140px;
+  max-height: 280px;
+  overflow-y: auto;
+  z-index: 10;
+}
+
+.dropdownOption {
+  padding: 10px 14px;
+  font-size: 14px;
+  color: #374151;
+  cursor: pointer;
+  transition: background-color 0.15s;
+}
+
+.dropdownOption:hover {
+  background-color: #f3f4f6;
+}
+
+.selectedOption {
+  background-color: #a8a29e;
+  color: white;
+}
+
+.selectedOption:hover {
+  background-color: #78716c;
+}
+
+.detailsContent {
+  padding: 0 32px 20px 70px;
+  font-size: 14px;
+  color: #6b7280;
+  line-height: 1.6;
+  animation: slideDown 0.2s ease;
+}
+
+@keyframes slideDown {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.modalFooter {
+  padding: 20px 32px;
+  border-top: 1px solid #e5e7eb;
+  background-color: #fafafa;
+}
+
+.addBtn {
+  width: 100%;
+  background-color: #a8a29e;
+  color: white;
+  border: none;
+  padding: 14px 24px;
+  font-size: 15px;
+  font-weight: 500;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.addBtn:hover:not(:disabled) {
+  background-color: #78716c;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 8px rgba(168, 162, 158, 0.3);
+}
+
+.addBtn:active:not(:disabled) {
+  transform: translateY(0);
+}
+
+.addBtn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+/* Responsive Design */
+@media (max-width: 768px) {
+  .stepper {
+    gap: 20px;
+    flex-wrap: wrap;
+  }
+
+  .stepLabel {
+    font-size: 11px;
+    max-width: 80px;
+  }
+
+  .motifGrid {
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    gap: 15px;
+  }
+
+  .row {
+    grid-template-columns: 1fr;
+  }
+
+  .stepOneContent h2,
+  .stepTwoContent h2 {
+    font-size: 24px;
+  }
+}
+
+
+
+/* Carousel Container */
+.motifCarousel {
+  position: relative;
+  width: 100%;
+  max-width: 800px;
+  margin-left: 2rem auto;
+}
+
+/* Scrollable Grid */
+.motifGrid {
+  display: flex;
+  gap: 1rem;
+  overflow-x: auto;
+  scroll-behavior: smooth;
+  padding: 1rem 0;
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none; /* IE/Edge */
+}
+
+.motifGrid::-webkit-scrollbar {
+  display: none; /* Chrome/Safari */
+}
+
+/* Individual Motif Item */
+.motifItem {
+  position: relative;
+  min-width: 200px;
+  height: 140px;
+  border-radius: 8px;
+  overflow: hidden;
+  cursor: pointer;
+  border: 3px solid transparent;
+  transition: all 0.3s ease;
+  flex-shrink: 0;
+}
+
+.motifItem:hover {
+  transform: scale(1.02);
+}
+
+.motifItemActive {
+  border-color: #f6bd7b;
+  
+}
+
+.motifItem img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* Checkmark for selected item */
+.checkmark {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  z-index: 10;
+  animation: checkmarkAppear 0.3s ease;
+}
+
+@keyframes checkmarkAppear {
+  from {
+    transform: scale(0);
+    opacity: 0;
+  }
+  to {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+/* Navigation Buttons */
+.navButtonLeft,
+.navButtonRight {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: white;
+  border:none;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  font-size: 20px;
+  color: #374151;
+  transition: all 0.2s ease;
+  z-index: 10;
+  
+}
+
+.navButtonLeft {
+  left: -20px;
+}
+
+.navButtonRight {
+  right: -20px;
+}
+
+.navButtonLeft:hover,
+.navButtonRight:hover {
+  background: #F9FAFB;
+  border-color: #9CA3AF;
+  transform: translateY(-50%) scale(1.1);
+}
+
+.navButtonLeft:active,
+.navButtonRight:active {
+  transform: translateY(-50%) scale(0.95);
+}
+
+/* Counter */
+.carouselCounter {
+  text-align: right;
+  font-size: 14px;
+  color: #6B7280;
+  padding-right: 1rem;
+
+  display: flex;
+  gap: 8px;
+}
+.carouselpage{
+  font-size: 14px;
+  color: #333;
+  font-weight: 400;
+  padding-right: 5px; 
+}
+  
+.controlsWrapper {
+  display: flex;
+  flex-direction: column; 
+  align-items: flex-end; 
+  gap: 10px;             
+  margin-top: 15px;
+  width: 100%;
+}
+.navButtonRight,.navButtonLeft{width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: 1px solid #e0e0e0;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  font-size: 18px;}
+  /* Sticky Voucher Card */
+.stickyVoucherCard {
+  position: sticky;
+  top: 120px;
+  float: right;
+  width: 320px;
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  margin-left: 30px;
+  margin-bottom: 30px;
+}
+
+.stickyVoucherCard:hover {
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.15);
+  transform: translateY(-4px);
+}
+
+.voucherPreviewImage {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+.voucherCardContent {
+  padding: 20px;
+}
+
+.voucherCategory {
+  font-size: 12px;
+  color: #6b7280;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.voucherCardTitle {
+  font-size: 20px;
+  font-weight: 400;
+  color: #1f2937;
+  margin: 8px 0 12px;
+}
+
+.voucherPrice {
+  font-size: 24px;
+  font-weight: 500;
+  color: #1f2937;
+  margin-bottom: 16px;
+}
+
+.showVoucherBtn {
+  width: 100%;
+  background: transparent;
+  border: 1px solid #d1d5db;
+  color: #374151;
+  padding: 10px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: all 0.2s;
+}
+
+.showVoucherBtn:hover {
+  background: #f9fafb;
+  border-color: #9ca3af;
+}
+
+/* Voucher Preview Modal */
+.voucherModalOverlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.7);
+  display: flex;
+  align-items: flex-start; 
+  justify-content: center;
+  padding-top: 80px;
+  z-index: 2000;
+  overflow-y: auto;
+}
+
+.voucherModalContent {
+  background: white;
+  border-radius: 8px;
+  max-width: 650px;
+  max-height: 90vh;
+  overflow-y: auto;
+  position: relative;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+  margin-bottom: 30px;
+}
+.serviceList {
+overflow-y: visible; 
+  max-height: none; 
+  padding: 20px 40px;}
+.voucherCloseBtn {
+  position: absolute;
+  top: 16px;
+  right: 16px;
+  background: white;
+  border: none;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  font-size: 28px;
+  color: #374151;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  z-index: 10;
+  transition: all 0.2s;
+}
+
+.voucherCloseBtn:hover {
+  background: #f3f4f6;
+  transform: rotate(90deg);
+}
+
+.voucherDocument {
+  background: white;
+  padding: 0;
+}
+
+.voucherHeader {
+  text-align: center;
+  padding: 24px 24px 16px;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.voucherLogo {
+  max-width: 200px;
+  height: auto;
+}
+
+.voucherMainImage {
+  width: 100%;
+  height: 280px;
+  object-fit: cover;
+}
+
+.voucherDetails {
+  padding: 32px 40px;
+  background: #f9fafb;
+}
+
+.voucherTitle {
+  font-size: 18px;
+  font-weight: 600;
+  color: #1f2937;
+  letter-spacing: 1px;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+}
+
+.voucherValue {
+  background: white;
+  padding: 16px 20px;
+  border-radius: 8px;
+  margin-bottom: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.valueLabel {
+  font-size: 13px;
+  color: #6b7280;
+  font-weight: 500;
+}
+
+.valueAmount {
+  font-size: 22px;
+  font-weight: 600;
+  color: #1f2937;
+}
+
+
+.treatmentsList {
+  margin-bottom: 24px;
+}
+
+.treatmentsIntro {
+  font-size: 14px;
+  color: #374151;
+  margin-bottom: 12px;
+  font-style: italic;
+}
+
+.treatments {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.treatments li {
+  font-size: 14px;
+  color: #1f2937;
+  padding: 6px 0;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.treatments li:last-child {
+  border-bottom: none;
+}
+
+.voucherMessage {
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  border-left: 3px solid #a8a29e;
+}
+
+.salutation {
+  font-size: 15px;
+  color: #1f2937;
+  font-weight: 500;
+  margin-bottom: 8px;
+}
+
+.messageText {
+  font-size: 14px;
+  color: #4b5563;
+  line-height: 1.6;
+  margin: 0;
+}
+
+.voucherFooter {
+  border-top: 1px solid #e5e7eb;
+  padding-top: 16px;
+}
+
+.footerNote {
+  font-size: 12px;
+  color: #6b7280;
+  margin: 0;
+  font-style: italic;
+}
+
+.contactInfo {
+  background: #1f2937;
+  color: white;
+  padding: 20px 40px;
+  text-align: center;
+  font-size: 11px;
+  line-height: 1.6;
+}
+
+.contactInfo p {
+  margin: 4px 0;
+}
+
+/* Responsive adjustments */
+@media (max-width: 1200px) {
+  .stickyVoucherCard {
+    position: static;
+    float: none;
+    width: 100%;
+    max-width: 400px;
+    margin: 20px auto;
+  }
+}
+.container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.formsection{
+  background-color: white;
+}
+.thankYouContainer {
+  text-align: center;
+  padding: 100px 20px;
+  background-color: white;
+  min-height: 60vh;
+}
+
+.thankYouContainer h1 {
+  font-size: 36px;
+  color: #333;
+  font-weight: 400;
+  margin-bottom: 20px;
+}
+
+.thankYouContainer p {
+  font-size: 18px;
+  color: #555;
+  line-height: 1.6;
+}
+
+.regardsSection {
+  margin-top: 50px;
+  font-style: italic;
+  color: #666;
+}

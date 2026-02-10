@@ -1,0 +1,317 @@
+.pageContainer {
+  background-color: #fff;
+}
+
+.mainContent {
+  max-width: 1300px;
+  margin: 0 auto;
+  padding: 0 20px;
+  gap:10px;
+}
+
+.heroSection {
+  margin-bottom: 50px;
+}
+
+.topNavigation {
+  padding-left: 100px;
+  margin-bottom: 20px;
+  padding-top: 30px; 
+}
+.backLink {
+  text-decoration: none;
+  color: black;
+   font-size: 18px;
+  display: flex;
+  align-items: center;
+  display: inline-flex;
+  gap: 8px;
+}
+.arrowIcon {
+  font-size: 18px;
+  display: inline-block;
+  transition: transform 0.2s;
+}
+.backLink:hover .arrowIcon {
+  transform: translateX(-5px);
+}
+.heroImg {
+  width: 1100px;
+  height: 500px;
+  display: block;
+  margin-left:100px;
+}
+
+/* Grid System */
+.detailsLayout {
+  display: grid;
+  grid-template-columns: 1fr 380px; 
+  gap: 80px;
+  max-width: 1200px;
+  margin: 40px auto;
+  padding: 0 20px;
+}
+
+.title {
+  font-size: 42px;
+  font-weight: 400;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+/* icons */
+.quickInfoIcons {
+  display: flex;
+  gap: 30px;
+  margin: 30px 0;
+  padding-bottom: 30px;
+ 
+}
+
+.iconItem {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  color: #666;
+  font-size: 15px;
+}
+
+.iconCircle {
+  width: 40px;
+  height: 40px;
+  border: 1px solid #ccc;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #333;
+  background-color: rgb(236, 235, 235);
+}
+
+/* Stilization of text */
+.mainDescription {
+  line-height: 1.8;
+  color: #444;
+  font-size: 17px;
+  white-space: pre-line; 
+  margin-bottom: 40px;
+}
+
+/* WIDGET of reservation */
+.bookingWidgetCard {
+  position: sticky;
+  top: 120px;
+  background-color: #f5f5f5; 
+  padding: 40px;
+  text-align: center;
+}
+
+.widgetPriceInfo h3 {
+  font-size: 28px;
+  font-weight: 500;
+  margin-bottom: 5px;
+}
+
+.widgetPriceInfo p {
+  color: #666;
+  font-size: 14px;
+  margin-bottom: 30px;
+}
+
+/* Buttons  */
+.widgetActions {
+  display: grid;
+  grid-template-columns: 1fr 1fr; 
+  border: 1px solid #ccc;
+}
+
+.widgetEnquireBtn, .widgetBookBtn {
+  padding: 15px 0;
+  text-decoration: none;
+  font-size: 15px;
+  transition: 0.3s;
+}
+
+.widgetEnquireBtn {
+  background-color: #a8a096;
+  color: white;
+}
+
+.widgetBookBtn {
+  background-color: white;
+  color: #333;
+}
+
+.widgetEnquireBtn:hover {
+  background-color: #8e867c;
+}
+
+.widgetBookBtn:hover {
+  background-color: #f0f0f0;
+}
+
+/* Mobile */
+@media (max-width: 992px) {
+  .detailsLayout {
+    grid-template-columns: 1fr;
+  }
+}
+/*main page*/
+
+
+.container {
+  background-color: #ffffff;
+  font-family: 'Inter', sans-serif; 
+  color: #333;
+}
+
+/* Hero Section */
+.herooSection {
+  max-width: 900px;
+  margin: 79px auto 70px;
+  text-align: center;
+  padding: 0 20px;
+
+}
+
+.title {
+  font-family: 'Cormorant Garamond', serif; 
+  font-size: 3.2rem;
+  font-weight: 300;
+  color: #333;
+  margin-bottom: 25px;
+  line-height: 1.1;
+ 
+}
+
+.description {
+  font-size: 1.15rem;
+  line-height: 1.8;
+  color: #666;
+  max-width: 700px;
+  margin: 0 auto;
+  font-weight: 300;
+}
+
+/* Deals Grid */
+.dealsGrid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); 
+  gap: 60px 40px;
+  max-width: 1200px;
+  margin: 0 auto 120px;
+  padding: 0 40px;
+}
+
+/* Card Structure */
+.dealCard {
+  display: flex;
+  flex-direction: column;
+}
+
+.imageContainer {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 5 / 3;
+  overflow: hidden;
+}
+
+.hotelImage {
+  object-fit: cover;
+  transition: transform 1.2s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+
+.dealCard:hover .hotelImage {
+  transform: scale(1.05);
+}
+
+
+.priceOverlay {
+  position: absolute;
+  bottom: 25px;
+  left: 25px;
+  background: rgba(255, 255, 255, 0.92);
+  -webkit-backdrop-filter: blur(4px);
+  backdrop-filter: blur(4px);
+  padding: 10px 22px;
+  border-radius: 40px;
+  font-size: 0.95rem;
+  font-weight: 400;
+  color: #333;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+}
+
+/* Info Section */
+.infoContainer {
+  padding-top: 25px;
+}
+
+.dealName {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 1.8rem;
+  font-weight: 400;
+  text-transform: none; /* Ndryshojeni në uppercase nëse preferoni */
+  margin-bottom: 12px;
+  color: #222;
+}
+
+.dealDetails {
+  font-size: 1.05rem;
+  color: #555;
+  margin-bottom: 6px;
+  font-weight: 300;
+}
+
+.dealDates {
+  font-size: 1rem;
+  color: #777;
+  margin-bottom: 20px;
+  font-weight: 300;
+}
+
+/* Linku "Show details" */
+.detailsLink {
+  text-decoration: none;
+  color: #333;
+  font-size: 1rem;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-weight: 400;
+  transition: opacity 0.3s ease;
+}
+
+.detailsLink:hover {
+  opacity: 0.7;
+}
+
+.arrow {
+  font-size: 1.2rem;
+  transition: transform 0.3s ease;
+}
+
+.detailsLink:hover .arrow {
+  transform: translateX(5px);
+}
+
+/* Loading state */
+.loading {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: serif;
+  font-size: 1.5rem;
+}
+
+/* Responsive për Mobile */
+@media (max-width: 850px) {
+  .dealsGrid {
+    grid-template-columns: 1fr; /* Një kolonë në mobile */
+    padding: 0 20px;
+  }
+  
+  .title {
+    font-size: 2.2rem;
+  }
+}

@@ -1,0 +1,194 @@
+.whiteSectionContent {
+  max-width: 900px;         
+  margin: 0 auto;          
+  padding: 100px 100px;      
+  text-align: center;       
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: -130px;
+}
+
+.whiteTitle {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;   
+  font-size: 2.8rem;        
+  font-weight: 400;         
+  color: #333;             
+  line-height: 1.2;
+  margin-bottom: 20px;      
+  max-width: 700px;         
+}
+.whiteText a{
+  color: #333;
+  text-decoration: underline;
+  text-underline-offset: 4px; 
+  transition: opacity 0.3s ease;
+}
+
+.whiteText {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.1rem;
+  line-height: 1.8;         
+  color: #555;
+  max-width: 800px;
+}
+
+.whiteText strong {
+  font-weight: 600;
+  color: #222;
+}
+
+.link {
+  color: #333;
+  text-decoration: underline;
+  text-underline-offset: 4px; 
+  transition: opacity 0.3s ease;
+}
+
+.link:hover {
+  opacity: 0.7;
+}
+
+@media (max-width: 768px) {
+  .whiteTitle {
+    font-size: 2rem;
+  }
+  .whiteSectionContent {
+    padding: 60px 20px;
+  }
+}
+.Text {
+  text-align: center;
+  font-size: 2.5rem; 
+  font-weight: 400; 
+  color: #333;
+  margin: 60px 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  letter-spacing: 0.5px;
+}
+.mainWrapper {
+  font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  color: #333;
+}
+
+.saunaSection {
+  background-color: #ebeae7; 
+  padding: 80px 20px;
+  text-align: center;
+}
+
+.saunaSectionWhite {
+  background-color: #ffffff;
+  padding: 80px 20px;
+  text-align: center;
+}
+
+.title {
+  font-size: 2.5rem;
+  font-weight: 300;
+  margin-bottom: 10px;
+  color: #3a3a3a;
+}
+
+.details {
+  font-size: 1.5rem;
+  font-weight: 300;
+  margin-bottom: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+}
+
+.separator {
+  color: #999;
+  font-weight: 200;
+}
+
+.description {
+  max-width: 800px;
+  margin: 0 auto;
+  line-height: 1.7;
+  font-size: 1.1rem;
+  font-weight: 300;
+  color: #555;
+}
+.havenSection {
+  background-color: #728493;
+  padding: 80px 10%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 50px;
+  color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.textContent {
+  flex: 1;
+}
+
+.titlee {
+  font-size: 2.3rem;
+  font-weight: 400;
+  line-height: 1.2;
+  margin-bottom: 30px;
+}
+
+.descriptionn {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  font-weight: 300;
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.description b {
+  font-weight: 600;
+}
+
+.imageContent {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+}
+
+.imageContent img {
+  width: 100%;
+  max-width: 600px;
+  height: auto;
+  object-fit: cover;
+}
+@media (max-width: 968px) {
+  .havenSection {
+    flex-direction: column;
+    padding: 60px 20px;
+    text-align: center;
+  }
+}
+.heroSectionWrapper {
+  position: relative;
+  width: 100%;
+  height: 100vh; 
+  overflow: hidden;
+}
+.description {
+  margin-top: 15px;
+  font-size: 1.1rem;
+  line-height: 1.7;
+  font-weight: 300;
+  color: rgba(255, 255, 255, 0.9);
+  max-width: 450px; 
+  animation: fadeIn 0.5s ease-in-out;
+}
+
+
+.description strong {
+  font-weight: 600;
+  color: #ffffff;
+}
+
+.listItemActive {
+  color: #ffffff;
+  font-weight: 400;
+  margin-bottom: 5px;
+}

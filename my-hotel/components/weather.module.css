@@ -1,0 +1,256 @@
+.pageWrapper {
+  background-color: white;
+  min-height: 100vh;
+  padding-bottom: 50px;
+  font-family: 'Segoe UI', Arial, sans-serif;
+}
+
+
+.currentWeatherHeader {
+  text-align: center;
+  padding: 60px 20px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.mainTitle {
+  font-size: 42px;
+  font-weight: 300;
+  color: #4a4a4a;
+  margin-bottom: 20px;
+}
+
+.introText {
+  color: #666;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.introText a {
+  color: #4a4a4a;
+  text-decoration: underline;
+}
+.container {
+  max-width: 1100px;
+  margin: 20px auto;
+  padding: 40px;
+  background: white;
+  font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  color: #666;
+}
+
+.title {
+  font-size: 28px;
+  font-weight: 700;
+  color: #4a4a4a;
+  padding-bottom: 2px;
+  margin-bottom: 10px;
+ 
+}
+
+.content {
+  display: grid;
+  grid-template-columns: 1fr 1.2fr; 
+  gap: 10px;
+  border: 1px solid #e2e2e2;
+ 
+}
+
+.sectionTitle {
+  font-size: 20px;
+  color: #333;
+  margin-bottom: 10px;
+  font-weight: 500;
+  margin-left: 50px;
+  margin-top: 70px;
+}
+
+.description {
+  line-height: 1.6;
+  margin-bottom: 30px;
+  font-size: 15px;
+   margin-left: 50px;
+}
+
+.reliability {
+  font-weight: bold;
+  margin-top: 40px;
+  font-size: 16px;
+  margin-left: 400px;
+}
+
+/* Harta */
+.mapWrapper {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 10;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  overflow: hidden;
+}
+
+.weatherPoint {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center; 
+  right: 25%;
+  z-index: 10;
+}
+
+
+.weatherIcon {
+  width: 100px;
+  height: auto;
+  margin:-15px 0;
+}
+
+.tempRange {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.tempLow { color: rgb(31, 3, 116); margin-right: 4px; }
+.tempHigh { color: rgb(31, 3, 116); }
+.mapWrapper {
+  background-image: url('/map-south-tyrol.png');
+  background-size: cover;
+  background-position: center;
+}
+
+/* Forecast Section */
+.forecastContent {
+  display: grid;
+  grid-template-columns: 1fr 1.2fr;
+  gap: 30px;
+  border: 1px solid #e2e2e2;
+  padding: 40px;
+}
+
+.forecastText {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.forecastCards {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: nowrap;
+}
+
+.forecastCard {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 15px 10px;
+  border: 1px solid #e2e2e2;
+  border-radius: 4px;
+  background: #f9f9f9;
+  width: 100px;            
+  min-width: 90px;
+  height: fit-content;
+}
+
+.forecastDate {
+  font-weight: bold;
+  font-size: 14px;
+  margin-bottom: 8px;
+  color: #333;
+}
+
+.forecastReliability {
+  font-weight: bold;
+  font-size: 12px;
+  color: #666;
+  margin-bottom: 8px;
+}
+
+.forecastWeatherIcon {
+  width: 50px;
+  height: 50px;
+  margin: 4px 0;
+}
+
+.forecastTemp {
+  font-size: 12px;
+  color: #333;
+  line-height: 1.6;
+}
+
+.forecastTemp div:first-child {
+  color: #0076bd;
+  font-weight: bold;
+}
+
+.forecastTemp div:last-child {
+  color: #d0021b;
+  font-weight: bold;
+}
+
+/* Kontenieri që mban ikonën dhe temperaturën */
+.weatherPoint {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  z-index: 10;
+  transition: transform 0.2s ease-in-out;
+}
+
+/* Kur i kalon mausi sipër, zmadhohet pak */
+.weatherPoint:hover {
+  transform: scale(1.15);
+  z-index: 20;
+}
+
+/* Stili për ikonat normale */
+.weatherIcon {
+  width: 50px;  
+  height: 50px;
+  object-fit: contain;
+  filter: drop-shadow(2px 4px 6px rgba(0, 0, 0, 0.2));
+  animation: floatIcon 4s ease-in-out infinite;
+}
+
+/* Stili për temperaturat poshtë ikonës */
+.tempRange {
+  display: flex;
+  gap: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  padding: 2px 8px;
+  border-radius: 12px;
+  font-family: 'Inter', sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  margin-top: -px; 
+}
+
+/* Ngjyrat për vlerat min/max */
+.tempLow {
+  color: #0070f3;
+}
+
+.tempHigh {
+  color: #ff4500; 
+}
+
+/* Animacioni që i bën ikonat të "notojnë" */
+@keyframes floatIcon {
+  0% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-5px);
+  }
+  100% {
+    transform: translateY(0px);
+  }
+}

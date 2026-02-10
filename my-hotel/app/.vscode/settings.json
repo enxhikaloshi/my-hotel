@@ -1,0 +1,3 @@
+{
+  "webhint.disable": ["no-inline-styles"]
+}

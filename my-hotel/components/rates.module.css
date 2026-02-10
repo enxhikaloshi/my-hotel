@@ -1,0 +1,281 @@
+/* Hero Section */
+.heroContainer {
+  padding: 150px 20px 60px;
+  text-align: center;
+  background-color: #fff;
+}
+
+.title {
+  font-size: 2.5rem;
+  font-weight: 300;
+  color: #2c2c2c;
+  margin: 0 0 30px 0;
+  letter-spacing: 1px;
+}
+
+.descriptionWrapper {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.description {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  color: #666;
+  margin: 0;
+}
+
+/* Season Toggle */
+.seasonToggle {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  padding: 40px 20px;
+  background-color: #fff;
+}
+
+.activeSeason,
+.inactiveSeason {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 1rem;
+  text-decoration: none;
+  color: #2c2c2c;
+  transition: all 0.3s ease;
+  position: relative;
+  padding: 8px 0;
+}
+
+.activeSeason {
+  font-weight: 500;
+}
+
+.inactiveSeason {
+  color: #999;
+  font-weight: 400;
+}
+
+.inactiveSeason:hover {
+  color: #2c2c2c;
+}
+
+.statusDot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background-color: #ccc;
+}
+
+.activeSeason .statusDot {
+  background-color: #8B7355;
+}
+
+/* Table Container */
+.tableContainer {
+  max-width: 100%;
+  margin: 0 auto 60px;
+  background-color: #f8f8f8;
+  padding: 40px 0;
+}
+
+.tableWrapper {
+  overflow-x: auto;
+  margin: 0 20px;
+}
+
+/* Table Styles */
+.ratesTable {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  background-color: #fff;
+  font-size: 0.95rem;
+  min-width: 1200px;
+}
+
+/* Sticky Header */
+.ratesTable thead {
+  position: sticky;
+  top: 80px;
+  z-index: 10;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+.ratesTable thead tr {
+  background-color: #e8e8e8;
+}
+
+.ratesTable th {
+  padding: 25px 20px;
+  text-align: left;
+  font-weight: 400;
+  color: #2c2c2c;
+  border-bottom: none;
+  background-color: #e8e8e8;
+  font-size: 0.9rem;
+}
+
+.roomColumn {
+  width: 200px;
+  min-width: 200px;
+  padding-left: 30px;
+}
+
+.nightsColumn {
+  width: 140px;
+  min-width: 140px;
+}
+
+.dealColumn {
+  min-width: 160px;
+  text-align: center;
+  padding: 25px 15px;
+}
+
+.dealHeader {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: center;
+}
+
+.dealTitle {
+  font-weight: 400;
+  font-size: 0.95rem;
+  color: #2c2c2c;
+}
+
+.dateRange {
+  font-size: 0.8rem;
+  color: #777;
+  font-weight: 300;
+}
+
+/* Table Body */
+.ratesTable tbody tr {
+  border-bottom: none;
+  background-color: #fff;
+}
+
+.ratesTable tbody tr:hover {
+  background-color: #fafafa;
+}
+
+/* Add spacing between room groups */
+.ratesTable tbody tr:nth-child(4n+3) td,
+.ratesTable tbody tr:nth-child(4n+4) td {
+  border-bottom: 12px solid #f8f8f8;
+}
+
+.roomNameCell {
+  padding: 25px 20px;
+  vertical-align: middle;
+  border-right: none;
+  padding-left: 30px;
+  background-color: #fff;
+}
+
+.roomLink {
+  font-size: 0.95rem;
+  color: #2c2c2c;
+  text-decoration: none;
+  font-weight: 400;
+  transition: color 0.3s ease;
+  display: block;
+  margin-bottom: 6px;
+}
+
+.roomLink:hover {
+  color: #8B7355;
+  text-decoration: underline;
+}
+
+.roomMeta {
+  font-size: 0.85rem;
+  color: #999;
+  font-weight: 300;
+}
+
+.nightsCell {
+  padding: 20px 15px;
+  color: #666;
+  font-size: 0.9rem;
+  border-right: none;
+  background-color: #fff;
+}
+
+.priceCell {
+  padding: 20px 15px;
+  text-align: center;
+  color: #2c2c2c;
+  font-weight: 400;
+  font-size: 0.95rem;
+  background-color: #fff;
+}
+
+/* Responsive Design */
+@media (max-width: 1400px) {
+  .tableWrapper {
+    margin: 0 10px;
+  }
+}
+
+@media (max-width: 768px) {
+  .heroContainer {
+    padding: 120px 15px 40px;
+  }
+  
+  .title {
+    font-size: 2rem;
+  }
+  
+  .description {
+    font-size: 1rem;
+  }
+  
+  .seasonToggle {
+    gap: 20px;
+    padding: 30px 15px;
+  }
+  
+  .tableContainer {
+    padding: 20px 0;
+  }
+  
+  .ratesTable {
+    font-size: 0.85rem;
+  }
+  
+  .ratesTable thead {
+    top: 60px;
+  }
+  
+  .dealTitle {
+    font-size: 0.9rem;
+  }
+  
+  .dateRange {
+    font-size: 0.75rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .title {
+    font-size: 1.5rem;
+  }
+  
+  .heroContainer {
+    padding: 100px 10px 30px;
+  }
+  
+  .tableWrapper {
+    margin: 0 5px;
+  }
+  
+  .ratesTable {
+    min-width: 900px;
+    font-size: 0.8rem;
+  }
+}

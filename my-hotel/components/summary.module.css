@@ -1,0 +1,633 @@
+.travelDetailsSection {
+  width: 100%;
+  max-width: 1200px;
+  margin: 30px auto;
+  text-align: left;
+}
+
+.travelDetailsTitle {
+  font-size: 26px;
+  font-weight: 400;
+  color: #333;
+  padding-bottom: 15px;
+  margin-bottom: 30px;
+  border-bottom: 1px solid #e0e0e0; /* Vija poshtë titullit */
+  font-family: 'Times New Roman', serif; /* Për t'iu afruar stilit elegant */
+}
+
+.detailsGrid {
+  display: grid;
+  grid-template-columns: 1fr 1fr; /* 2 kolona */
+  column-gap: 100px; /* Hapësira mes kolonave */
+  row-gap: 25px;
+}
+
+.detailItem {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  border-bottom: none; 
+}
+
+.detailLabel {
+  font-weight: 600;
+  font-size: 15px;
+  color: #333;
+  min-width: 120px;
+}
+
+.detailValue {
+  font-weight: 400;
+  font-size: 15px;
+  color: #444;
+  text-align: right;
+}
+
+/* Mobile responsive */
+@media (max-width: 768px) {
+  .detailsGrid {
+    grid-template-columns: 1fr;
+    column-gap: 0;
+  }
+}
+.roomSectionSummary {
+  max-width: 1200px;
+  margin: 40px auto;
+}
+
+.sectionTitle {
+  font-size: 26px;
+  font-weight: 300;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 15px;
+  margin-bottom: 30px;
+}
+
+.roomTopRow {
+  display: flex;
+  gap: 40px;
+  margin-bottom: 40px;
+}
+
+
+.imageContainer {
+  position: relative;
+  flex: 0 0 400px;
+  height: 260px;
+}
+
+.mainRoomImg {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 2px;
+}
+.imageCountBadge {
+  position: absolute;
+  bottom: 8px; 
+  right: 8px;
+  background: rgba(0, 0, 0, 0.6); 
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 38px; 
+  height: 20px; 
+  border-radius: 2px; 
+  font-size: 11px;
+  font-weight: bold;
+  cursor: pointer;
+  border: none;
+}
+
+.galleryIcon {
+  display: flex;
+  align-items: center;
+  margin-left: 3px; 
+  font-size: 11px;
+  opacity: 0.9; 
+}
+.galleryIcon svg {
+  width: 14px;
+  height: 14px;
+}
+/* Info Section */
+.infoContainer {
+  flex: 1;
+}
+
+.roomHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 15px;
+}
+
+.roomTitle {
+  font-size: 28px;
+  margin: 0;
+  font-weight: 500;
+}
+
+.mainPriceTag {
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.specsRow {
+  display: flex;
+  gap: 25px;
+  color: #444;
+  font-size: 15px;
+  margin-bottom: 20px;
+}
+
+.roomFullDescription {
+  font-size: 15px;
+  line-height: 1.7;
+  color: #555;
+  margin-bottom: 20px;
+}
+/*  Details */
+.detailsContainer {
+  margin-top: 15px;
+}
+
+.detailsButton {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+  background-color: #f5f5f5; 
+  border: 0px solid #e0e0e0;
+  color: #333;
+  padding: 8px 20px;
+  font-size: 14px;
+  font-weight: 400;
+  border-radius: 2px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.detailsButton:hover {
+  background-color: #eeeeee;
+}
+
+
+.fullWidthEquipment {
+  width: 100%;
+  background-color: #ffffff;
+  padding: 25px 0;
+  margin-top: -70px;
+  border-top: 0px solid #eee;
+  animation: fadeIn 0.3s ease;
+}
+
+.equipmentTitle {
+  font-size: 18px;
+  font-weight: 500;
+  color: #1a1a1a;
+  margin-bottom: 20px;
+}
+
+.equipmentGrid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); 
+  gap: 15px 30px;
+}
+
+.equipmentItem {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  font-size: 14px;
+  color: #555;
+  line-height: 1.4;
+}
+
+.checkIcon {
+  color: #8a8a8a; 
+  font-size: 14px;
+  font-weight: bold;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(-10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@media (max-width: 768px) {
+  .equipmentGrid {
+    grid-template-columns: repeat(1, 1fr); 
+  }
+}
+.ratesHeaderStrip {
+  background: #f9f9f9;
+  border-top: 1px solid #eee;
+  border-bottom: 1px solid #eee;
+  padding: 15px 25px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-weight: 500;
+}
+
+.ratesTitleLeft {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.ratesDetailBody {
+  padding: 25px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.boardTypeRow {
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 4px;
+}
+
+.paxDetail {
+  color: #666;
+  font-size: 14px;
+  margin-left: 26px;
+}
+
+.ratePolicyMiddle {
+  font-size: 14px;
+  color: #444;
+}
+
+.learnMoreBtn {
+  background: none;
+  border: none;
+  text-decoration: underline;
+  cursor: pointer;
+  margin-left: 8px;
+  color: #444;
+}
+
+.ratePriceRight {
+  font-size: 22px;
+  font-weight: bold;
+}
+.imageContainer {
+  position: relative;
+  cursor: pointer;
+  overflow: hidden;
+}
+
+.imageContainer:hover .mainRoomImg {
+  transform: scale(1.05); 
+  transition: 0.3s;
+}
+
+.lightboxOverlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.9);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 9999;
+}
+
+.lightboxContent {
+  position: relative;
+  max-width: 80%;
+  max-height: 80%;
+}
+
+.lightboxContent img {
+  max-width: 100%;
+  max-height: 80vh;
+  border-radius: 4px;
+}
+
+.navBtnPrev, .navBtnNext {
+  position: absolute;
+  background: none;
+  border: none;
+  color: white;
+  font-size: 40px;
+  cursor: pointer;
+  padding: 20px;
+  z-index: 10000;
+}
+
+.navBtnPrev { left: 50px; }
+.navBtnNext { right: 50px; }
+
+.closeBtn {
+  position: absolute;
+  top: 30px;
+  right: 50px;
+  background: none;
+  border: none;
+  color: white;
+  font-size: 50px;
+  cursor: pointer;
+}
+
+.counter {
+  color: white;
+  text-align: center;
+  margin-top: 15px;
+  font-size: 14px;
+}
+
+/* RATES STRIP  */
+.ratesHeader {
+  background: #f1f1f1;
+  padding: 15px 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-top: 1px solid #ddd;
+  cursor: pointer;
+}
+
+.ratesTitle {
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.ratesHeaderPrice {
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.ratesSection {
+  padding: 25px 30px;
+  background: #fff;
+  border-top: 1px solid #eee;
+}
+
+.rateRow {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.boardType {
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.occupancySmall {
+  font-size: 13px;
+  color: #888;
+  margin-left: 25px;
+}
+
+.refundable {
+  color: #2e7d32; 
+  font-size: 14px;
+}
+
+.learnMore {
+  background: none;
+  border: none;
+  text-decoration: underline;
+  margin-left: 10px;
+  cursor: pointer;
+  color: #666;
+}
+
+.bottomPrice {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+/* Modal Overlay */
+.modalOverlay {
+  position: fixed;
+  top: 0; left: 0; width: 100%; height: 100%;
+  background: rgba(0,0,0,0.5);
+  display: flex; align-items: center; justify-content: center;
+  z-index: 1000;
+}
+
+.modalContent {
+  background: white;
+  padding: 40px;
+  max-width: 600px;
+  position: relative;
+}
+
+@media (max-width: 768px) {
+  .roomTopRow {
+    flex-direction: column;
+  }
+  .imageContainer {
+    flex: 0 0 auto;
+    width: 100%;
+  }
+  .equipmentGrid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+.closeBtn {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: #333; 
+  padding: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: opacity 0.2s;
+}
+.sectionTitleSmall {
+  font-size: 22px;
+  font-weight: 300;
+  margin: 40px 0 20px 0;
+  color: #333;
+}
+
+.summaryContainerr {
+  width: 100%;
+  display: flex;
+  justify-content: center; 
+  background-color: #fff;
+  padding: 40px 0;
+  margin-top: -50px;
+}
+
+.contenttWrapper {
+  width: 90%; 
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.fullWidthSection {
+  width: 100%;
+  margin-top: 50px;
+}
+
+.sectionTitleSmall {
+  font-size: 22px;
+  font-weight: 300;
+  margin-bottom: 20px;
+  color: #333;
+  width: 100%;
+}
+.withInfo{
+  display: flex;       
+  align-items: center;   
+  gap: 6px;
+}
+.infoIconWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 20px;
+  height: 20px;
+  color: #666;
+  cursor: pointer;
+}
+/* Insurance Card */
+.insuranceCard {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 25px 0;
+  border-top: 1px solid #ddd; 
+  width: 100%;
+}
+.insuranceLogo {
+  height: 80px;
+  width: 300px;
+}
+.insuranceLeft {
+  display: flex;
+  gap: 30px;
+  max-width: 75%;
+}
+
+.logoPlaceholder {
+  width: 150px;
+  font-weight: bold;
+  color: #c00; 
+}
+
+.insuranceInfo h4 {
+  font-size: 20px;
+  font-weight: 600;
+  margin: 0 0 10px 0;
+  font-family: 'Times New Roman', serif;
+}
+
+.insuranceInfo p {
+  font-size: 15.5px;
+  color: black;
+  line-height: 1.5;
+  margin-bottom: 6px;
+}
+
+.insuranceNote {
+  font-size: 14.5px !important;
+  color: black !important;
+}
+.insurancePrice {
+  display: flex;
+  flex-direction: column;
+  font-size: 18px;
+  color: black;
+  gap: 7px;
+}
+.amountSmall{
+    font-size: 18px;
+    color: black;
+    font-weight: 600;
+    justify-content: flex-end;
+    margin-right: 10px;
+}
+/* Price Details */
+.priceTable {
+  border-top: 1px solid #ddd;
+  width: 100%;
+}
+
+.priceRow {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px 0;
+  font-size: 16px;
+  color: #333;
+}
+
+.totalRow {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 25px 0;
+  margin-top: 10px;
+  border-top: 2px solid #222; 
+  font-weight: 600;
+}
+
+.finalTotal {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+/* Payment Row */
+.paymentRow {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 0;
+  border-top: 1px solid #ddd;
+  font-weight: 600;
+  font-size: 18px;
+}
+.finalActionRow {
+  display: flex;
+  justify-content: flex-end; 
+  margin-top: 30px;
+  margin-bottom: 50px;
+  width: 100%;
+}
+
+.confirmBookingBtn {
+  background-color: #a69689; 
+  color: white;
+  border: none;
+  padding: 15px 30px;
+  font-size: 16px;
+  font-weight: 500;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  transition: background-color 0.2s;
+}
+
+.confirmBookingBtn:hover {
+  background-color: #938478; 
+}
+
+.arrowRight {
+  font-size: 20px;
+  line-height: 1;
+}

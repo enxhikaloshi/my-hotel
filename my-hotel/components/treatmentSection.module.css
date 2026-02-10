@@ -1,0 +1,208 @@
+.whiteSectionContent {
+  max-width: 900px;         
+  margin: 0 auto;          
+  padding: 100px 100px;      
+  text-align: center;       
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: -50px;
+}
+
+.whiteTitle {
+  font-family: serif;      
+  font-size: 2.8rem;        
+  font-weight: 400;         
+  color: #333;             
+  line-height: 1.2;
+  margin-bottom: 20px;      
+  max-width: 700px;         
+}
+
+.whiteText {
+  font-family: sans-serif;
+  font-size: 1.1rem;
+  line-height: 1.8;     
+  color: #555;
+  max-width: 800px;
+}
+
+.whiteText strong {
+  font-weight: 600;
+  color: #222;
+}
+
+.link {
+  color: #333;
+  text-decoration: underline;
+  text-underline-offset: 4px; 
+  transition: opacity 0.3s ease;
+}
+
+.link:hover {
+  opacity: 0.7;
+}
+
+/* Për celularë */
+@media (max-width: 768px) {
+  .whiteTitle {
+    font-size: 2rem;
+  }
+  .whiteSectionContent {
+    padding: 60px 20px;
+  }
+}
+
+.pagewrapper {
+  width: 100%;
+  background: white;
+ display: block !important;
+  overflow: visible !important;
+}
+
+
+.whiteSection.fadeUpActive {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* STICKY SECTION */
+.stickySectionWrapper {
+  width: 100%;
+  align-items:start;
+  position: relative;
+  display: flex;
+  isolation: isolate;
+}
+
+.imageSection {
+  align-self: flex-start;
+  position: sticky;
+  left: 0;
+  top: 0;
+  width: 50vw;
+  height: 100vh;
+  z-index: 1;
+}
+
+.stickyImage {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.contentSection {
+  position: relative;  
+  width: 50vw;
+  padding: 60px 80px 80px;
+  background: white;
+  z-index: 2;
+ 
+}
+
+.filterContainer {
+  position: sticky;
+  top: 0;
+  background: white;
+  z-index: 10;
+  padding: 20px 0 30px;
+  margin-bottom: 50px;
+  border-bottom: 1px solid #e5e5e5;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.filterButton {
+  padding: 10px 10px;
+  border: 1px solid #d4c5b9;
+  background: white;
+  color: #666;
+  font-size: 0.8rem;
+  cursor: pointer;
+  transition: all 0.3s;
+  border-radius: 4px;
+  font-weight: 400;
+}
+
+.filterButton:hover {
+  background: #f5f5f5;
+  border-color: #8B7355;
+}
+
+.activeFilter {
+  background: #8B7355 !important;
+  color: white !important;
+  border-color: #8B7355 !important;
+}
+
+.listContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+}
+
+.treatmentItem {
+  padding-bottom: 40px;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.treatmentItem:last-child {
+  border-bottom: none;
+}
+
+.treatmentItem p:first-child {
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  color: #999;
+  letter-spacing: 1px;
+  margin-bottom: 8px;
+}
+
+.treatmentItem h2 {
+  font-size: 1.8rem;
+  font-weight: 300;
+  color: #333;
+  margin-bottom: 12px;
+}
+
+.treatmentItem p:nth-child(3) {
+  font-size: 0.95rem;
+  color: #666;
+  margin: 12px 0;
+}
+
+.treatmentItem p:nth-child(4) {
+  color: #666;
+  line-height: 1.7;
+  margin-bottom: 20px;
+}
+
+.treatmentItem button {
+  background: #a89584;
+  color: white;
+  border: none;
+  padding: 12px 32px;
+  font-size: 0.95rem;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+.treatmentItem button:hover {
+  background: #8B7355;
+}
+
+@media (max-width: 1024px) {
+  .imageSection {
+    position: relative;
+    width: 100%;
+    height: 50vh;
+    left: 0;
+  }
+  
+  .contentSection {
+    margin-left: 0;
+    width: 100%;
+    padding: 40px 30px 60px;
+  }
+}

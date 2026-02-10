@@ -1,0 +1,204 @@
+.calendarWrapper {
+  background: #fff;
+  padding: 20px;
+  -webkit-user-select:none;
+  user-select: none;
+}
+
+.monthsFlex {
+  display: flex;
+  gap: 40px;
+  justify-content: center;
+}
+
+.monthHeader {
+  text-align: center;
+  font-weight: 600;
+  margin-bottom: 20px;
+  font-size: 1.1rem;
+}
+
+.weekDays {
+  display: grid;
+  grid-template-columns: repeat(7, 40px);
+  text-align: center;
+  font-size: 0.85rem;
+  color: #666;
+  margin-bottom: 10px;
+}
+
+.daysGrid {
+  display: grid;
+  grid-template-columns: repeat(7, 40px);
+  grid-auto-rows: 40px;
+  gap: 2px 0;
+}
+
+.day {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  font-size: 0.9rem;
+  transition: all 0.2s;
+  position: relative;
+}
+
+/* Stilimi i "Arrival Possible" - Kutia jeshile */
+.day:hover:not(.booked) {
+  background-color: #90be6d;
+  color: white;
+}
+
+/* Ngjyra Blu për Selektimin si në foto */
+.selected {
+  background-color: #3d9be9; /* Bluja e saktë nga foto */
+  color: white;
+}
+
+/* Rregullimi i rrumbullakimit për rangun */
+.rangeStart {
+  border-top-left-radius: 50%;
+  border-bottom-left-radius: 50%;
+  background-color: #90be6d !important; /* Jeshile si "Arrival" */
+}
+
+.rangeEnd {
+  border-top-right-radius: 50%;
+  border-bottom-right-radius: 50%;
+  background-color: #3d9be9 !important;
+  border: 2px solid #3d9be9;
+  background: white !important;
+  color: #333 !important;
+  border-radius: 50%;
+}
+
+/* Efekti i vizës blu midis datave */
+.selected:not(.rangeStart):not(.rangeEnd) {
+  background-color: #3d9be9;
+  border-radius: 0;
+}
+
+.booked {
+  color: #ccc;
+  cursor: not-allowed;
+  text-decoration: line-through;
+}
+
+.legend {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 30px;
+  font-size: 0.85rem;
+}
+
+.legendItem { display: flex; align-items: center; gap: 8px; }
+
+.arrivalBox { width: 15px; height: 15px; background: #90be6d; }
+.departureBox { width: 15px; height: 15px; background: #f9a825; }
+.selectionBox { width: 15px; height: 15px; background: #3d9be9; }
+
+.navigation {
+  display: flex;
+  justify-content: space-between;
+  position: absolute;
+  width: 100%;
+  max-width: 900px;
+  pointer-events: none;
+}
+
+.navigation button {
+  pointer-events: all;
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: #666;
+}
+.calendarLegend {
+  display: flex;
+  justify-content: center;
+  gap: 25px;
+  margin-top: 20px;
+  padding: 15px;
+  border-top: 1px solid #eee;
+}
+
+.legendItem {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 14px;
+  color: #444;
+}
+
+.dot {
+  width: 12px;
+  height: 12px;
+  border-radius: 2px; /* Paksa katrore si në foto */
+}
+
+.arrival { background-color: #90be6d; }
+.departure { background-color: #f9a825; }
+.selection { background-color: #3d9be9; }
+
+.past {
+  color: #e0e0e0; 
+  cursor: not-allowed;
+  pointer-events: none; 
+}
+
+
+.past:hover {
+  background: none !important;
+  color: #e0e0e0 !important;
+}
+/* Stili për datat portokalli (Minimum Stay) */
+.departureNotPossible {
+  background-color: #f2a954 !important; /* Portokallia nga fotoja jote */
+  color: white !important;
+  cursor: default;
+  position: relative;
+}
+
+/* Tooltip-i i zi si në foto */
+.tooltip {
+  position: absolute;
+  bottom: -45px;
+  left: 50%;
+  transform: translateX(-10%);
+  background-color: #ffffff;
+  color: #000;
+  padding: 5px 10px;
+  border-radius: 2px;
+  font-size: 11px;
+  white-space: nowrap;
+  z-index: 100;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+  border: 1px solid #000;
+}
+
+/* Shigjeta e vogël e tooltip-it */
+.tooltip::before {
+  content: '';
+  position: absolute;
+  top: -5px;
+  left: 20%;
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+  border-bottom: 5px solid #000;
+}
+
+/* Selektimi Blu */
+.selected {
+  background-color: #3d9be9 !important;
+  color: white;
+}
+
+/* Rrethi i bardhë te data e fundit (si 29 në foto) */
+.rangeEnd {
+  border: 2px solid #3d9be9;
+  background-color: white !important;
+  color: #333 !important;
+  border-radius: 50%;
+}

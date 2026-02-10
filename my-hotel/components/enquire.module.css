@@ -1,0 +1,1416 @@
+.pageContainer {
+  background-color: #ffffff;
+  min-height: 100vh;
+}
+
+.mainContent {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 80px 20px;
+  text-align: center;
+}
+
+.mainTitle {
+  font-size: 42px;
+  font-weight: 300;
+  color: #333;
+  margin-bottom: 25px;
+}
+
+.subTitle {
+  font-size: 18px;
+  color: #666;
+  line-height: 1.6;
+  margin-bottom: 60px;
+}
+
+.boldText {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.enquireForm {
+  text-align: left;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.sectionHeading {
+  font-size: 20px;
+  font-weight: 400;
+  margin-bottom: 25px;
+  color: #222;
+}
+
+.formRow {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  margin-bottom: 25px;
+}
+.inputGroup {
+  position: relative;
+  display: flex;
+  align-items: center;
+  border:1px solid #e0e0e0;
+  width: 100%;
+  cursor: pointer;
+  transition: border-color 0.3s;
+  padding-left: 10px;
+  height:50px
+}
+
+.inputIcon {
+  margin-right: 12px;
+  color: #444;
+  flex-shrink: 0;
+}
+.datePickerWrapper {
+  flex-grow: 1; 
+}
+
+.datePickerInput {
+  width: 100%;
+  border: none !important;
+  padding: 12px 0;
+  font-size: 15px;
+  background: transparent;
+  outline: none;
+  cursor: pointer;
+  color: #333;
+}
+
+.arrow {
+  color: #888;
+  margin-left: 10px; 
+  flex-shrink: 0; 
+  pointer-events: none;
+  position: absolute;
+  right: 10;
+
+}
+
+:global(.react-datepicker__month-container) {
+  float: left !important;
+  background-color: white;
+}
+
+:global(.react-datepicker) {
+  display: flex !important;
+  flex-direction: row;
+  border: 1px solid #e2e1db !important;
+  border-radius: 4px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+  font-family: inherit;
+}
+
+/* Ngjyra e datave të bllokuara */
+:global(.react-datepicker__day--disabled) {
+  color: #ccc !important;
+  cursor: not-allowed;
+  background: transparent !important;
+}
+
+
+:global(.react-datepicker__day--today) {
+  font-weight: bold;
+  color: #000;
+}
+
+:global(.react-datepicker__day--in-range) {
+  background-color: #f4f1ea !important; /* Ngjyra bezhë e hapur e hotelit */
+  color: #000 !important;
+}
+
+:global(.react-datepicker__day--range-start),
+:global(.react-datepicker__day--range-end) {
+  background-color: #8b7a5e !important; /* Ngjyra gold/kafe për fillimin dhe fundin */
+  color: white !important;
+}
+
+.textInput, .selectInput {
+  border: none;
+  outline: none;
+  width: 100%;
+  font-size: 15px;
+  color: #444;
+  background: transparent;
+  
+}
+
+.selectionCards {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  margin-bottom: 30px;
+}
+
+.selectionCard {
+  cursor: pointer;
+  border: 1px solid #f0f0f0;
+  background-color: #f9f9f9;
+  padding: 25px;
+  border-radius: 4px;
+  transition: 0.3s;
+}
+
+.radioHidden {
+  display: none;
+}
+
+.cardContent {
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+
+.radioCircle {
+  width: 18px;
+  height: 18px;
+  border: 1px solid #ccc;
+  border-radius: 50%;
+  margin-right: 15px;
+  position: relative;
+}
+
+.radioHidden:checked + .cardContent .radioCircle {
+  border-color: #888;
+  background-color: #888;
+}
+
+.radioHidden:checked + .cardContent .radioCircle::after {
+  content: "";
+  position: absolute;
+  top: 4px;
+  left: 4px;
+  width: 8px;
+  height: 8px;
+  background: white;
+  border-radius: 50%;
+}
+
+.cardText {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+.cardTitle {
+  font-weight: 500;
+  font-size: 15px;
+  color: #333;
+}
+
+.cardSub {
+  font-size: 13px;
+  color: #777;
+}
+
+.cardIcon {
+  color: #ddd;
+}
+
+.addStayBtn {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  background: #f2f2f2;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 15px;
+  color: #333;
+  transition: 0.2s;
+  width:380px
+}
+.addroomBtn{
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  background: #f2f2f2;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 15px;
+  color: #333;
+  transition: 0.2s;
+  margin-bottom: 10px;
+  width:380px;
+}
+.addroomBtn:hover{
+    background: #e8e8e8
+}
+.addStayBtn:hover {
+  background: #e8e8e8;
+}
+
+.plusIcon {
+  background: #ccc;
+  color: white;
+  width: 24px;
+  height: 24px;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.personalInfoSection {
+  margin-top: 60px;
+  border-top: 1px solid #eee;
+  padding-top: 40px;
+  text-align: left;
+}
+
+.titleSelection {
+  margin-bottom: 30px;
+}
+
+.fieldLabel {
+  font-size: 13px;
+  color: #888;
+  margin-bottom: 10px;
+}
+
+.titleButtons {
+  display: flex;
+  background: #f5f5f5;
+  padding: 4px;
+  border-radius: 6px;
+  width: fit-content;
+}
+
+.titleBtn {
+  border: none;
+  background: transparent;
+  padding: 8px 25px;
+  font-size: 14px;
+  cursor: pointer;
+  border-radius: 4px;
+  transition: 0.2s;
+}
+
+.activeTitle {
+  background: white;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+
+.formGrid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 30px 40px;
+  margin-bottom: 30px;
+  
+}
+.lineInput {
+  padding: 12px 0;
+  font-size: 15px;
+  outline: none;
+  transition: border-color 0.3s;
+  border: 1px solid #e0e0e0 ;
+  border-radius: 8px;
+  padding-left: 20px;  
+  padding-right: 20px; 
+  display: flex;
+  align-items: center;
+}
+.lineInput:focus {
+  border-color: rgb(35, 171, 35);
+}
+
+.inputHint {
+  display: block;
+  font-size: 11px;
+  color: #aaa;
+  margin-top: 5px;
+}
+
+.addressToggle {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background: none;
+  border: none;
+  font-size: 14px;
+  font-weight: 600;
+  color: #333;
+  cursor: pointer;
+  margin: 20px 0;
+}
+
+.commentArea {
+  width: 100%;
+  border:1px solid #e0e0e0;
+  border-bottom: 1px solid #e0e0e0;
+  min-height: 50px;
+  font-family: inherit;
+  font-size: 15px;
+  resize: vertical;
+  outline: none;
+  transition: min-height 0.3s ease;
+  resize: vertical;
+}
+.commentArea:focus{
+    min-height: 90px;
+    box-shadow: #ccc;
+}
+.CheckboxRow {
+  width: 20px;
+  height: 20px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap:12px;
+}
+.checkboxRow label {
+  display: inline-flex;
+  align-items: center; 
+   
+  gap: 8px;
+  cursor: pointer;
+  line-height: 1.4;
+}
+
+.infoCircle {
+  display: inline-flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 16px;
+  height: 16px;
+  background: #ddd;
+  border-radius: 50%;
+  font-size: 11px;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  flex-shrink: 0;
+  position: relative;
+}
+
+.requiredNote {
+  font-size: 12px;
+  font-style: italic;
+  color: #999;
+  margin-top: 15px;
+}
+
+.submitBtn {
+  width: 5 00px;
+  background: #d4cfc7;
+  color: #333;
+  border: none;
+  padding: 15px;
+  font-size: 16px;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-top: 30px;
+  transition: 0.3s;
+}
+
+.submitBtn:hover {
+  background: #c5bfb5;
+}
+
+.inputBox {
+  display: flex;
+  align-items: center;
+  border: 1px solid #e0e0e0;
+  padding: 12px 14px;
+  border-radius: 4px;
+  cursor: pointer;
+  position: relative;
+  background-color: #fff;
+  min-height: 40px;
+  display: flex;
+  flex-direction: row;
+  padding: 0 5px;
+}
+.flexCenter{
+  display: flex;
+  align-items: center; 
+  gap: 10px; 
+  overflow: hidden; 
+}
+.arrow {
+  color: #aaa;
+  margin-left: 120px;
+}
+
+/*  DROPDOWN */
+.guestsDropdown {
+  position: absolute;
+  top: calc(100% + 8px); 
+  left: 0;
+  width: 100%;
+  min-width: 280px; 
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+  padding: 24px;
+  z-index: 1000;
+  cursor: default; 
+
+}
+
+.guestRow {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+ 
+}
+
+.guestValue {
+  font-size: 14px;
+  font-weight: 500;
+  color: #333;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.guestSub {
+  font-size: 12px;
+  color: #888;
+  margin-top: 2px;
+}
+.iconn{
+    display: inline-flex;
+ margin-right: 10px;
+  color: #444;
+  flex-shrink: 0;
+}
+
+/* COUNTER  */
+.counter {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 4px;
+  border-radius: 6px;
+}
+
+.counter button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 30px;
+  height: 30px;
+  background-color: #f5f5f5;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  color: #333;
+  transition: background 0.2s;
+}
+
+.counter button:hover {
+  background-color: #e8e8e8;
+}
+
+.counter span {
+  font-size: 16px;
+  font-weight: 500;
+  min-width: 20px;
+  text-align: center;
+}
+
+/* BOARD OPTION SELECT */
+.boardSelect {
+  margin-top: 20px;
+  padding-top: 15px;
+  border-top: 1px solid #f0f0f0;
+}
+
+.boardSelect label {
+  display: block;
+  font-size: 12px;
+  color: #aaa;
+  text-transform: uppercase;
+  margin-bottom: 8px;
+  letter-spacing: 0.5px;
+}
+
+.boardSelect select {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #eee;
+  border-radius: 4px;
+  font-size: 14px;
+  outline: none;
+  background-color: #fff;
+}
+
+/* BUTONI SAVE */
+.saveBtn {
+  width: 100%;
+  background-color: #d4cfc9 ; 
+  color: white;
+  border: none;
+  padding: 12px;
+  border-radius: 4px;
+  margin-top: 20px;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: opacity 0.2s;
+}
+
+.saveBtn:hover {
+  opacity: 0.9;
+}
+/* --- MODAL OVERLAY  --- */
+.modalOverlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.6); 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+  -webkit-backdrop-filter: blur(3px);
+  backdrop-filter: blur(3px); 
+}
+
+/* --- main window --- */
+.roomModal {
+  background: #fff;
+  width: 90%;
+  max-width: 800px;
+  height: 95vh;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+  animation: modalSlideUp 0.4s ease-out;
+  
+}
+
+@keyframes modalSlideUp {
+  from { opacity: 0; transform: translateY(30px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* --- HEADER 0f MODAL --- */
+.modalHeader {
+  padding: 7px 40px;
+  border-bottom: 1px solid #f0f0f0;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.modalTitle {
+  font-size: 24px;
+  font-weight: 400;
+  margin-bottom: 5px;
+  color: #333;
+}
+
+.modalSelectionHint {
+  font-size: 14px;
+  color: #888;
+}
+
+.closeBtn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: #999;
+  transition: color 0.2s;
+}
+
+.closeBtn:hover { color: red; }
+
+/* --- Rooms section --- */
+.modalScrollArea {
+  flex: 1;
+  overflow-y: auto;
+  padding: 30px 40px;
+  
+}
+
+/* Stilization of Scrollbar (Chrome/Safari) */
+.modalScrollArea::-webkit-scrollbar {
+  width: 6px;
+}
+.modalScrollArea::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+.modalScrollArea::-webkit-scrollbar-thumb {
+  background: #d4cfc7;
+  border-radius: 10px;
+}
+
+/* --- Grid of rooms --- */
+.roomsGrid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 5px;
+  
+}
+
+.modalRoomCard {
+  cursor: pointer;
+  transition: transform 0.3s ease;
+  border: 1px solid grey;
+}
+
+.modalRoomCard:hover {
+  transform: translateY(-5px);
+}
+
+.modalImgWrapper {
+  position: relative;
+  aspect-ratio: 14 / 7;
+  overflow: hidden;
+  margin-bottom: 12px;
+}
+
+.modalImgWrapper img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.5s ease;
+}
+
+.modalRoomCard:hover img {
+  transform: scale(1.05);
+}
+
+/* --- CHECKBOX OVER IMAGE --- */
+.checkIcon {
+  position: absolute;
+  bottom: 15px;
+  left: 15px;
+  z-index: 2;
+}
+
+.customBox {
+  width: 20px;
+  height: 20px;
+  border: 1px solid #fff;
+  background: rgba(0, 0, 0, 0.2);
+  transition: all 0.2s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.checked {
+  background: #d4cfc9; 
+}
+
+
+.checked::after {
+  content: '✓';
+  color: white;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+/* --- INFO OF ROOMS IN MODAL --- */
+.modalRoomInfo h4 {
+  font-size: 18px;
+  font-weight: 500;
+  margin-top: 10px;
+  color: #333;
+}
+
+.modalRoomInfo p {
+  font-size: 14px;
+  color: #777;
+  margin-top:15px;
+}
+
+/* --- FOOTER OF MODAL  --- */
+.modalFooter {
+  padding: 25px 40px;
+  border-top: 1px solid #f0f0f0;
+  display: flex;
+  justify-content: center;
+}
+
+.confirmAddBtn {
+  background: #e5e2dd; 
+  border: none;
+  padding: 15px 50px;
+  font-size: 14px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+.confirmAddBtn:hover {
+  background: #d4cfc7;
+}
+.stayHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.removeStayBtn {
+  background: none;
+  border: none;
+  color: #888;
+  cursor: pointer;
+  padding: 5px;
+  transition: color 0.2s;
+}
+
+.removeStayBtn:hover {
+  color: #ff4d4d;
+}
+
+.stayDivider {
+  border: 0;
+  border-top: 1px solid #eee;
+  margin: 40px 0;
+}
+
+.selectedRoomTitle {
+  font-size: 14px;
+  font-weight: 500;
+  margin: 20px 0 10px 0;
+  color: #333;
+}
+
+.addedRoomsList {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); 
+  gap: 15px; 
+  margin-bottom: 15px;
+}
+
+.addedRoomItem {
+  border: 1px solid #eee;
+  background: #fff;
+  border-radius: 4px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Imazhi i dhomës */
+.roomThumb {
+  width: 100%;
+  aspect-ratio: 13 / 7; 
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+
+.removeBtnOverlay {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  background: rgba(255, 255, 255, 0.8);
+  border-radius: 50%;
+  padding: 4px;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background 0.2s;
+}
+
+.removeBtnOverlay:hover {
+  background: #fff;
+}
+
+
+@media (max-width: 600px) {
+  .addedRoomsList {
+    grid-template-columns: 1fr;
+  }
+}
+.phoneInputContainer {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  height: 45px;
+  max-width: 400px;
+  border: 1px solid #e2e8f0; 
+  border-radius: 4px;
+  background-color: white;
+  padding-left: 4px;
+  margin-bottom: 8px;
+
+  cursor: text;
+}
+
+.phoneInputContainer:focus-within {
+  border-color: rgb(35, 171, 35); 
+  
+}
+
+.customSelectorButton:global(.react-international-phone-country-selector-button--active) {
+    background: #f1f5f9 !important;
+}
+.addressToggleBtn {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background: none;
+  border: none;
+  color: #444;
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+  padding: 0;
+  margin-bottom: 20px;
+}
+
+.toggleIcon {
+  border: 1.5px solid #444;
+  border-radius: 50%;
+  padding: 1px;
+}
+
+.addressGrid {
+  display: grid;
+  grid-template-columns: 1.5fr 1fr 1fr 1.5fr;
+  gap: 20px;
+  margin-bottom: 20px;
+}
+
+.selectWrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: fit-content;
+  cursor: pointer;
+}
+
+.lineInputSelect {
+  width: 140px;
+  border: none;
+  border-bottom: 1px solid #ccc;
+  padding: 10px 0;
+  font-size: 15px;
+  background: transparent;
+  appearance: none;
+  outline: none;
+  padding-right: 25px;
+}
+
+.selectArrow {
+  position:absolute;
+  right: 0;
+  color: #888;
+  pointer-events: none;
+}
+.tooltipBox {
+  visibility: hidden;
+  width: 280px; 
+  background-color: #ffffff;
+  color: #000000;
+  text-align: left;
+  border: 1px solid #e2e8f0;
+  padding: 12px;
+  border-radius: 4px;
+  font-size: 11px; 
+  line-height: 1.5;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  position: absolute;
+  bottom: 125%; 
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 100;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+.tooltipBox::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #ffffff transparent transparent transparent;
+}
+.infoCircle:hover .tooltipBox {
+  visibility: visible;
+  opacity: 1;
+}
+.privacyLink {
+  color: #000;
+  text-decoration: underline;
+  font-weight: 600;
+}
+
+.privacyLink:hover {
+  color: #555;
+}
+.boardSection {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.boardLabel {
+  display: block;
+  font-size: 14px;
+  color: #888; 
+  margin-bottom: 10px;
+}
+
+.boardSelectWrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.boardSelect {
+  width: 100%;
+  padding: 12px;
+  font-size: 16px;
+  color: #444;
+  background-color: #fff;
+  border: 1px solid #d1d5db; 
+  border-radius: 4px;
+  appearance: none; 
+  cursor: pointer;
+  outline: none;
+}
+
+.boardArrow {
+  position: absolute;
+  right: 12px;
+  bottom: 10px;
+  color: #d1d5db;
+  pointer-events: none;
+}
+
+.inputWrapper {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  position: relative;
+  margin-bottom: 20px;
+}
+
+.errorLine {
+  border-bottom: 2px solid #ff0000 !important;
+  transition: border-color 0.3s ease;
+}
+
+.errorBorder {
+  border: 1px solid #ff0000 !important;
+  border-radius: 4px;
+  background-color: #fff8f8; 
+  transition: all 0.3s ease;
+}
+.errorText {
+  color: #ff0000;
+  font-size: 12px;
+  margin-top: 5px;
+  font-weight: 500;
+  animation: fadeIn 0.3s ease-in; 
+}
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(-5px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* Carousel styles */
+.carouselWrapper {
+  width: 100%;
+  padding: 60px 0 60px 120px; 
+  overflow: hidden;
+  background-color: transparent;
+}
+
+.slide {
+  height: auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.imageContainer {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 12 / 8; 
+  overflow: hidden;
+  border-radius: 2px; 
+}
+
+.carouselImage {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.6s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+
+
+.imageContainer:hover .carouselImage {
+  transform: scale(1.08);
+}
+
+
+.priceBubble {
+  position: absolute;
+  bottom: 25px;
+  left: 20px;
+  background-color: white;
+  padding: 10px 22px;
+  border-radius: 40px;
+  font-size: 14px;
+  color: #1a1a1a;
+  font-weight: 400;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08);
+  z-index: 10;
+}
+
+.infoContent {
+  padding: 25px 0;
+  text-align: left;
+}
+
+.titleText {
+  font-size: 26px;
+  font-weight: 300; 
+  color: #333;
+  margin-bottom: 10px;
+  letter-spacing: 0.5px;
+}
+
+.descriptionText {
+  font-size: 15px;
+  color: #777;
+  margin-bottom: 4px;
+  font-weight: 300;
+}
+
+.dateText {
+  font-size: 15px;
+  color: #777;
+  margin-bottom: 20px;
+  font-weight: 300;
+}
+
+.showDetailsLink {
+  display: inline-flex;
+  align-items: center;
+  text-decoration: none;
+  color: #b5a397; 
+  font-size: 13px;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  transition: color 0.3s ease;
+}
+
+.showDetailsLink:hover {
+  color: #8e7d72;
+}
+
+/* --- Navigimi Bottom --- */
+
+.navigationBottom {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+  margin-top: 30px;
+ 
+}
+
+.counter {
+  font-size: 16px;
+  color: #333;
+  font-family: 'Times New Roman', serif; 
+ 
+}
+
+.arrows {
+  display: flex;
+  padding-left: 1100px;
+  gap: 20px;
+}
+
+.navBtn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #333;
+  transition: transform 0.2s ease, opacity 0.2s ease;
+}
+
+.navBtn:hover {
+  opacity: 0.6;
+  transform: translateX(-3px); 
+}
+
+.navBtn:last-child:hover {
+  transform: translateX(3px); 
+}
+/*Background */
+.sectionWrapper {
+  position: relative;
+  width: 100%;
+  background-image: 
+    linear-gradient(
+      to bottom, 
+      rgba(30, 45, 65, 0.9) 0%,   
+      rgba(30, 45, 65, 0.4) 30%,  
+      transparent 100%            
+    ),
+    url('/hotel_imagee13.png');
+  
+  background-size: cover;
+  background-position: center;
+  background-attachment: scroll; 
+  padding-bottom: 100px;
+}
+
+.carouselWrapper {
+  width: 100%;
+  padding: 80px 0 60px 160px;
+  background-color: transparent; 
+}
+/*treatments*/
+
+.extrasSection {
+  max-width: 900px; 
+  margin: 0 auto 40px auto; 
+  padding: 0 20px;
+}
+
+
+.extrasContainer {
+  display: grid;
+  grid-template-columns: 440px 1fr; 
+  gap: 15px;
+  margin-top: 15px;
+  align-items: stretch; 
+}
+
+/* Karta e trajtimit */
+.treatmentCard {
+  border: 1px solid #e2e2e2;
+  border-radius: 4px;
+  background: #fff;
+  display: flex;
+  flex-direction: column;
+}
+
+
+.treatmentTop {
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid #f5f5f5;
+  min-height: 10px; 
+}
+
+
+.extrasNote {
+  width: 100%;
+  height: 70px;
+  border: 1px solid #e2e2e2;
+  border-radius: 4px;
+  padding: 15px;
+  font-family: inherit;
+  font-size: 14px;
+  resize: none;
+  outline: none;
+}
+
+.addAdditionalBtn {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  background: #f2f2f2;
+  border: none;
+  padding: 12px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+  color: #333;
+  width: 440px; 
+  margin-top: 15px;
+}
+
+.treatmentInfo h4 {
+  margin: 0;
+  font-size: 15px;
+  font-weight: 600;
+  color: #333;
+}
+
+.treatmentInfo p {
+  margin: 5px 0 0;
+  font-size: 13px;
+  color: #777;
+}
+
+.amountSection {
+  padding: 12px 10px;
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.amountLabel {
+  font-size: 14px;
+  color: #666;
+}
+
+.extrasNote:focus {
+  border-color: #ccc;
+  box-shadow: #ccc;
+}
+/* Containeri i Modal-it për Extras */
+.extrasModal {
+  background: #fff;
+  width: 90%;
+  max-width: 850px; /* Pak më e gjerë se ajo e dhomave */
+  max-height: 85vh;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  border-radius: 8px;
+  padding: 30px;
+}
+
+.modalCategorySelect {
+  margin-bottom: 25px;
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  border: 1 px solid #ccc;
+  
+}
+.fieldLabel{
+  font-size: 14px;
+  color:#ccc;
+
+}
+.lineInputSelect{
+  width: 200px;
+  color:darkgray;
+}
+/* Rrjeta e shërbimeve brenda modal-it */
+.servicesGrid {
+  display: grid;
+  grid-template-columns: 1fr 1fr; /* 2 kolona si në foto */
+  gap: 15px;
+  overflow-y: auto;
+  padding-right: 10px;
+}
+
+/* Karta e vogël brenda modal-it */
+.serviceItemCard {
+  border: 1px solid #eee;
+  padding: 20px;
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 120px;
+}
+
+.serviceItemInfo h5 {
+  margin: 0;
+  font-size: 15px;
+  color: #333;
+  line-height: 1.4;
+}
+
+.serviceItemInfo p {
+  margin: 8px 0 0;
+  font-size: 13px;
+  color: #888;
+}
+
+/* Counter-i i vogël brenda kartës së modal-it */
+.serviceActionRow {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 10px;
+}
+/*offers section*/
+.selectedOfferSection {
+  margin-bottom: 30px;
+}
+
+.offerCard {
+  display: flex;
+  align-items: center;
+  background: #fff;
+  border: 1px solid #eaeaea;
+  padding: 12px;
+  gap: 15px;
+  position: relative;
+  transition: all 0.2s;
+  width: 400px;
+}
+
+.offerThumb {
+  width: 80px;
+  height: 60px;
+  flex-shrink: 0;
+  background: #f9f9f9;
+}
+
+.offerThumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.offerTitleText {
+  display: block;
+  font-weight: 600;
+  font-size: 15px;
+  color: #333;
+}
+
+.offerDescriptionText {
+  font-size: 13px;
+  color: #777;
+  margin: 0;
+}
+/* Shto këtë që butoni të dijë ku të qëndrojë */
+.treatmentTop {
+  position: relative; 
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  width: 100%;
+}
+
+.removeOfferX {
+  position: absolute;
+  top: -7px;    
+  right: 39px;  
+  background: black;
+  border: 1px solid black;
+  border-radius: 50%;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  z-index: 10;   
+  color: white;  
+}
+
+.removeOfferX:hover {
+  background: black;
+}

@@ -1,0 +1,169 @@
+.buttonCenterWrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;     
+  width: 100%;
+ padding: 0 0 60px 0;
+      
+}
+.button {
+  display: block;         
+  margin: 10px auto;
+  background-color: #e8e4e1; 
+  color: #5e503f;           
+  padding: 16px 35px;      
+  font-size: 1.1rem;
+  font-weight: 300;
+  text-decoration: none;
+  font-family: serif;       
+  border: none;
+  border-radius: 0px;        
+  cursor: pointer;
+  transition: background-color 0.3s ease, opacity 0.2s;
+  width: fit-content;
+}
+.button:hover {
+  background-color: #dfdad5; 
+  opacity: 0.9;
+}
+
+
+@media (max-width: 768px) {
+  .button {
+    font-size: 1.1rem;
+    padding: 14px 30px;
+  }
+}
+.whiteSectionContent {
+  max-width: 900px;         
+  margin: 0 auto;          
+  padding: 100px 100px 20px 100px;   
+  text-align: center;       
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: -50px;
+}
+
+.whiteTitle {
+  font-family: serif;      
+  font-size: 2.8rem;        
+  font-weight: 400;         
+  color: #333;             
+  line-height: 1.2;
+  margin-bottom: 20px;      
+  max-width: 700px;         
+}
+
+.whiteText {
+  font-family: sans-serif;
+  font-size: 1.1rem;
+  line-height: 1.8;     
+  color: #555;
+  max-width: 800px;
+}
+
+.whiteText strong {
+  font-weight: 600;
+  color: #222;
+}
+
+.link {
+  color: #333;
+  text-decoration: underline;
+  text-underline-offset: 4px; 
+  transition: opacity 0.3s ease;
+}
+
+.link:hover {
+  opacity: 0.7;
+}
+
+
+@media (max-width: 768px) {
+  .whiteTitle {
+    font-size: 2rem;
+  }
+  .whiteSectionContent {
+    padding: 60px 20px;
+  }
+}
+.mapSection {
+  position: relative;
+  width: 100%;
+  height: 500px; 
+  overflow: hidden;
+  line-height: 0; 
+}
+
+.mapSection iframe {
+  filter: grayscale(0.2) contrast(1.1); 
+}
+
+
+.mapOverlayLogo {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  pointer-events: none; 
+}
+
+.atLogoBadge {
+  background-color: white;
+  padding: 10px 15px;
+  font-weight: bold;
+  font-family: sans-serif;
+  color: #a5b651; 
+  box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+  border-radius: 2px;
+}
+.tipsSection {
+  padding: 80px 20px;
+  background-color: #ffffff;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.tipsContent {
+  max-width: 850px; 
+}
+
+.tipsTitle {
+  font-family: serif;
+  font-size: 2.5rem;
+  color: #333;
+  font-weight: 400;
+  margin-bottom: 30px;
+}
+
+.tipsDescription {
+  font-family: sans-serif;
+  font-size: 1.15rem;
+  line-height: 1.6;
+  color: #555;
+}
+
+
+.underlineLink {
+  color: #333;
+  text-decoration: none;
+  border-bottom: 1px solid #333; 
+  transition: opacity 0.2s ease;
+}
+
+.underlineLink:hover {
+  opacity: 0.7;
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+  .tipsTitle {
+    font-size: 1.8rem;
+  }
+  .tipsSection {
+    padding: 50px 15px;
+  }
+}

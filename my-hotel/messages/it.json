@@ -1,0 +1,1183 @@
+ 
+{
+  "metadata": {
+    "title": "Alpen Tesitin Hotel Panorama Resort - Dolomiti 5 Stelle",
+    "siteName": "Hotel Alpen Tesitin",
+    "description": "Alpen Tesitin: esclusivo hotel di lusso 5 stelle nel cuore delle Dolomiti. Vivete un'eleganza alpina senza pari con suite panoramiche, cucina gourmet e un centro benessere di livello mondiale.",
+    "keywords": "prenotazione hotel,Alpi Italiane,Dolomiti,Alto Adige,hotel 5 stelle,lusso alpino,suite panoramiche,wellness hotel,spa di lusso,ristorante gourmet,Alpen Tesitin,trattamenti benessere,centro estetico,parrucchiere,noleggio auto,palestra attrezzata,sauna finlandese,bagno turco,offerte speciali,pacchetti vacanza,meteo Dolomiti,previsioni montane,escursioni guidate,sci invernale",
+    "author": "Alpen Tesitin",
+    "ogImageAlt": "Alpen Tesitin Hotel - Hotel di lusso a 5 stelle con vista panoramica sulle Dolomiti"
+  },
+  "HomePage": {
+    "main_title": "Alpen Tesitin – il vostro hotel da sogno a 5 stelle in Val Pusteria",
+    "main_description": "Il nostro hotel in Val Pusteria, l'Alpen Tesitin, è un consiglio riservato per chi cerca qualcosa di speciale. Per il riposo e il comfort. Per il benessere e le esperienze in Alto Adige. Davanti ai vostri occhi si ergono le maestose vette delle Dolomiti che dominano il panorama e vi trasportano in un mondo di bellezza incomparabile. Alberi, spazi aperti, montagne e sole all'esterno. Un'atmosfera armoniosa e accogliente e un comfort lussuoso all'interno. In più, un team affiatato che soddisfa ogni vostro desiderio. E una vacanza che rimarrà per sempre nel vostro cuore.",
+    
+    "wellness_title": "Wellness",
+    "wellness_text": "Un mondo di ampie piscine e saune rilassanti, con area benessere, salone di bellezza e palestra, vi attende nel nostro hotel a Welsberg, Taisten.",
+    
+    "architecture": "Architettura",
+    "cuisine": "Cucina",
+    "panoramic_location": "Posizione panoramica",
+    
+    "offers_title": "Hotel a Taisten: offerte",
+    "offers_subtitle": "Desiderate un weekend romantico per coppie, una vacanza in famiglia ricca di avventure o semplicemente una fuga nella natura? La nostra ampia varietà di offerte metterà il sorriso sul volto di tutti.",
+    "show_offers": "Mostra tutte le offerte",
+    
+    "testimonial_text": "Il vostro hotel è uno dei posti migliori che abbiamo visitato. Il luogo, il personale, la spa e i pasti, tutto è stato perfetto.",
+    "testimonial_author": "La famiglia Gennetay",
+    
+    "holiday_title": "Una vacanza all'Alpen Tesitin - le vette della gioia",
+    "holiday_text": "Qui, dove le maestose vette toccano il cielo e la natura fiorisce nella sua forma più pura, vi aspetta la felicità delle vacanze.",
+    
+    "experiences_title": "Esperienze",
+    "experiences_text": "Qui da noi vi aspettano il più grande carosello sciistico del mondo e i leggendari sentieri escursionistici delle Dolomiti, insieme a percorsi solitari nella natura innevata e entusiasmanti itinerari in bicicletta fino ai prati alpini fioriti.",
+    "read_more": "Leggi di più",
+    
+    "car_rental": "Noleggio auto",
+    "vouchers": "Buoni",
+    "impressions": "Immagini",
+    
+    "slide1_title": "ammirazione",
+    "slide1_desc": "Godetevi l'estensione infinita della piscina infinity e lasciatevi trasportare dall'acqua mentre ammirate il panorama mozzafiato alla luce del mattino.",
+    
+    "slide2_title": "colazione abbondante (7.15 – 11.00)",
+    "slide2_desc": "Una sinfonia di espresso profumato e cappuccino cremoso, più pane croccante del panificio biologico, miele dell'apicoltore di Taisten, waffle soffici, il miglior prosciutto e molto altro. Servito sulla nostra terrazza in estate.",
+    
+    "slide3_title": "avventura",
+    "slide3_desc": "Una gita in barca a remi sul Lago di Braies/Pragser Wildsee, sci sul Plan de Corones/Kronplatz, escursioni nel patrimonio UNESCO delle Dolomiti o sci di fondo nella pace invernale della Val Casies/Gsieser Tal – in ogni stagione, c'è così tanto da amare in Alta Pusteria/Hochpustertal.",
+    
+    "slide4_title": "buffet di pranzo (12.30 – 16.30)",
+    "slide4_desc": "Scegliete tra insalate fresche, antipasti fini e zuppe gustose, oltre a torte fatte in casa e prelibatezze della pasticceria AT.",
+    
+    "slide5_title": "un giro",
+    "slide5_desc": "Mercedes, Porsche o Lamborghini: scoprite la pura libertà sulle strade di montagna delle Dolomiti con il nostro noleggio di auto di lusso.",
+    
+    "slide6_title": "relax",
+    "slide6_desc": "Il lusso naturale è a portata di mano nel nostro mondo benessere. Ampie aree piscina, accoglienti oasi sauna e trattamenti rigeneranti vi invitano a indugiare e sognare.",
+    
+    "slide7_title": "aperitivo",
+    "slide7_desc": "Accomodatevi nella bellezza naturale della nostra terrazza, circondati da maestose vette montuose. Qui, immersi in questa splendida cornice, l'aperitivo diventa un'esperienza per tutti i sensi.",
+    
+    "slide8_title": "cena gourmet (18.45 – 20.45)",
+    "slide8_desc": "Il momento clou della giornata: un raffinato menu gourmet da 5 a 7 portate che vi accompagna in un viaggio culinario attraverso gli aromi dell'Alto Adige e dell'Italia.",
+    
+    "slide9_title": "cin cin!",
+    "slide9_desc": "Godetevi la nostra selezione di drink eccellenti mentre ripensate alle avventure della giornata. Nel nostro bar troverete sempre l'atmosfera giusta per creare nuovi ricordi.",
+    
+    "slide10_title": "tempo di coccolarsi",
+    "slide10_desc": "Lasciatevi avvolgere dalle nostre belle camere e suite e concedetevi un meritato relax dopo una giornata emozionante. Benvenuti nella vostra oasi di benessere personale.",
+        "sideSection": {
+      "items": {
+        "wellness": {
+          "title": "Wellness",
+          "description": "Un mondo di<link> piscine spaziose</link> e saune rilassanti, con area bellezza, salone di parrucchiere e palestra, vi attende nel nostro hotel a Monguelfo, Tesido."
+        },
+        "architecture": {
+          "title": "Architettura",
+          "description": "Sperimentate il fascino alpino con una nuova sfumatura: Progettato con vetrate dal pavimento al soffitto e un design contemporaneo, l'Alpen Tesitin offre comfort lussuoso in un'atmosfera ultramoderna."
+        },
+        "cuisine": {
+          "title": "Cucina",
+          "description": "Nel nostro hotel in Val Pusteria, la cucina si trasforma in un'esperienza autentica. Perché siamo appassionati di mostrarvi l'unica varietà della cucina altoatesina."
+        },
+        "panoramicLocation": {
+          "title": "Posizione panoramica",
+          "description": "Sopra Tesido, uno dei \"villaggi del sole\" dell'Alto Adige, in mezzo a prati incontaminati e fitte foreste, l'Alpen Tesitin gode di viste illimitate sulle Dolomiti Patrimonio UNESCO."
+        }
+      },
+      "activities": {
+        "experiences": {
+          "title": "Esperienze",
+          "description": "Qui da noi vi aspettano il più grande carosello sciistico del mondo e i leggendari sentieri escursionistici delle Dolomiti accanto a percorsi solitari attraverso la natura innevata e itinerari in bici emozionanti verso prati alpini fioriti."
+        },
+        "carRental": {
+          "title": "Noleggio auto",
+          "description": "Che sia in Porsche o Lamborghini – con le sue strade di montagna panoramiche e i leggendari passi dolomitici, la Val Pusteria offre un ambiente unico per esperienze di guida indimenticabili."
+        },
+        "vouchers": {
+          "title": "Buoni regalo",
+          "description": "Regalate ai vostri cari momenti che toccano il cuore in uno dei posti più belli dell'Alto Adige. L'Alpen Tesitin, il vostro hotel in Val Pusteria, vi aspetta!"
+        },
+        "impressions": {
+          "title": "Immagini",
+          "description": "Cliccatevi attraverso il nostro mondo di maestose cime delle Dolomiti e lussuosi servizi a 5 stelle – la meraviglia è garantita!"
+        }
+      }
+    }
+  },
+
+  "CarRentalPage": {
+    "title": "Noleggio auto all'Alpen Tesitin",
+    "description": "Che viaggiate senza auto o vogliate provare la pura libertà sulle strade di montagna delle Dolomiti, prenotate con noi all'Alpen Tesitin l'auto dei vostri sogni e collezionate esperienze di guida indimenticabili.",
+    "note": "Nota: Il noleggio auto è disponibile esclusivamente per gli ospiti che soggiornano all'Alpen Tesitin.",
+    
+    "vwPolo": {
+      "title": "AT VW Polo",
+      "description": "VW Polo con cambio manuale, assicurazione di responsabilità civile e consegna da pieno a pieno. 1 giorno €45. Da 5 giorni €35 al giorno"
+    },
+    
+    "bmwIx": {
+      "title": "BMW iX 60",
+      "description": "BMW iX 60 (completamente elettrica) con un'autonomia di 701 km, 544 CV, cambio automatico e trazione integrale. Assicurazione completa con franchigia di €1.000. Ricarica gratuita in hotel. 1 giorno: €95. Da 5 giorni: €85 al giorno"
+    },
+    
+    "mercedesG500": {
+      "title": "Mercedes-Benz G 500",
+      "description": "Mercedes-Benz G 500 con cambio automatico e trazione integrale, assicurazione completa con franchigia di €2.000 e consegna da pieno a pieno. 1 giorno €380. Da 5 giorni €320 al giorno"
+    },
+    
+    "porsche911": {
+      "title": "Porsche 911 Carrera 4 GTS (992)",
+      "intro": "Vivi giornate da sogno nelle Dolomiti con cabriolet da sogno. Requisiti: età minima di 30 anni e patente di guida valida da almeno 10 anni.",
+      "halfDay": "½ giornata (4 ore)",
+      "km150": "150 km",
+      "price330": "€ 330",
+      "oneDay": "1 giorno (8 ore)",
+      "km250": "250 km",
+      "price500": "€ 500",
+      "threeDays": "3 giorni",
+      "km700": "700 km",
+      "price1250": "€ 1.250",
+      "sixDays": "6 giorni",
+      "km1400": "1.400 km",
+      "price2400": "€ 2.400",
+      "tenDayPackage": "Pacchetto 10 giorni (01.05. – 31.10.)",
+      "km2200": "2.200 km",
+      "price3700": "€ 3.700",
+      "additionalKm": "Ogni chilometro aggiuntivo €2,50",
+      "petrol": "Benzina da pieno a pieno (98 o 100 ottani – Super Plus)"
+    },
+    
+    "mercedesAMG": {
+      "title": "Mercedes-Benz AMG GTC",
+      "intro": "Assapora la potenza concentrata della Mercedes-Benz AMG GTC mentre ti libri elegantemente in curva conquistando le strade della Val Pusteria. Requisiti: età minima di 30 anni e patente di guida valida da almeno 10 anni.",
+      "halfDay": "½ giornata (4 ore)",
+      "km150": "150 km",
+      "price330": "€ 330",
+      "oneDay": "1 giorno (8 ore)",
+      "km250": "250 km",
+      "price500": "€ 500",
+      "threeDays": "3 giorni",
+      "km700": "700 km",
+      "price1250": "€ 1.250",
+      "sixDays": "6 giorni",
+      "km1400": "1.400 km",
+      "price2400": "€ 2.400",
+      "tenDayPackage": "Pacchetto 10 giorni (01.05. – 31.10.)",
+      "km2200": "2.200 km",
+      "price3700": "€ 3.700",
+      "additionalKm": "Ogni chilometro aggiuntivo €2,50",
+      "petrol": "Benzina da pieno a pieno (98 o 100 ottani – Super Plus)"
+    },
+    
+    "lamborghini": {
+      "title": "Lamborghini Huracan Evo Spyder",
+      "intro": "Vivi giornate da sogno nelle Dolomiti con cabriolet da sogno. Requisiti: esperienza con auto sportive, età minima di 40 anni e patente di guida valida da almeno 10 anni.",
+      "halfDay": "½ giornata (4 ore)",
+      "km150": "150 km",
+      "price620": "€ 620",
+      "oneDay": "1 giorno (8 ore)",
+      "km250": "250 km",
+      "price990": "€ 990",
+      "threeDays": "3 giorni",
+      "km700": "700 km",
+      "price2550": "€ 2.550",
+      "sixDays": "6 giorni",
+      "km1400": "1.400 km",
+      "price5000": "€ 5.000",
+      "tenDayPackage": "Pacchetto 10 giorni (01.05. – 31.10.)",
+      "km2200": "2.200 km",
+      "price8200": "€ 8.200",
+      "additionalKm": "Ogni chilometro aggiuntivo €2,50",
+      "petrol": "Benzina da pieno a pieno (100 ottani – Super Plus)"
+    },
+    
+    "table": {
+      "rentalDuration": "Durata noleggio",
+      "included": "Incluso",
+      "rate": "Tariffa"
+    },
+    
+    "seeContract": "Vedi il contratto di noleggio",
+    
+    "responsibility": {
+      "title": "Piacere di guida con responsabilità",
+      "quote": "Per ogni guida in cabriolet, piantiamo nuovi alberi per compensare le emissioni di CO2. In questo modo, non solo rimangono viaggi indimenticabili, ma anche un contributo sostenibile alla natura.",
+      "signature": "Famiglia Feichter e il Team AT"
+    },
+    
+    "voucher": {
+      "title": "Dillo con un buono",
+      "subtitle": "… per gli amanti delle auto sportive, degli entusiasti delle scoperte e di tutti coloro che vogliono provare il brivido della guida.",
+      "description": "Puoi acquistare buoni per il nostro noleggio auto direttamente da noi in hotel. Ti preghiamo di notare che è possibile riscattarli solo in combinazione con un soggiorno in hotel. Per qualsiasi domanda, non esitare a contattarci in qualsiasi momento."
+    }
+  },
+  
+  "LivePage": {
+    "heroTitle": "Il nostro hotel di lusso in Alto Adige con servizi a 5 stelle",
+    "intro": "Troverai una vasta gamma di <link>servizi inclusi</link> all'Alpen Tesitin. Per stuzzicare il tuo appetito per la vacanza, ecco una rapida anteprima di tutto il lusso del nostro hotel in Alto Adige.",
+    "services": {
+      "item1": "<strong>Abbondante colazione a buffet</strong> dalle 7:15 alle 11:00",
+      "item2": "<link>Pranzo e buffet pomeridiano:</link> fresco e diverso ogni giorno, sempre preparato con amore",
+      "item3": "Cena gourmet con <strong>menu gourmet da 5 a 7 portate</strong>",
+      "item4": "<strong>10 escursioni guidate o 6 escursioni con le ciaspole</strong> a settimana. Scopri la natura della Val Pusteria sia in estate che in inverno.",
+      "item5": "<strong>3 giorni di sci guidati</strong> a settimana in inverno",
+      "item6": "12<strong> sessioni di rilassamento</strong> a settimana con esercizi mattutini, acquagym, yoga, rilassamento della schiena, stretching, allenamento per gambe, addominali e glutei e molto altro",
+      "item7": "<strong>Guest Pass:</strong> condizioni speciali per partecipare a eventi ed escursioni organizzate dall'associazione turistica; uso gratuito dei trasporti pubblici",
+      "item8": "<strong>Divertimento in acqua:</strong> piscina interna (33°C) e piscina esterna (34°C) più piscina infinity esterna (20x9m) con effetto wow, vista da sogno a 180° e temperatura dell'acqua di 32°C",
+      "item9": "<strong>Ampia area sauna</strong> con vista fenomenale sulle Dolomiti Patrimonio UNESCO"
+    },
+    "button": "E molto altro",
+    "infoSections": {
+      "family": {
+        "title": "Viaggiate con la famiglia?",
+        "text": "Dalle ampie camere familiari alle attività e servizi a misura di bambino, ci assicuriamo che vi sentiate come a casa nel nostro hotel di lusso in Alto Adige e che possiate godervi al massimo il vostro soggiorno. Durante il giorno potrete esplorare insieme i dintorni, sguazzare in piscina o affrontare le piste da sci o i sentieri per mountain bike. Perché una cosa è garantita: la famiglia è al centro di tutto ciò che facciamo qui e facciamo di tutto per trasformare il vostro soggiorno in un'esperienza indimenticabile per tutte le età."
+      },
+      "adventures": {
+        "title": "Avventure che si trasformano in ricordi",
+        "text": "Che siate in vetta, in escursione attraverso prati fioriti o semplicemente godendovi la tranquillità della natura, il nostro hotel di lusso in Alto Adige vi offre il punto di partenza ideale per esperienze indimenticabili nel nostro unico mondo montano."
+      }
+    },
+    "holidayMagic": "La magia delle vacanze è nell'aria<br/>nel nostro hotel di lusso in Val Pusteria"
+  },
+  
+  "InclusiveServicesPage": {
+    "heroTitle": "I nostri servizi inclusi – per rendere la vostra vacanza impareggiabile",
+    "heroDescription": "La maestosa vista delle <strong>Dolomiti di Braies</strong>. L'aria di montagna <strong>straordinariamente limpida</strong>. L'atmosfera <strong>rilassante e amichevole</strong>. La vostra vacanza all'Alpen Tesitin? Dedicata al ristoro, all'equilibrio interiore e alla gioia di vivere.<br/><br/>Cos'altro vi attende? Dolce ozio. Romanticismo. Un cocktail appetitoso da sorseggiare mentre ripensate a una <link>giornata fantastica</link> e anticipate una serata di piaceri culinari. Più i nostri raffinati <strong>servizi inclusi</strong>. Per un'esperienza di vacanza perfetta sotto ogni aspetto.",
+    "accordion": {
+      "cuisine": {
+        "title": "Cucina: piacere³",
+        "intro": "Godetevi le cose belle della vita durante la vostra vacanza in Val Pusteria con la nostra <strong>mezza pensione gourmet da ¾</strong>.",
+        "breakfast": {
+          "title": "Abbondante colazione a buffet dalle 7.15 alle 11.00",
+          "items": {
+            "item1": "Vi serviamo fragranti espresso e cremosi cappuccino per aiutarvi a svegliarvi. Potete anche aspettarvi pane croccante del fornaio biologico, brioche ancora calde dal forno, deliziose torte della nostra pasticceria interna, fini prosciutti dell'Alto Adige e di altre regioni italiane, formaggi saporiti, piatti a base di uova biologiche preparati su ordinazione, creme spalmabili fatte in casa e miele di un apicoltore di Tesido, succhi di frutta e smoothie, waffle soffici e molto, molto altro. Puro piacere per la colazione!",
+            "item2": "Potete anche ordinare la colazione in camera in qualsiasi momento tramite il servizio in camera (a pagamento aggiuntivo)."
+          }
+        },
+        "lunch": {
+          "title": "Pranzo e buffet pomeridiano: fresco e diverso ogni giorno, sempre preparato con amore",
+          "items": {
+            "item1": "Dalle 12.30 alle 14.00: piatto caldo per il pranzo dalla show kitchen",
+            "item2": "Dalle 12.30 alle 16.30: Buffet pomeridiano con insalate fresche e fini antipasti, zuppe gustose e pane croccante del fornaio biologico, torte fatte in casa e prelibatezze della pasticceria AT",
+            "item3": "Dalle 12.30: Frutta deliziosa, bastoncini di verdura con salse, frutta secca e noci, oltre a una varietà di tè e succhi dal nostro wellness bar",
+            "item4": "Dalle 12.00 alle 14.00: pranzo à la carte esclusivo nel nostro ristorante (a pagamento aggiuntivo)."
+          }
+        },
+        "dinner": {
+          "title": "Cena gourmet con menu gourmet dalle 18.45 alle 20.45",
+          "items": {
+            "item1": "La sera, il nostro team di cucina vi vizia con un menu gourmet da 5 a 7 portate. Imbarcatevi in un viaggio culinario attraverso l'Alto Adige e il resto dell'Italia. Siete anche i benvenuti a scegliere la cena dal menu à la carte. Aperitivi, serate a tema, buffet di dessert con dolci tentazioni, una squisita cena di gala e le specialità della show kitchen completano la vostra esperienza gourmet."
+          }
+        },
+        "indulgence": {
+          "title": "Godimento culinario dal mattino alla sera",
+          "items": {
+            "item1": "<strong>Menu 24 ore:</strong> Siamo lieti di viziarvi con i piatti à la carte più pregni 24 ore su 24 (a pagamento aggiuntivo).",
+            "item2": "I nostri sommelier Gerold e Max vi guidano appassionatamente attraverso il nostro <strong>mondo del vino con 365 etichette.</strong>",
+            "item3": "La cantina del vino AT con vista sulle montagne mozzafiato è una cornice impressionante per le <strong>degustazioni di vino bisettimanali</strong> (a pagamento aggiuntivo)."
+          }
+        }
+      },
+      "activities": {
+        "title": "Attività: esperienze attive",
+        "intro": "Scoprite i <strong>luoghi più spettacolari</strong> delle <strong>Dolomiti</strong> ed esplorate la natura affascinante intorno al vostro rifugio di vacanza.",
+        "summer": {
+          "title": "In estate",
+          "items": {
+            "item1": "<strong>10 escursioni guidate</strong>, tour in montagna ed escursioni avventurose a settimana",
+            "item2": "Noleggio di <strong>mountain bike</strong> con casco (incluso)",
+            "item3": "Noleggio di <strong>gravel bike</strong> con casco (a pagamento aggiuntivo)",
+            "item4": "Noleggio di <strong>e-bike complete</strong> incluso casco (a pagamento aggiuntivo)",
+            "item5": "Dolce vita su due ruote: <strong>noleggio Vespa</strong> incluso casco (a pagamento aggiuntivo)"
+          }
+        },
+        "winter": {
+          "title": "In inverno",
+          "items": {
+            "item1": "6 <strong>escursioni con le ciaspole guidate</strong> a settimana",
+            "item2": "3 <strong>giornate di sci guidate</strong> a settimana: Scoprite le migliori aree sciistiche delle Dolomiti.",
+            "item3": "I nostri <strong>navetta sci AT gratuiti</strong> vi trasportano in soli 14 minuti nella zona sciistica numero 1 dell'Alto Adige, il Plan de Corones/Kronplatz"
+          }
+        },
+        "yearRound": {
+          "title": "Tutto l'anno",
+          "items": {
+            "item1": "12 <strong>sessioni di rilassamento</strong> a settimana con esercizi mattutini, acquagym, yoga, rilassamento della schiena, stretching, allenamento per gambe, addominali e glutei e molto altro",
+            "item2": "Palestra di 140m² <strong>inondata di luce</strong> con vista mozzafiato sulle Dolomiti",
+            "item3": "Supporto individuale da un <strong>personal trainer</strong> in palestra (a pagamento aggiuntivo)",
+            "item4": "Sala di 100m² <strong>inondata di luce per esercizi e yoga</strong>",
+            "item5": "<strong>Guest Pass:</strong> Condizioni speciali per la partecipazione ad eventi ed escursioni organizzate dall'associazione turistica e uso gratuito dei trasporti pubblici (esclusi: navetta per l'altopiano di Prato Piazza/Plätzwiese e Rifugio Auronzo e trasporto di cani e bici)",
+            "item6": "<strong>Noleggio gratuito:</strong> bastoncini da trekking e Nordic walking, zaini, borracce, carte escursionistiche, ciaspole e molto altro",
+            "item7": "<strong>Angolo montagna:</strong> Angolo montagna con consigli per escursioni, mappe e molto altro",
+            "item8": "Riceverete tutte le foto scattate dalla nostra guida escursionistica durante le escursioni via WeTransfer in formato originale (alternativa: chiavetta USB a 5€)."
+          }
+        }
+      },
+      "wellness": {
+        "title": "Wellness: rilassatevi e godetevi",
+        "intro": "Fermatevi un momento. Ascoltate i vostri pensieri. Scoprite la gioia di rallentare. E anticipate i rilassanti servizi inclusi.",
+        "items": {
+          "item1": "Sacca spa, morbidi accappatoi e morbide pantofole AT",
+          "item2": "<strong>Piscina interna</strong> (33°C) e <strong>piscina esterna</strong> (34°C) con vista unica sulle Dolomiti per gli amanti delle cose raffinate",
+          "item3": "Felicità natatoria al culmine: <strong>piscina infinity esterna al sole</strong> (20x9m) con effetto wow, vista da sogno a 180° e temperatura dell'acqua di 32°C",
+          "item4": "<strong>Whirlpool infinity di lusso</strong> (8x5m) con vista mozzafiato sulle Dolomiti e acqua calda a 36°C; aperto agli ospiti di età pari o superiore a 16 anni",
+          "item5": "<strong>Piscina relax infinity con acqua salina</strong> (8x5m) con acqua salata per galleggiare e rilassarsi a 36°C; area nudista – aperta agli ospiti di età pari o superiore a 16 anni",
+          "item6": "<strong>Piscina fredda</strong> (8x3m) con acqua di sorgente di montagna fresca a 14°C; area nudista – aperta agli ospiti di età pari o superiore a 16 anni",
+          "item7": "<strong>Il nostro mondo sauna:</strong> sauna con infusioni esperienziali, sauna finlandese panoramica, sauna in legno di kelo, sauna bio-soft alle erbe in legno di pino svizzero, bagno turco aromatico di cristallo, bagno turco con acqua salina e lettini a infrarossi; area nudista – aperta agli ospiti di età pari o superiore a 16 anni",
+          "item8": "Sauna bio-soft e bagno turco aromatico nella <strong>zona vestiti intorno alla piscina</strong>",
+          "item9": "12 dipendenti spa eccellentemente formati per <strong>trattamenti e massaggi</strong>",
+          "item10": "<strong>Prato panoramico per prendere il sole</strong> con comode sdraio, altalene e nidi accoglienti (in estate)",
+          "item11": "Nel giardino della sauna: prato per prendere il sole con altalene e sdraio con vista sulle montagne (in estate, aperto agli ospiti di età pari o superiore a 16 anni)",
+          "item12": "Nicchie accoglienti e letti d'acqua in bellissime <strong>sale relax panoramiche</strong>",
+          "item13": "<strong>Sala relax Wi-Fi</strong> con letti comodi",
+          "item14": "<strong>Bar wellness</strong> con frutta fresca e bastoncini di verdura con salse, frutta secca e noci, oltre ad acqua di sorgente, tè e succhi",
+          "item15": "Tre <strong>eventi infusioni in sauna</strong> al giorno con temi vari",
+          "item16": "<strong>Peeling alle erbe</strong> giornalieri nel bagno turco aromatico di cristallo",
+          "item17": "Focolare romantico nel giardino della sauna (in inverno)"
+        }
+      },
+      "kids": {
+        "title": "I nostri servizi per bambini e ragazzi",
+        "intro": "C'è anche molto per rendere felici bambini e ragazzi durante la vostra vacanza in Val Pusteria.",
+        "items": {
+          "item1": "Accappatoi morbidi e pantofole AT in taglie per bambini e ragazzi",
+          "item2": "Stanza <strong>per bambini e ragazzi</strong> con tante attrazioni (angolo relax, parete per arrampicata, simulatore di guida Lamborghini, calcio balilla, Lego morbidi, tavolo da gioco Fun4Four e molto altro)",
+          "item3": "Divertimento in acqua: <strong>Piscina interna</strong> (33°C) e <strong>piscina esterna</strong> (34°C) più <strong>piscina infinity esterna al sole</strong> (20x9m) con effetto wow, vista da sogno a 180° e temperatura dell'acqua di 32°C",
+          "item4": "<strong>Sauna bio-soft</strong> e <strong>bagno turco aromatico</strong> nella zona vestiti intorno alla piscina",
+          "item5": "Disponibili in prestito su prenotazione: bollitore in camera, seggioloni, lettino, baby monitor, passeggino, marsupio per escursioni",
+          "item6": "Una selezione di deliziosi piatti per bambini"
+        }
+      }
+    }
+  },
+
+  "RelaxPage": {
+    "heroTitle": "Il vostro hotel benessere in Val Pusteria con vista sulle Dolomiti",
+    "heroDescription": "Le Dolomiti a portata di mano, la natura rigogliosa proprio fuori dalla finestra – nel nostro <strong>hotel benessere in Val Pusteria,</strong> vivrete il wellness in una cornice che vi farà battere il cuore. Durante un tuffo nella piscina interna o esterna, sarete immersi nel panorama montano mozzafiato riflesso nell'acqua cristallina mentre lo sguardo si perde sulle maestose vette di fronte a voi. La magia delle Dolomiti vi accompagna persino nel caldo della sauna o mentre vi fate sudare nella <link>palestra e sala esercizi.</link> E mentre vi coccoliamo nelle nostre sale trattamento, sarete avvolti dalla bellezza della natura e immersi nella pace e nel comfort.",
+    "spaTitle": "Un hotel benessere & sport in Val Pusteria<br/>che risveglia i vostri sensi",
+    "relaxActivities": {
+      "warmth": {
+        "title": "Avvolti dal calore",
+        "description": "Profumi erboristici rilassanti vi guidano attraverso l'ampia area sauna del nostro hotel benessere in Val Pusteria. Seguite semplicemente il naso, ma tenete anche gli occhi aperti, perché la vista dalle nostre otto saune e bagni turchi è semplicemente mozzafiato!"
+      },
+      "water": {
+        "title": "Circondati dall'acqua",
+        "description": "Tutta la tensione si dissolve nelle piscine interna ed esterna riscaldate tutto l'anno del nostro hotel benessere in Val Pusteria, mentre una seduta nella vasca idromassaggio gorgogliante vi farà sentire rinati."
+      }
+    },
+    "infoSections": {
+      "pampered": {
+        "title": "Coccolati da professionisti",
+        "text": "Assaporate la <link1>sensazione di leggerezza</link1> e ritrovate la gioia di vivere grazie alla forza della natura – sia in <link2>inverno</link2> che in <link3>estate</link3>. La <strong>vasta selezione di massaggi e trattamenti</strong> del nostro hotel benessere in Val Pusteria riflette la varietà dell'Alto Adige e vi permette di trovare il metodo di trattamento che si adatta perfettamente a voi e alle vostre esigenze. Il nostro <strong>esperto di capelli</strong> esalterà anche la vostra bellezza naturale con un nuovo taglio o un'acconciatura alla moda – per un'occasione speciale o semplicemente per piacere."
+      },
+      "revitalised": {
+        "title": "Rivitalizzati dalla freschezza",
+        "text": "Vale davvero la pena fare una visita al <strong>bar benessere</strong>. Frutta fresca e bastoncini di verdura con salse, frutta secca, acqua di sorgente, tè e succhi sono meravigliosamente rinfrescanti – ed è anche un ottimo posto per fermarsi per una chiacchierata amichevole."
+      }
+    },
+    "activeHotel": {
+      "title": "Cercate un hotel attivo in Alto Adige?",
+      "description": "Se siete affascinati dalle Dolomiti, amerete assolutamente la nostra <strong>palestra e sala esercizi</strong> con vista sulle Pale di San Martino. È aperta dalle <strong>7.00 alle 22.00</strong> – con guida professionale se lo desiderate. Si svolgono anche regolarmente sessioni di rilassamento e fitness come yoga e stretching."
+    },
+    "catalog": {
+      "title": "Catalogo bellezza",
+      "download": "Scarica"
+    }
+  },
+  
+  "PoolPage": {
+    "heroTitle": "Ristoro acquatico nel nostro hotel in Val Pusteria con piscina",
+    "heroDescription": "Acqua dolce, pace ipnotizzante e viste incantevoli – il mondo acquatico del nostro <strong>hotel in Val Pusteria con piscina</strong> è un luogo di magico <link>rilassamento</link>. Che siate alla deriva nelle acque rinfrescanti o vi stiate crogiolando al sole su una sdraio accanto alla piscina.",
+    "poolData": {
+      "infinityPool": {
+        "title": "Highlight: piscina infinity al sole in Val Pusteria",
+        "specs": "(20x9m | 32°C)",
+        "text": "Nuotate in cima al mondo nella nostra piscina infinity al sole. L'interazione tra l'acqua cristallina riscaldata a 32°C e le viste gloriosi crea un'atmosfera magica che vi invita a lasciare lo stress quotidiano alle spalle e ad abbandonarvi anima e corpo al momento. Il nostro hotel con piscina esterna riscaldata in Alto Adige promette momenti wow e una vista da sogno a 180°."
+      },
+      "indoorPool": {
+        "title": "Piscina interna panoramica",
+        "specs": "(26m di lunghezza | 34°C)",
+        "text": "Circondato da finestre dal pavimento al soffitto che aprono una vista incantevole sulle maestose Dolomiti, nel nostro hotel in Val Pusteria con piscina, potete fare un tuffo mentre vi immergete nella bellezza della natura. Oppure potete scivolare attraverso il passaggio verso la piscina esterna – lunga 26 metri e riscaldata a una piacevole temperatura di 34°C tutto l'anno."
+      },
+      "brinePool": {
+        "title": "Piscina relax infinity con acqua salina",
+        "specs": "(8x5m | 36°C)",
+        "text": "L'acqua salina calda accarezza dolcemente la pelle e aiuta a sciogliere ogni traccia di tensione. Questa piscina conquisterà il vostro cuore con il suo design unico e le viste infinite. In estate, potrete quindi accomodarvi sulle sdraio all'aperto, mentre in inverno calore e tranquillità vi attendono all'interno.<br /><br />Si prega di notare che la piscina relax infinity con acqua salina è un'area nudista. Aperta solo agli ospiti di età pari o superiore a 16 anni."
+      },
+      "whirlpool": {
+        "title": "Whirlpool infinity di lusso",
+        "specs": "(8x5m | 36°C)",
+        "text": "Che stiate godendovi un momento di relax in solitudine o condividendo lo whirlpool con amici o il vostro partner, questo rifugio lussuoso con un panorama mozzafiato sulle Dolomiti vi offre un'esperienza di benessere indimenticabile. Lasciate che i getti d'acqua gorgoglianti vi coccolino e vivete un'esperienza di balneazione a 36°C che non dimenticherete facilmente.<br /><br />Aperto solo agli ospiti di età pari o superiore a 16 anni."
+      },
+      "plungePool": {
+        "title": "Piscina fredda",
+        "specs": "(8x3m | 14°C)",
+        "text": "Dopo una sessione in sauna o una doccia calda nel nostro hotel in Val Pusteria con piscina, un rapido tuffo nella piscina fredda è un'esperienza di benessere che stimola la circolazione e rivitalizza il corpo. L'acqua di sorgente di montagna fresca a 14°C vi fa sentire rinfrescati e rivitalizzati.<br /><br />Si prega di notare che la piscina fredda è un'area nudista. Aperta solo agli ospiti di età pari o superiore a 16 anni."
+      }
+    }
+  },
+  
+  "SaunaPage": {
+    "heroTitle": "Il vostro hotel con area sauna in Alto Adige",
+    "heroDescription": "<strong>Ogni giorno dalle 12.00 alle 19.30</strong> nel nostro <strong>hotel con sauna in Alto Adige</strong>, la porta si apre su un mondo di<link1> profondo relax</link1>, dove potete rilassarvi nel calore rigenerante e sentirvi pervasi da un rinnovato senso di leggerezza. È un luogo in cui non solo godrete del benefico calore delle nostre saune, ma vi immergerete anche in fenomenali vedute delle<link2> Dolomiti Patrimonio UNESCO</link2>.",
+    "dailyInfusions": "3 infusioni sauna & peeling ogni giorno",
+    "saunaData": {
+      "infusionSauna": {
+        "title": "Sauna con infusioni esperienziali",
+        "specs": "80-85°C | 10-20% umidità | area nudista",
+        "text": "La nostra sauna finlandese in Val Pusteria, realizzata in pregiato legno di noce, rafforza il sistema immunitario, allena il sistema cardiovascolare, abbassa la pressione sanguigna, purifica il corpo e rilassa i muscoli. Migliora anche il flusso sanguigno al sistema respiratorio e aumenta l'efficienza complessiva. Le regolari sessioni in sauna possono prevenire l'iperacidità, rallentare l'invecchiamento della pelle e alleviare mal di testa ed emicranie."
+      },
+      "panoramicSauna": {
+        "title": "Sauna panoramica con infusioni in legno antico",
+        "specs": "75-80°C | 10-20% umidità | area nudista",
+        "text": "Una sauna per tutti, compresi i principianti, con un effetto fantastico: rafforza il sistema immunitario, attiva le difese dell'organismo, allena il sistema cardiovascolare, rilassa i muscoli, migliora il flusso sanguigno alle mucose, aumenta le prestazioni … e ha una vista di cui vi innamorerete!"
+      },
+      "bioSauna": {
+        "title": "Sauna bio-soft alle erbe in legno di pino svizzero",
+        "specs": "60-65°C | 35-45% umidità | area nudista",
+        "text": "Una sauna delicata per principianti e persone con problemi circolatori. La miscela di erbe (calendula, melissa, menta piperita) del giardino dell'Alpen Tesitin e la vista mozzafiato verso l'orizzonte lavorano in sinergia per aiutarvi a rilassarvi."
+      },
+      "finnishSauna": {
+        "title": "Sauna finlandese in legno di kelo",
+        "specs": "90°C | 10-20% umidità | area nudista",
+        "text": "Il calore secco della sauna finlandese è una panacea per gli appassionati di sauna esperti. Rafforza le difese dell'organismo e il sistema cardiovascolare, rilassa i muscoli e aiuta contro i segni dell'invecchiamento, il mal di testa e l'emicrania."
+      },
+      "crystalBath": {
+        "title": "Bagno di cristallo",
+        "specs": "40-45°C | 100% umidità | area nudista",
+        "text": "Qui i pori si aprono per consentire a maschere o peeling di penetrare negli strati più profondi della pelle per una nutrizione ancora più efficace. Anche il sistema immunitario viene rafforzato, la circolazione stimolata e le vie respiratorie liberate."
+      },
+      "brineBath": {
+        "title": "Bagno turco di acqua salina Sorapis",
+        "specs": "40-45°C | 100% umidità | area nudista",
+        "text": "Godetevi la combinazione ideale di calore, sale e umidità nel bagno turco di acqua salina. Ha un effetto distensivo, purificante, nutriente e rilassante."
+      },
+      "infraredLoungers": {
+        "title": "Lettini a infrarossi",
+        "specs": "38-55°C | area vestiti",
+        "text": "Mentre vi rilassate sul lettino, il calore irradiato aumenta la temperatura corporea dall'interno. Questo vi aiuta a sudare bene senza sforzare il corpo, il che lo rende particolarmente popolare tra le persone sensibili al calore."
+      }
+    },
+    "steamBath": {
+      "title": "Bagno turco in area vestiti",
+      "temperature": "40–42°C",
+      "humidity": "100% umidità",
+      "area": "area vestiti",
+      "description": "Particolarmente delicato sul corpo, ideale per i principianti della sauna così come per bambini e ragazzi. L'alta umidità aiuta con i problemi respiratori e ha un effetto antibatterico."
+    },
+    "bioSauna": {
+      "title": "Sauna bio in area vestiti",
+      "temperature": "50–60°C",
+      "humidity": "30–40% umidità",
+      "area": "area vestiti",
+      "description": "Le erbe aromatiche del nostro giardino (calendula, melissa, menta piperita) non solo promuovono il benessere, ma hanno anche un effetto benefico sull'umore, sul metabolismo e sul sistema circolatorio."
+    },
+    "havenSection": {
+      "title": "Rifugi pacifici che invitano a sognare",
+      "description": "Wellness e Dolomiti sono una combinazione straordinaria. Basta guardare attraverso le finestre panoramiche che vi attendono in tutte e <strong>quattro le aree relax</strong> del nostro hotel benessere e sarete pervasi da un unico senso di calma e serenità. Nicchie accoglienti e letti d'acqua vi attendono nella stupenda sala relax panoramica, e altre piccole e deliziose sale relax vi invitano anche a indugiare. In estate, quando il sole è alto nel cielo, non c'è niente di meglio che assorbire la pace della natura sull'<strong>ampio prato per prendere il sole</strong> e rannicchiarsi nelle comode sdraio, sedie e nicchie accoglienti."
+    }
+  },
+  
+  "GymPage": {
+    "heroTitle": "Il vostro hotel benessere con palestra e vista sulle Dolomiti",
+    "heroDescription": "Nel cuore delle maestose <link1>Dolomiti</link1>, oltre alle vedute mozzafiato, troverete anche il nostro <strong>hotel benessere con palestra</strong>, che aspetta solo di esaltare i vostri sensi e di portare i vostri obiettivi di fitness a portata di mano. Regalatevi una sessione di allenamento con vista e sperimentate la <link2>forza della natura</link2><strong> che vi ispira a nuove vette di performance </strong> - per poi rilassarvi nel nostro <link3>sublimemente bello mondo benessere</link3>.",
+    "gymHours": "La nostra palestra:<br></br>aperta per voi dalle 7.00 alle 22.00 tutti i giorni!",
+    "gymSection": {
+      "title": "Cosa farai oggi?",
+      "description": "Scoprite la nostra palestra con <strong>le attrezzature più recenti</strong> – oppure partecipate al nostro programma attivo. Potete aspettarvi una <link>varia gamma di attività</link> ogni giorno, tra cui <strong>esercizi mattutini</strong>, yoga, <strong>allenamento sano per la schiena</strong>, stretching, <strong>allenamento per gambe, addominali e glutei</strong> e molto altro."
+    },
+    "activities": {
+      "skiing": {
+        "title": "Sci"
+      },
+      "crossCountry": {
+        "title": "Sci di fondo"
+      },
+      "snowshoeing": {
+        "title": "Ciaspole"
+      },
+      "hiking": {
+        "title": "Escursionismo"
+      },
+      "biking": {
+        "title": "Ciclismo"
+      }
+    }
+  },
+  
+  "ExperiencePage": {
+    "heroTitle": "Il vostro hotel sportivo 5 stelle in Alto Adige",
+    "heroDescription": "L'Alpen Tesitin, il vostro<strong> hotel sportivo in Alto Adige</strong>, è il vostro ingresso in un vero e proprio paradiso. Entrate e scoprite la magia senza fine di un mondo ricco di avventure e indimenticabili esperienze naturali.",
+    "seasons": {
+      "winter": {
+        "title": "Inverno",
+        "description": "L'aria di montagna cristallina, le cime delle Dolomiti innevate e le emozionanti piste da sci del Plan de Corones/Kronplatz, la montagna sciistica numero 1 dell'Alto Adige – <a href='/winter'>in inverno</a>, la Val Pusteria emana un suo fascino speciale."
+      },
+      "summer": {
+        "title": "Estate",
+        "description": "<a href='/summer'>L'estate</a> vi permette di scoprire la pace intrinseca della natura e di sfuggire senza sforzo alla routine quotidiana, circondati da fitte foreste, prati selvaggi e un maestoso panorama montano."
+      }
+    },
+    "infoSections": {
+      "wonderDay": {
+        "title": "Una giornata piena di meraviglia",
+        "text": "Avventure senza pari vi attendono sullo sfondo delle maestose Dolomiti, del leggendario Plan de Corones/Kronplatz e delle famosissime Tre Cime. Che esploriate la natura facendo <strong>escursionismo, ciclismo o godendovi il relax</strong> o che scalate le vette con <strong>sci, sci di fondo o ciaspole</strong> ai piedi, troverete un paradiso attivo che è in una classe a sé intorno al nostro hotel sportivo in Alto Adige. Tuffatevi subito e meravigliatevi della bellezza della natura in Val Pusteria. Preparatevi a innamorarvi!"
+      },
+      "seasonsMagic": {
+        "title": "La magia delle stagioni",
+        "text": "Sperimentate la primavera, quando i <strong>prati alpini</strong> sono ricoperti di <strong>fiori colorati</strong>. Godetevi <a href='/summer'>l'estate</a>, quando la <strong>lussureggiante natura</strong> è accarezzata da una piacevole brezza. Ammirate l'autunno, quando le <strong>viste dalle vette</strong> raggiungono distanze impressionanti. O immergetevi in <a href='/winter'>inverno</a>, quando la Val Pusteria si trasforma in un <strong>paesaggio invernale innevato</strong> e i fiocchi di neve danzano dolcemente dal cielo. All'Alpen Tesitin, il vostro hotel sportivo in Alto Adige, ogni stagione ha il suo fascino incomparabile. Scopritelo voi stessi!"
+      }
+    },
+    "luxuryCar": {
+      "title": "L'hotel sportivo in Val Pusteria con <br /> noleggio cabriolet di lusso",
+      "description": "Lusso puro sulle maestose strade dei passi delle Dolomiti. Il vento tra i capelli, un senso di libertà nel cuore. Noleggiate una delle <link>cabriolet di lusso</link> nel nostro hotel sportivo in Alto Adige e sperimentate la potenza sfrenata della natura mentre vi immergete nella <strong>bellezza delle nostre strade iconiche</strong>. Mentre lo scenario glorioso scorre e i vostri orizzonti si ampliano, vi sentirete più vivi che mai."
+    },
+    "topThree": {
+      "title": "Le nostre Top 3",
+      "subtitle": "nel nostro hotel attivo in Alto Adige",
+      "items": {
+        "item1": "Esplorate il paradiso invernale sui soleggiati <strong>percorsi di sci di fondo in Val Casies/Gsieser Tal</strong>",
+        "item2": "Ammirate con i vostri occhi la scintillante <strong>bellezza del Lago di Braies/Pragser Wildsee</strong>, del Lago di Dobbiaco/Toblacher See e del Lago di Landro/Dürrensee",
+        "item3": "Scoprite la <strong>pace appartata del Monte Luta/Lutterkopf</strong> durante un'escursione e sperimentate la natura in tutta la sua bellezza incontaminata"
+      }
+    }
+  },
+  
+  "CuisinePage": {
+    "heroTitle": "Il nostro hotel gourmet in Alto Adige: abbondanza di piaceri",
+    "heroDescription": "Nel nostro<strong> hotel gourmet in Alto Adige</strong>, passione per la cucina creativa e amore per<link> la nostra terra </link> si fondono per creare un'esperienza culinaria senza eguali. Una volta assaggiate le succulente specialità dell'Alto Adige, ne avrete sempre voglia. Gli aromi intensi, i profumi invitanti e l'abbondanza di prodotti regionali che vi aspettano all'Alpen Tesitin faranno gioire il cuore di ogni buongustaio.",
+    "cuisineItems": {
+      "breakfast": {
+        "title": "Abbondante colazione",
+        "description": "<strong>(7.15 - 11.00)</strong><br/><br/>Fragranti espresso e cremosi cappuccino, pane croccante del <strong>panettiere biologico</strong>, pasticceria fresca e torte della nostra pasticceria, i migliori prosciutti e formaggi, oltre a <strong>piatti a base di uova biologiche</strong> preparati su ordinazione. Inoltre, creme spalmabili fatte in casa e miele del produttore locale, succhi di frutta, smoothies e soffici waffle. Può anche essere servito in camera tutto il giorno (a pagamento aggiuntivo)."
+      },
+      "lunch": {
+        "title": "Buffet di pranzo",
+        "description": "<strong>(12.30 – 16.30)</strong><br/>Hai quattro opzioni per il pranzo:<br/><br/><ul><li>Un piatto caldo <strong>preparato nella nostra show kitchen</strong> (12.30 – 14.00)</li><li>Insalate fresche, deliziosi antipasti, zuppe calde e una selezione di pane, torte e altre prelibatezze della nostra <strong>pasticceria AT</strong> (12.30 – 16.30)</li><li>Frutta deliziosa, bastoncini di verdura con salse, frutta secca e noci, oltre a una varietà di tè e succhi dalla nostra <strong>wellness bar</strong> (da 12.30)</li><li>Oppure, a pagamento aggiuntivo, un squisito <strong>pranzo à la carte</strong> nel nostro ristorante (12.00 – 14.00)</li></ul>"
+      },
+      "dinner": {
+        "title": "Cena gourmet",
+        "description": "<strong>(18.45 – 20.45)</strong><br/><br/>Un <strong>viaggio indulgente da 5 a 7 portate</strong> attraverso la varietà culinaria dell'Alto Adige e del resto d'Italia o una <strong>cena à la carte</strong>? Hai la libertà di scegliere ogni giorno. Puoi anche aspettarti regolarmente aperitivi, serate a tema speciali, tentatori buffet di dessert, esclusive cene di gala e show di cucina dal vivo. Siamo felici di<strong> soddisfare le tue esigenze individuali</strong> e di consigliare vini selezionati dalla cantina AT."
+      }
+    },
+    "menus": {
+      "menu": "Vedi il menu",
+      "wineList": "Vedi la lista dei vini",
+      "barMenu": "Vedi il menu del bar"
+    },
+    "slideData": {
+      "item1": {
+        "time": "9.00",
+        "title": "abbondante colazione",
+        "description": "Una sinfonia di espresso profumato e cappuccino cremoso più pane croccante del panettiere biologico, miele dell'apicoltore di Tesido, soffici waffle, i migliori prosciutti e molto altro ancora. In estate, servito sulla nostra terrazza dell'hotel. <br/><br/>Quando? 7.15 - 11.00 – oppure, a pagamento aggiuntivo, in camera quando vuoi"
+      },
+      "item2": {
+        "time": "12:30",
+        "title": "buffet vitalità",
+        "description": "Godetevi il nostro buffet vitalità alla wellness bar, che vi aspetta con frutta fresca e bastoncini di verdura con salse, frutta secca e noci e una vasta gamma di tè e succhi rinfrescanti.<br/><br/>Quando? Da 12.30"
+      },
+      "item3": {
+        "time": "13.00",
+        "title": "à la carte",
+        "description": "Incanta i tuoi sensi con i piatti à la carte squisiti nel nostro ristorante (a pagamento aggiuntivo), che lasceranno il tuo stomaco e il tuo cuore meravigliosamente pieni.<br/><br/>Quando? 12.00 - 14.00"
+      },
+      "item4": {
+        "time": "13.30",
+        "title": "show cooking",
+        "description": "Nella nostra show kitchen, ogni giorno creiamo deliziosi opzioni per il pranzo che stuzzicano le tue papille gustative e ti regalano momenti di puro piacere.<br/><br/>Quando? 12.30 - 14.00"
+      },
+      "item5": {
+        "time": "15.00",
+        "title": "buffet pomeridiano",
+        "description": "Scegli tra insalate fresche, fini antipasti e zuppe gustose oltre a torte fatte in casa e prelibatezze della pasticceria AT.<br/><br/>Quando? 12.30 - 16.30"
+      },
+      "item6": {
+        "time": "19.00",
+        "title": "degustazione di vini",
+        "description": "La cantina del vino AT con vista sulle montagne mozzafiato è una cornice impressionante per le degustazioni di vini bisettimanali (a pagamento aggiuntivo).<br/><br/>Quando? Due volte a settimana"
+      },
+      "item7": {
+        "time": "20.30",
+        "title": "cena gourmet",
+        "description": "Il punto culminante della giornata: un menu gourmet squisito da 5 a 7 portate che ti porta in un viaggio culinario attraverso gli aromi dell'Alto Adige e del resto d'Italia.<br/><br/>Quando? 18.45 - 20.45"
+      },
+      "item8": {
+        "time": "21.30",
+        "title": "cin cin!",
+        "description": "Godetevi la nostra selezione di bevande eccellenti mentre ripensate alle avventure della giornata. Nel nostro bar troverete sempre l'atmosfera giusta per creare nuovi ricordi.<br/><br/>Quando? Durante gli orari di apertura del bar"
+      },
+      "item9": {
+        "time": "23.00",
+        "title": "fame?",
+        "description": "Mattina, pomeriggio, sera o notte – con il nostro menu 24 ore, delizie culinarie vi aspettano in qualsiasi momento del giorno o della notte."
+      }
+    },
+    "chefSection": {
+      "title": "Vi presentiamo il nostro chef capo Michael",
+      "description": "Il nostro chef capo insieme al suo team di cucina di prima classe, impugna instancabilmente i suoi cucchiai di legno ogni giorno e vi serve <strong>piatti tradizionali con un pizzico di stile internazionale</strong>. Sperimentate le nostre combinazioni creative di menu giornalieri e lasciatevi portare via dal nostro hotel gourmet in Alto Adige in un viaggio culinario che incanterà i vostri sensi."
+    },
+    "quoteSection": {
+      "quote": "\"Ingredienti freschi, cucina onesta – questa è la mia cosa.\"",
+      "chefName": "Chef capo Michael"
+    },
+    "introSection": {
+      "title": "Cucina all'Alpen Tesitin:",
+      "subtitle": "un'esperienza indimenticabile",
+      "description": "<underlineText>I nostri cuori</underlineText> battono per presentarvi l'incomparabile varietà della cucina altoatesina – una promessa sincera che manteniamo con passione dall'alba al tramonto nel nostro hotel gourmet in Alto Adige."
+    }
+  },
+  
+  "SummerPage": {
+    "heroTitle": "Vacanze estive in Val Pusteria – un sogno che si avvera",
+    "heroDescription": "L'Alpen Tesitin si trova in una <link1>posizione privilegiata</link1> nel \"villaggio del sole\" di Tesido, rendendolo il campo base perfetto per le <strong>vacanze estive in Val Pusteria</strong>. Qui – circondati da fitte foreste, prati selvaggi e un maestoso panorama montano – potete scoprire la pace intrinseca della natura e sfuggire senza sforzo alla routine quotidiana. Non importa se preferite i <link2>sentieri gentili</link2> attraverso i pascoli della Val Casies/Gsieser Tal o le vette mozzafiato delle Dolomiti, se state pianificando una giornata rilassata con la famiglia o un'avventura ricca di azione con gli amici – un mondo di opzioni è disponibile intorno al nostro hotel!",
+    "weeklyProgramme": {
+      "title": "Programma settimanale",
+      "description": "C'è sempre qualcosa da fare in Val Pusteria – come noi locali sappiamo bene. Ecco perché è così facile per noi creare un programma settimanale meravigliosamente vario per voi che vi mostra tutti i posti più belli e le attrazioni principali della vostra regione di vacanza!",
+      "link": "Vedi il programma settimanale"
+    },
+    "activities": {
+      "hiking": {
+        "title": "Escursionismo"
+      },
+      "biking": {
+        "title": "Ciclismo"
+      },
+      "climbing": {
+        "title": "Arrampicata"
+      },
+      "action": {
+        "title": "Azione & Avventura"
+      }
+    },
+    "golf": {
+      "title": "Golf",
+      "description": "Colpi perfetti in mezzo a scenari da sogno sono all'ordine del giorno intorno all'Alpen Tesitin. I nostri campi preferiti? Siamo più che felici di condividerli con voi."
+    },
+    "golfClubs": {
+      "pustertal": {
+        "title": "Golf club Pustertal | Brunico",
+        "description": "Il Golf Club Pustertal ai piedi del Plan de Corones/Kronplatz offre un ampio campo a 9 buche – par 33 che si estende per 2.690m, in parte nel bosco e in parte in aperta campagna. La vasta gamma di opzioni offerte dalle buche e il moderno campo pratica sono una vera attrazione per principianti, golfisti esperti e ambiziosi sfidanti di tornei, così come le lezioni professionali e il <strong>club house con ristorante, bar e terrazza solarium.</strong>"
+      },
+      "mirabell": {
+        "title": "Golf club Mirabell | Valdaora",
+        "description": "Il Golf Club Mirabell è un posto eccellente per <strong>i professionisti per allenarsi</strong> e per <strong>i principianti per imparare le basi</strong>. Il piccolo ma eccellentemente mantenuto campo a 3 buche con driving range presenta uno stagno e un piccolo ruscello, oltre a un prato curato alla perfezione. Una vera delizia per la tua vacanza di golf nelle Dolomiti!"
+      },
+      "dolomitengolf": {
+        "title": "Golf club Dolomitengolf | Tirolo Orientale",
+        "description": "36 buche disposte <strong>sullo sfondo delle Dolomiti di Lienz</strong> vi aspettano al Golf Club Dolomitengolf vicino alla soleggiata città di Lienz. Aspettatevi una struttura fantasticamente curata situata in mezzo a una natura incontaminata e caratterizzata da zone umide, biotopi, flora e fauna incontaminate e un piacevole clima meridionale. A proposito: la Dolomitengolf Academy è una delle migliori scuole professionali di golf in Austria."
+      },
+      "cortina": {
+        "title": "Golfclub Cortina | Cortina d'Ampezzo",
+        "description": "Lo storico Golfclub Cortina si trova tra le <strong>imponenti cime delle Dolomiti</strong> del Monte Faloria e del Monte Cristallo e offre ai golfisti una partita impegnativa durante tutto l'anno. Oltre al campo a 9 buche e a una struttura di allenamento al coperto per i mesi invernali, potete anche aspettarvi un elegante clubhouse che vanta un <strong>rinomato ristorante gourmet</strong>."
+      },
+      "altaBadia": {
+        "title": "Golfclub Alta Badia | Corvara",
+        "description": "Par 72, il Golf Club \"Tranrüs\" a 9 buche in Alta Badia è <strong>uno dei campi da golf più alti in tutta Europa</strong>. Incastonato nel maestoso paesaggio delle Dolomiti, ai piedi del Sassongher e del Gruppo Sella, questo campo offre ai golfisti l'opportunità di migliorare il loro gioco in mezzo a scenari naturali mozzafiato e rilassarsi nel <strong>clubhouse alpino</strong> da giugno a ottobre."
+      }
+    },
+    "tennis": {
+      "title": "Tennis",
+      "description": "Con i suoi gloriosi panorami, <strong>strutture tennis eccellentemente attrezzate</strong> e istruttori qualificati, l'Alta Pusteria/Hochpustertal è un vero paradiso per gli amanti del tennis. <strong>Noleggiate racchette e attrezzatura all'arrivo</strong> e perdetevi in appassionanti partite all'aperto o al coperto. Chissà: forse il vostro prossimo servizio trarrà ispirazione da <strong>Jannik Sinner, che ha scoperto la sua passione per il tennis qui.</strong>"
+    },
+    "guestPass": {
+      "title": "Incluso nella tua vacanza estiva in Alto Adige: <br /> GUEST PASS",
+      "description": "Il tuo biglietto per viaggiare gratuitamente su tutti i trasporti pubblici in tutto l'Alto Adige e per partecipare al variegato programma settimanale dell'associazione turistica locale."
+    },
+    "tips": {
+      "title": "Consigli per azione ed esperienze?",
+      "button": "Proprio qui."
+    }
+  },
+  
+  "WinterPage": {
+    "heroTitle": "State pianificando una vacanza invernale in Val Pusteria?",
+    "heroDescription": "Una <strong>vacanza invernale in Val Pusteria</strong> garantisce esperienze straordinarie ogni singolo anno. Ma la regione mostra davvero quanto può essere bella quando una scintillante coltre di neve si stende sulla terra. L'<strong>aria di montagna cristallina</strong>, lo scricchiolio della neve sotto gli stivali e la maestosa bellezza delle Dolomiti innevate creano un'atmosfera che non potrebbe essere più magica.",
+    "weeklyProgramme": {
+      "title": "Programma settimanale",
+      "description": "C'è sempre qualcosa da fare in Val Pusteria – come noi locali sappiamo bene. Ecco perché è così facile per noi creare un programma settimanale meravigliosamente vario per voi e la vostra famiglia che vi mostra tutti i posti più belli e le attrazioni principali della vostra regione di vacanza!",
+      "link": "Vedi il programma settimanale"
+    },
+    "activities": {
+      "skiing": {
+        "title": "Sci",
+        "description": "Una <a href='/experience/skiing'>vacanza sugli sci</a> all'Alpen Tesitin? Assolutamente leggendaria! A breve distanza dal nostro hotel, troverete non solo le soleggiate piste da sci del<strong> Plan de Corones/Kronplatz, la montagna sciistica numero 1 dell'Alto Adige,</strong> ma anche 12 aree sciistiche interconnesse e 1.200 chilometri di piste perfettamente preparate a cui potete accedere con un solo skipass. E tutto grazie a Dolomiti Superski!"
+      },
+      "crossCountry": {
+        "title": "Sci di fondo",
+        "description": "Sognate di scivolare lungo percorsi mozzafiato in mezzo a paesaggi incontaminati? Con <strong>oltre 1.300 chilometri di percorsi perfettamente preparati</strong> e neve garantita da Natale a marzo, un paradiso dello sci di fondo senza eguali vi attende intorno all'Alpen Tesitin."
+      },
+      "snowshoeing": {
+        "title": "Ciaspole",
+        "description": "Avete sempre desiderato esplorare le Dolomiti con le ciaspole ai piedi? Momenti di beatitudine, <strong>vette panoramiche</strong> e paesaggi innevati incantevoli vi aspettano intorno al nostro hotel."
+      },
+      "winterHiking": {
+        "title": "Escursionismo invernale",
+        "description": "L'escursionismo invernale nelle Dolomiti è un'esperienza fantastica. La neve che scricchiola sotto i piedi, distese bianche che arrivano a perdita d'occhio, l'aria invernale rinvigorente – semplicemente divino! La cosa migliore di trascorrere le vacanze nella regione turistica del Plan de Corones/Kronplatz è che tre magnifici ambienti montani sono facilmente raggiungibili: escursionismo invernale nelle Dolomiti oggi, il <strong>Gruppo delle Vedrette di Ries-Aurina/Rieserfernergruppe</strong> domani, e forse le <strong>Alpi della Deferegga</strong> il giorno dopo. E un tour sull'altopiano innevato <a href='/experience/attractions-distances'>Prato Piazza/Plätzwiese</a> vicino a Braies è un vero must!"
+      }
+    },
+    "infoSections": {
+      "iceSkating": {
+        "title": "Pattinaggio sul ghiaccio nel parco",
+        "text": "Da <strong>metà novembre fino a fine gennaio</strong>, il Prenninger Park a Monguelfo vi invita a pattinare sul ghiaccio in un'ambientazione incantevole. Noleggiate i vostri pattini lì e scivolate elegantemente sul ghiaccio."
+      },
+      "tobogganing": {
+        "title": "Voglia di un po' di divertimento con lo slittino?",
+        "text": "<strong>Malga di Tesido/Taistner Alm</strong><br/><br/>La pista per slittini adatta alle famiglie che porta al rifugio servito sulla Malga di Tesido di Fuori/Vordere Taistneralm inizia a <strong>meno di 10 minuti di distanza dall'Alpen Tesitin.</strong> Una volta arrivati in cima, potete gustare la deliziosa cucina altoatesina e una vista sulla nostra montagna locale, il Monte Roda di Scandole/Rudlhorn.<br/><br/><strong>Alpe Uwald (Gsies)</strong><br/>Dal rifugio Talschluss a Santa Maddalena, il sentiero 12 vi porta fino all'<strong>Alpe Uwald a 2.403 metri.</strong> Godetevi la vista gloriosa sulla valle prima di tornare di corsa al punto di partenza.<br/><br/><strong>Monte Baranci/Haunold (San Candido)</strong><br/>Amato da bambini e adulti: la pista per slittini <strong>nel Regno del Gigante Baranci</strong> (noto come Haunold in tedesco). Se non avete voglia di sciare, prendete uno slittino e sfrecciate allegramente lungo la pista di 2 km. La seggiovia quadriposto vi permette di raggiungere la cima della pista in comodità.<br/><br/><strong>Monte Croda Rossa/Rotwand (Sesto)</strong><br/>Con la sua leggendaria discesa di 5 km <strong>nel cuore delle Dolomiti di Sesto,</strong> questa pista per slittini promette avventure emozionanti. E grazie alla funivia, potete raggiungere la cima in soli 6 minuti!"
+      }
+    },
+    "guestPass": {
+      "title": "Incluso nella tua vacanza invernale in Alto Adige: <br /> GUEST PASS",
+      "description": "Il tuo biglietto per viaggiare gratuitamente su tutti i trasporti pubblici in tutto l'Alto Adige e per partecipare al variegato programma settimanale dell'associazione turistica locale."
+    },
+    "tips": {
+      "title": "Consigli per azione ed esperienze?",
+      "button": "Proprio qui."
+    }
+  },
+  
+  "CarPage": {
+    "heroTitle": "Noleggia la tua auto sportiva nelle Dolomiti!",
+    "heroDescription": "Vuoi<strong> noleggiare un'auto sportiva ed esplorare le Dolomiti?</strong> Allora la Val Pusteria è il punto di partenza ideale per le tue avventure. Con le sue strade di montagna panoramiche e i leggendari passi dolomitici, la<link1> regione </link1>offre un ambiente unico per esperienze di guida indimenticabili. Che tu esplori passi famosi come il<strong> Passo Giau, il Passo Falzarego,</strong> o il <strong>Passo Tre Croci</strong>, la Val Pusteria promette un piacere di guida incomparabile su strade ricche di curve con panorami fenomenali. Preparati per l'avventura di una vita e sperimenta le Dolomiti da una prospettiva completamente nuova – da <link2>dietro il volante della tua auto dei sogni!</link2>",
+    "note": {
+      "title": "Si prega di notare:",
+      "text": "Il noleggio auto è disponibile solo in combinazione con un soggiorno all'Alpen Tesitin. <br /> Il locatario deve essere in possesso di una patente di guida valida da almeno 10 anni."
+    },
+    "tableHeaders": {
+      "duration": "Durata noleggio",
+      "included": "Incluso",
+      "rate": "Tariffa"
+    },
+    "cars": {
+      "mercedesPorsche": {
+        "title": "Una Mercedes-Benz o Porsche: Quale ti affascina?",
+        "description": "La leggendaria Porsche 911 Carrera 4 GTS (992) è l'essenza di prestazioni, stile e lusso e promette un'esperienza di guida che stimola i tuoi sensi. Con il suo design elegante e la potenza impressionante, l'iconica auto sportiva è una <strong>combinazione unica di estetica e dinamismo</strong>. Il suo esterno accattivante e il potente motore rendono la Mercedes-Benz AMG GTC un vero punto di riferimento.",
+        "accordion": {
+          "title": "Mercedes-Benz AMG GTC & Porsche 911 Carrera 4 GTS (992)",
+          "description": "Assapora la potenza concentrata della Mercedes-Benz AMG GTC e della Porsche 911 Carrera 4 GTS (992) mentre ti libri elegantemente in curva conquistando le strade della Val Pusteria.<br /><br/>Richiesto: età minima di 30 anni e patente di guida valida da almeno 10 anni."
+        },
+        "rentalOptions": {
+          "halfDay": {
+            "duration": "½ giorno (4 ore)",
+            "km": "150 km",
+            "price": "€ 330"
+          },
+          "fullDay": {
+            "duration": "1 giorno (8 ore)",
+            "km": "250 km",
+            "price": "€ 500"
+          },
+          "threeDays": {
+            "duration": "3 giorni",
+            "km": "700 km",
+            "price": "€ 1.250"
+          },
+          "sixDays": {
+            "duration": "6 giorni",
+            "km": "1.400 km",
+            "price": "€ 2.400"
+          },
+          "tenDayPackage": {
+            "duration": "Pacchetto 10 giorni (01.05. – 31.10.)",
+            "km": "2.200 km",
+            "price": "€ 3.700"
+          }
+        },
+        "footer": {
+          "extraKm": "Ogni chilometro aggiuntivo €2,50",
+          "fuel": "Benzina piena a piena (98 o 100 ottani – Super Plus)",
+          "contract": "Vedi il contratto di noleggio"
+        }
+      },
+      "lamborghini": {
+        "title": "Realizza il tuo sogno di noleggiare una Lamborghini!",
+        "description": "Questo capolavoro di ingegneria combina le massime prestazioni con un'eleganza senza pari e ti offre un'esperienza di guida che supera tutte le tue aspettative. Il potente motore, il design aerodinamico e il tetto che scivola dolcemente aperto sopra la tua testa ti fanno sentire il ritmo della strada. Ogni curva, ogni momento dietro il volante di questa supercar si trasforma in un'esperienza di guida che ricorderai per anni a venire. Pronto a noleggiare la tua Lamborghini?",
+        "accordion": {
+          "title": "Lamborghini Huracán EVO Spyder",
+          "description": "Vivi giorni da sogno nelle Dolomiti con cabriolet da sogno. <br /><br/>Richiesto: esperienza con auto sportive, età minima di 40 anni e patente di guida valida da almeno 10 anni."
+        },
+        "rentalOptions": {
+          "halfDay": {
+            "duration": "½ giorno (4 ore)",
+            "km": "150 km",
+            "price": "€ 620"
+          },
+          "fullDay": {
+            "duration": "1 giorno (8 ore)",
+            "km": "250 km",
+            "price": "€ 990"
+          },
+          "threeDays": {
+            "duration": "3 giorni",
+            "km": "700 km",
+            "price": "€ 2.550"
+          },
+          "sixDays": {
+            "duration": "6 giorni",
+            "km": "1.400 km",
+            "price": "€ 5.000"
+          },
+          "tenDayPackage": {
+            "duration": "Pacchetto 10 giorni (01.05. – 31.10.)",
+            "km": "2.200 km",
+            "price": "€ 8.200"
+          }
+        },
+        "footer": {
+          "extraKm": "Ogni chilometro aggiuntivo €4,50",
+          "fuel": "Benzina piena a piena (100 ottani – Super Plus)",
+          "contract": "Vedi il contratto di noleggio"
+        }
+      }
+    }
+  },
+  
+  "MagicMoments": {
+    "heroTitle": "I momenti magici dei nostri ospiti",
+    "heroDescription": "Un momento magico riempie il cuore di gioia. Questo è ciò in cui crediamo qui all'<link>Alpen Tesitin </link> – ed è confermato da tutte le esperienze speciali condivise dai nostri ospiti e amici durante il loro soggiorno con noi.",
+    "testimonial": {
+      "greeting1": "Ciao,",
+      "greeting2": "grazie per il tuo messaggio.",
+      "message": "Vogliamo solo dirvi che abbiamo trascorso una settimana nel vostro hotel ed è stato uno dei posti migliori che abbiamo visitato. Abbiamo già visitato quattro hotel Belvita e il vostro è stato il migliore!",
+      "compliment": "Il luogo, il vostro personale, il vostro SPA e i vostri pasti, tutto era perfetto.",
+      "promise": "Torneremo.",
+      "closing": "Cordiali saluti,",
+      "signature": "La famiglia GENNETAY"
+    }
+  },
+  
+  "InfoPage": {
+    "heroTitle": "Tutte le informazioni a colpo d'occhio",
+    "heroDescription": "Vi invitiamo a scoprire di più sull'affascinante mondo dell'<link>Alpen Tesitin</link>, dove <strong>ogni dettaglio è stato progettato con amore</strong> per garantire che ogni momento qui sia memorabile. Ammirate le nostre vedute, approfondite i nostri servizi, trovate le risposte alle domande frequenti e scoprite come trasformiamo il vostro soggiorno in un'esperienza indimenticabile. Benvenuti all'Alpen Tesitin – dove i sogni diventano realtà e vengono creati ricordi commoventi.",
+    "activities": {
+      "photos": {
+        "title": "Foto & video"
+      },
+      "information": {
+        "title": "Informazioni utili"
+      },
+      "carRental": {
+        "title": "Noleggio auto"
+      },
+      "giftVouchers": {
+        "title": "Buoni regalo"
+      },
+      "gettingHere": {
+        "title": "Come arrivare"
+      }
+    }
+  },
+  
+  "PhotosVideos": {
+    "heroTitle": "Una sinfonia di bellezza naturale e lusso",
+    "heroDescription": "Un mondo di aspre cime delle Dolomiti e lusso a 5 stelle, esperienze indimenticabili e le vette dell'indulgenza – tuffatevi nella nostra galleria fotografica stimolante e innamoratevi ancora prima di <link>arrivare.</link>",
+    "filters": {
+      "all": "Tutto",
+      "hotel": "Hotel",
+      "architecture": "Architettura",
+      "wellness": "Wellness",
+      "cuisine": "Cucina",
+      "video": "Video",
+      "social": "Wall Social Media"
+    },
+    "mediaItems": {
+      "item1": {
+        "alt": "Esterno dell'hotel in inverno"
+      },
+      "item2": {
+        "alt": "Lobby dell'hotel"
+      },
+      "item3": {
+        "alt": "Area reception dell'hotel"
+      },
+      "item4": {
+        "alt": "Lampadario decorativo"
+      },
+      "item5": {
+        "alt": "Piscina interna"
+      },
+      "item6": {
+        "alt": "Area spa"
+      },
+      "item7": {
+        "alt": "Ristorante"
+      },
+      "item8": {
+        "alt": "Video dell'hotel"
+      },
+      "item9": {
+        "alt": "Foto social media"
+      },
+      "item10": {
+        "alt": "Ristorante"
+      },
+      "item11": {
+        "alt": "Ristorante"
+      },
+      "item12": {
+        "alt": "Ristorante"
+      }
+    }
+  },
+  
+  "GettingHere": {
+    "heroTitle": "Dove la natura ti accoglie a braccia aperte",
+    "heroDescription": "Il viaggio verso l'Alpen Tesitin in Alta Pusteria/Hochpustertal è di per sé un'esperienza mozzafiato. Le maestose montagne e i verdi prati alpini tutt'intorno risveglieranno la tua brama di avventure indimenticabili.",
+    "rentCarButton": "Noleggia la tua auto dei sogni in vacanza",
+    "mapTitle": "Posizione dell'Alpen Tesitin su Google Maps",
+    "tips": {
+      "title": "Consigli per raggiungerci",
+      "description": "Siamo felici di condividere i nostri consigli per goderti un viaggio senza stress e confortevole verso il tuo <link>paradiso di vacanza</link> e assaporare ogni momento al massimo."
+    },
+    "transportation": {
+      "car": {
+        "title": "Arrivo in auto",
+        "description": "Stai viaggiando da nord, sud o ovest? Segui il percorso sull'autostrada del Brennero fino all'uscita Bressanone-Val Pusteria/Pustertal e poi prosegui lungo la strada statale della Val Pusteria/Pustertal per circa 60 chilometri fino a raggiungere Monguelfo. Svolta a sinistra verso Gsies/Tesido subito dopo essere entrato nel paese. Una volta arrivato a Tesido, segui le indicazioni per l'Alpen Tesitin passando per prati e boschi idilliaci. Goditi le viste uniche durante il viaggio e meravigliati della bellezza della natura circostante. (Importante: selezionare la \"rotta più veloce\" potrebbe portarti su una strada di montagna un po' scomoda.)<br /><br />Il percorso da est via Lienz passa attraverso il confine austro-italiano. Dal confine, segui la strada statale fino a Monguelfo e poi gira a destra verso Gsies/Tesido. Una volta arrivato a Tesido, segui le indicazioni per l'Alpen Tesitin passando per prati e boschi idilliaci. Ti innamorerai sicuramente delle viste mozzafiato che accompagnano il tuo viaggio."
+      },
+      "train": {
+        "title": "Arrivo in treno",
+        "description": "Goditi un viaggio rilassante con i treni Trenitalia dell'Italia, ÖBB dell'Austria, DB della Germania o SAD dell'Alto Adige fino a Fortezza. Cambia treno lì e prendi il treno regionale per Monguelfo in Val Pusteria/Pustertal. Saremo lieti di venirti a prendere gratuitamente alla stazione ferroviaria. Basta chiamarci al +39 0474 950020 per comunicarci l'orario esatto di arrivo prima di partire."
+      },
+      "plane": {
+        "title": "Arrivo in aereo",
+        "description": "La compagnia aerea altoatesina SkyAlps ti trasporta direttamente dalle principali città europee al capoluogo dell'Alto Adige, Bolzano. Da lì, puoi raggiungere il nostro hotel in modo rapido e semplice con treno, elicottero o trasferimento navetta."
+      },
+      "helicopter": {
+        "title": "Trasferimento in elicottero",
+        "description": "Lusso e comfort con vista a volo d'uccello: goditi un volo da sogno o un trasferimento aeroportuale in elicottero e vivi un viaggio indimenticabile e spensierato. <link>Clicca qui per ulteriori informazioni o per inviare una richiesta senza impegno.</link>"
+      },
+      "shuttle": {
+        "title": "Trasferimento navetta",
+        "description": "Vuoi essere rispettoso dell'ambiente e viaggiare in Alto Adige in treno o in autobus a lunga percorrenza? Il navetta di collegamento di Südtirol Transfer promette un viaggio senza stress dalla stazione ferroviaria o degli autobus direttamente all'Alpen Tesitin.<link> Puoi richiederlo qui.</link>"
+      }
+    }
+  },
+  
+  "Footer": {
+    "address": {
+      "title": "Panorama Wellness Resort Alpen Tesitin",
+      "family": "La Famiglia Feichter",
+      "street": "Unterrainerstraße 22",
+      "city": "39035 Tesido/Monguelfo",
+      "region": "Plan de Corones / Val Pusteria",
+      "country": "Dolomiti | Alto Adige | Italia"
+    },
+    "contact": {
+      "title": "Contatto",
+      "phone": "+39 0474 950020",
+      "email": "info@alpentesitin.it"
+    },
+    "links": {
+      "title": "Ulteriori link",
+      "guestnet": "Guestnet",
+      "live": "Live",
+      "relax": "Relax",
+      "experience": "Esperienza",
+      "info": "Info",
+      "belvita": "Belvita",
+      "catalogue": "Richiesta catalogo"
+    },
+    "newsletter": {
+      "title": "Newsletter",
+      "placeholder": "Indirizzo E-Mail",
+      "button": "Registrati"
+    },
+    "icons": {
+      "download": "Download",
+      "weather": "Meteo",
+      "gift": "Buoni regalo",
+      "photos": "Foto & Video 360°"
+    },
+    "bottom": {
+      "home": "Home",
+      "privacy": "Privacy",
+      "settings": "Impostazioni privacy",
+      "copyright": "© 2025 Panorama Wellness Resort Alpen Tesitin | P.IVA: IT01622840211"
+    },
+    "dropdowns": {
+      "partners": "Partner",
+      "pages": "Pagine interessanti",
+      "pageItems": {
+        "luxury": "Hotel di lusso Alto Adige,",
+        "spa": "Hotel benessere Val Pusteria,",
+        "pool": "Hotel Val Pusteria con piscina,",
+        "sport": "Hotel sportivo Alto Adige,",
+        "gourmet": "Hotel gourmet Alto Adige,",
+        "hiking": "Hotel escursionistico Val Pusteria,",
+        "ski": "Vacanza sci Alto Adige,",
+        "rent": "Noleggio auto sportive Alto Adige"
+      }
+    },
+    "modal": {
+      "title": "Registrazione Newsletter",
+      "titleLabel": "Titolo",
+      "titles": {
+        "family": "Famiglia",
+        "mr": "Sig.",
+        "ms": "Sig.ra"
+      },
+      "placeholders": {
+        "name": "Nome",
+        "surname": "Cognome*",
+        "email": "Email*"
+      },
+      "consent": {
+        "text": "Consenso alle attività di marketing*",
+        "tooltip": "Avendo letto e compreso l'Informativa sulla privacy disponibile a questo link, e con riferimento alle attività di trattamento dei dati per le quali il consenso dell'Interessato è richiesto dalla legge, do il mio consenso affinché i miei Dati Personali siano utilizzati da Alpen Tesitin per l'invio di messaggi promozionali e comunicazioni di marketing, comprese newsletter, riguardanti le loro promozioni, offerte ecc., effettuate con mezzi automatizzati (e-mail, SMS ecc.) e non automatizzati (posta ordinaria, telefonate degli operatori)."
+      },
+      "requiredFields": "*Campi obbligatori",
+      "submitButton": "Invia"
+    }
+  },
+  "Header": {
+    "languages": {
+      "en": "Inglese",
+      "de": "Tedesco",
+      "it": "Italiano"
+    },
+    "buttons": {
+      "close": "Chiudi",
+      "menu": "Menu",
+      "phone": "Chiamaci",
+      "enquire": "Richiedi",
+      "book": "Prenota"
+    },
+    "logo": "AT ALPEN TESITIN",
+    "subtitle": "PANORAMA WELLNESS RESORT ★★★★★"
+  },
+  "EnquirePage": {
+    "hero": {
+      "title": "Richiedi ora e inizia a sognare",
+      "subtitle": "Scopri il lussuoso mondo dell'<bold>Alpen Tesitin</bold>. La tua richiesta senza impegno apre le porte a un'esperienza di vacanza fantastica."
+    },
+    "extras": {
+      "sectionTitle": "Extra",
+      "selectedService": "Servizio aggiuntivo selezionato",
+      "addAdditionalBtn": "Aggiungi servizi aggiuntivi",
+      "notePlaceholder": "Inserisci data, ora desiderata, ecc...",
+      "amount": "Quantità",
+      "modal": {
+        "title": "Seleziona servizio aggiuntivo",
+        "category": "Categoria",
+        "addServices": "Aggiungi servizi"
+      }
+    },
+    "offers": {
+      "selectedOffer": "Offerta selezionata",
+      "defaultDescription": "7 notti con pensione ¾ gourmet"
+    },
+    "stay": {
+      "sectionTitle": "Dettagli del tuo soggiorno #",
+      "arrivalDeparture": "Arrivo e partenza*",
+      "guests": {
+        "adults": "Adulti",
+        "adultsSub": "Oltre 17 anni",
+        "children": "Bambini",
+        "childrenSub": "Fino a 17 anni",
+        "boardOption": "Opzione di pensione",
+        "save": "Salva"
+      },
+      "roomOptions": {
+        "noParticular": "Nessuna camera particolare",
+        "noParticularSub": "Consigliatemi voi",
+        "specificRequest": "Richiesta specifica camera",
+        "specificRequestSub": "Desidero scegliere una camera particolare",
+        "addRoom": "Aggiungi camera",
+        "modal": {
+          "title": "Seleziona camera",
+          "selectionHint": "La tua selezione:"
+        }
+      },
+      "addStay": "Aggiungi soggiorno"
+    },
+    "personalInfo": {
+      "sectionTitle": "Informazioni personali",
+      "titleLabel": "Titolo",
+      "titles": {
+        "family": "Famiglia",
+        "mr": "Sig.",
+        "ms": "Sig.ra"
+      },
+      "fields": {
+        "firstName": "Nome*",
+        "lastName": "Cognome*",
+        "email": "Email*",
+        "street": "Via",
+        "postcode": "CAP",
+        "city": "Città",
+        "country": "Seleziona paese",
+        "comment": "Commento",
+        "phone": "Telefono"
+      },
+      "address": {
+        "show": "Mostra campi indirizzo",
+        "hide": "Nascondi campi indirizzo"
+      },
+      "consent": "Consenso alle attività di marketing",
+      "privacyText": "Avendo letto e compreso l'<link>Informativa sulla privacy disponibile a questo link</link>, e con riferimento alle attività di trattamento dei dati per le quali è richiesto il consenso dell'interessato dalla legge, acconsento al trattamento dei miei Dati Personali da parte di Alpen Tesitin***** per l'invio di messaggi promozionali e comunicazioni di marketing.",
+      "requiredNote": "*Campi obbligatori",
+      "submit": "Invia",
+      "submitting": "Invio in corso..."
+    },
+    "errors": {
+      "required": "Questo campo non può essere lasciato vuoto.",
+      "dateRequired": "Seleziona le date di arrivo e partenza."
+    },
+    "alerts": {
+      "success": "Richiesta inviata con successo!",
+      "error": "Errore: ",
+      "failed": "Invio richiesta fallito",
+      "wentWrong": "Qualcosa è andato storto. Riprova."
+    },
+    "countries": {
+      "GB": "Regno Unito",
+      "AL": "Albania",
+      "XK": "Kosovo",
+      "IT": "Italia",
+      "DE": "Germania",
+      "AT": "Austria",
+      "CH": "Svizzera",
+      "FR": "Francia",
+      "US": "Stati Uniti",
+      "GR": "Grecia",
+      "MK": "Macedonia del Nord",
+      "ME": "Montenegro",
+      "HR": "Croazia",
+      "SI": "Slovenia",
+      "BE": "Belgio",
+      "NL": "Paesi Bassi",
+      "ES": "Spagna",
+      "TR": "Turchia",
+      "SE": "Svezia",
+      "NO": "Norvegia"
+    },
+    "boardOptions": {
+      "threeQuarter": "Pensione ¾ gourmet"
+    },
+    "room": {
+      "approx": "circa",
+      "capacity": "persone",
+      "size": "circa"
+    },
+    "ariaLabels": {
+      "remove": "rimuovi",
+      "close": "chiudi",
+      "showAll": "mostra tutto",
+      "removeOffer": "Rimuovi offerta",
+      "removeButton": "pulsante rimuovi",
+      "removeStay": "Rimuovi questo soggiorno",
+      "decreaseAdults": "diminuisci adulti",
+      "addAdult": "aggiungi adulto",
+      "decreaseChildren": "diminuisci bambini",
+      "addChildren": "aggiungi bambini",
+      "chooseBoard": "scegli pensione",
+      "saveButton": "pulsante salva",
+      "addRoom": "aggiungi camera",
+      "family": "famiglia",
+      "mr": "Sig.",
+      "ms": "Sig.ra",
+      "country": "paese",
+      "submitButton": "pulsante invia"
+    }
+  }
+}

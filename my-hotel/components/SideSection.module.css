@@ -1,0 +1,213 @@
+.container {
+  display: flex;
+  width: 100%;
+  min-height: 100vh;
+  background-color: #3d5a6b;
+  position: relative;
+  overflow: visible; 
+}
+
+.textContent {
+  width: 50%; 
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-left: 8%;
+  position: relative;
+  z-index: 999; 
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start; 
+}
+
+.itemWrapper {
+  margin-bottom: 25px;
+  display: block; 
+  width: fit-content; 
+}
+
+.listItem {
+  background: none;
+  border: none;
+  font-size: 3.2rem;
+  font-weight: 300;
+  color: rgba(255, 255, 255, 0.4);
+  cursor: pointer;
+  padding: 5px 0;
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  width: fit-content; 
+  text-align: left;
+}
+
+.listItemActive {
+  color: #ffffff;
+}
+
+.link {
+  color: #ffffff;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 1.1rem;
+  padding: 10px 0;
+  cursor: pointer;
+  width: fit-content;
+}
+
+
+.imageContent {
+  width: 60%; 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 60px;
+  position: relative;
+  z-index: 1;
+  pointer-events: none; 
+}
+
+.imageContent img {
+  max-width: 90%;
+  max-height: 700px;
+  width: 600px;
+  height: 700px;
+  object-fit: cover;
+}
+
+.imageOverlayText {
+  position: absolute;
+  align-items: center;
+  bottom: 15%;
+  font-size: 3.5rem;
+  font-weight: 300;
+  color: white;
+  pointer-events: none;
+}
+.description {
+  margin-top: 15px;
+  font-size: 1.1rem;
+  line-height: 1.2;
+  font-weight: 300;
+  color: #1a1a1a; 
+  max-width: 500px;
+  animation: fadeIn 0.5s ease-in-out;
+  text-align: left;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.description strong {
+  font-weight: 600;
+  color: #000000;
+}
+.dot {
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  background-color: #8dbb5e; 
+  border-radius: 50%;
+  margin-left: 15px; 
+  vertical-align: middle;
+}
+
+
+.description ul {
+  list-style-type: none;
+  padding: 0;
+  margin-top: 15px;
+}
+
+.description li {
+  position: relative;
+  padding-left: 20px;
+  margin-bottom: 12px;
+  color: #1a1a1a; 
+}
+.description li::before {
+  content: "•";
+  position: absolute;
+  left: 0;
+  color: #000000;
+  font-weight: bold;
+}
+/*for cusine section with light background*/
+.darkText .listItem {
+  color: rgba(0, 0, 0, 0.3); 
+}
+
+.darkText .listItemActive {
+  color: #333333; 
+}
+
+.darkText .description {
+  color: #444444; 
+}
+
+.darkText .description strong, 
+.darkText .description li::before {
+  color: #000000; 
+}
+
+.darkText .imageOverlayText {
+  color: #ffffff; 
+}
+
+.isWhiteVariant .description {
+  color: #ffffff !important;
+}
+
+
+.isWhiteVariant .description strong, 
+.isWhiteVariant .description b {
+  color: #ffffff !important;
+  font-weight: bold;
+}
+
+.isWhiteVariant .link {
+  color: #ffffff !important;
+}
+
+.isWhiteVariant .link svg {
+  stroke: #ffffff !important;
+}
+
+
+.isWhiteVariant .description a {
+  color: #ffffff !important;
+  text-decoration: underline;
+}
+
+.darkText {
+  color: #333333 !important;
+}
+
+
+.description.darkText, 
+.description.darkText * {
+  color: #333333 !important;
+}
+
+
+.darkText.link, 
+.darkText.link span,
+.darkText.link svg {
+  color: #333333 !important;
+  stroke: #333333 !important;
+}
+
+.description.darkText a {
+  border-bottom: 1px solid #333333 !important;
+}
+.darkLink {
+  color: #000000 !important; 
+}
+
+.darkLink svg {
+  stroke: #000000; 
+}

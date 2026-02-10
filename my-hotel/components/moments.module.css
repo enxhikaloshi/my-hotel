@@ -1,0 +1,498 @@
+.heroContainer {
+  padding: 80px 20px;
+  background-color: #ffffff;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title {
+  font-size: 2.8rem;
+  font-weight: 300; 
+  color: #333;
+  margin-bottom: 30px;
+  letter-spacing: 1px;
+}
+
+.descriptionWrapper {
+  max-width: 650px;
+}
+
+.description {
+  font-size: 1.1rem;
+  line-height: 1.6;
+  color: #555;
+  font-style: italic; 
+}
+
+.linkText {
+  color: #222;
+  text-decoration: none;
+  border-bottom: 1px solid #999;
+  transition: border-color 0.3s ease;
+  cursor: pointer;
+}
+
+.linkText:hover {
+  border-bottom-color: #000;
+}
+
+.testimonialSection {
+  display: flex; 
+  align-items: stretch;
+  position: relative;
+  min-height: 600px;
+  background-color: #f9f9f9; 
+  overflow: hidden;
+  margin-top: 50px;
+}
+
+.contentSide {
+  flex: 1;
+  padding: 60px 10%;
+  z-index: 2;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: #444;
+  width: 60%;
+}
+.textBlock {
+  max-width: 600px; 
+  text-align: left;
+}
+.textBlock p {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  margin-bottom: 20px;
+  font-family: 'Georgia', serif; 
+}
+
+.signature {
+  margin-top: 30px;
+}
+
+.signature h4 {
+  font-size: 1.2rem;
+  font-weight: 500;
+  margin-bottom: 15px;
+}
+
+.avatar {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid white;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+.imageSide {
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 40%; 
+  height: 100%;
+  background: 
+    linear-gradient(to right, #f9f9f9 0%, rgba(249, 249, 249, 0) 100%),
+    url('/gennetay1.jpg'); 
+  background-size: cover;
+  background-position: center;
+}
+
+/* usefulInfo.module.css */
+.container {
+  min-height: 100vh;
+  background-color: white;
+  padding: 30px 15px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.formCard {
+  background: white;
+  max-width: 700px;
+  width: 100%;
+  border-radius: 8px;
+  box-shadow: none;
+  padding: 40px;
+}
+
+/* Progress Steps */
+.progressContainer {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  margin-bottom: 30px;
+  position: relative;
+}
+
+.stepWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  flex: 1;
+}
+
+.stepBox {
+  width: 45px;
+  height: 45px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 24px;
+  font-weight: 600;
+  border: 2px solid #ccc;
+  background: white;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  z-index: 2;
+}
+
+.stepActive {
+  background: #00578a;
+  color: white;
+  border-color: #00578a;
+}
+
+.stepCompleted {
+  background: white;
+  color: #00578a;
+  border-color: #00578a;
+  cursor: pointer;
+}
+
+.stepInactive {
+  background: white;
+  color: #999;
+  border-color: #ccc;
+  cursor: not-allowed;
+}
+
+.stepLabel {
+  margin-top: 10px;
+  font-size: 13px;
+  font-weight: 600;
+  color: #00578a;
+  text-align: center;
+  letter-spacing: 0.5px;
+}
+
+.stepConnector {
+  position: absolute;
+  top: 25px;
+  left: calc(50% + 25px);
+  right: calc(-50% + 25px);
+  height: 2px;
+  background: repeating-linear-gradient(
+    to right,
+    #ccc 0px,
+    #ccc 5px,
+    transparent 5px,
+    transparent 10px
+  );
+  z-index: 1;
+}
+
+/* Divider */
+.divider {
+  width: 100%;
+  height: 3px;
+  background: #00578a;
+  margin: 30px 0;
+}
+
+/* Content */
+.content {
+  min-height: 300px;
+}
+
+.stepContent {
+  animation: fadeIn 0.3s ease;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.sectionTitle {
+  font-size: 20px;
+  font-weight: 600;
+  color: #666;
+  margin-bottom: 15px;
+  letter-spacing: 1px;
+}
+
+.instruction {
+  font-size: 14px;
+  color: #666;
+  margin-bottom: 25px;
+}
+
+/* Checkbox Group */
+.checkboxGroup {
+  margin-bottom: 40px;
+}
+
+.checkboxLabel {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 15px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.checkbox {
+  width: 22px;
+  height: 22px;
+  min-width: 22px;
+  margin-right: 12px;
+  cursor: pointer;
+  accent-color: #00578a;
+  margin-top: 2px;
+}
+
+.checkboxText {
+  color: #00578a;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.infoLink {
+  color: #00578a;
+  font-size: 14px;
+  text-decoration: underline;
+  margin-left: 34px;
+  display: inline-block;
+  margin-top: 5px;
+}
+
+.infoLink:hover {
+  text-decoration: none;
+}
+
+/* Payment Section */
+.paymentSection {
+  border-top: 1px solid #e0e0e0;
+  padding-top: 30px;
+}
+
+.paymentTitle {
+  font-size: 18px;
+  font-weight: 600;
+  color: #666;
+  margin-bottom: 20px;
+  letter-spacing: 1px;
+}
+
+.radioLabel {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+  cursor: pointer;
+}
+
+.radio {
+  width: 20px;
+  height: 20px;
+  min-width: 20px;
+  margin-right: 12px;
+  cursor: pointer;
+  accent-color: #00578a;
+}
+
+.radioText {
+  color: #333;
+  font-size: 16px;
+}
+
+.paymentIcons {
+  display: flex;
+  gap: 15px;
+  margin-left: 32px;
+  margin-top: 10px;
+  flex-wrap: wrap;
+}
+
+.paymentIcon {
+  height: 30px;
+  width: auto;
+  object-fit: contain;
+}
+
+/* Button */
+.buttonContainer {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 40px;
+}
+
+.continueButton {
+  background: #00578a;
+  color: white;
+  border: none;
+  padding: 15px 60px;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+  border-radius: 2px;
+}
+
+.continueButton:hover:not(:disabled) {
+  background: #004368;
+}
+
+.continueButton:disabled {
+  background: #ccc;
+  cursor: not-allowed;
+}
+/*module*/
+.insuranceContainer {
+  margin-top: 10px;
+  margin-left: 34px;
+}
+
+.toggleButton {
+  background: none;
+  border: none;
+  color: #00578a;
+  font-size: 14px;
+  text-decoration: underline;
+  cursor: pointer;
+  padding: 0;
+  display: inline-flex;
+  align-items: center;
+  transition: text-decoration 0.2s ease;
+}
+
+.toggleButton:hover {
+  text-decoration: none;
+}
+
+.infoBox {
+  margin-top: 15px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  background-color: #fafafa;
+  animation: slideDown 0.3s ease;
+}
+
+@keyframes slideDown {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.coverageItem {
+  margin-bottom: 15px;
+  font-size: 14px;
+  line-height: 1.6;
+  color: #333;
+}
+
+.coverageItem strong {
+  color: #000;
+  font-weight: 600;
+}
+
+.linksContainer {
+  display: flex;
+  align-items: flex-start;
+  margin-top: 20px;
+  padding-top: 15px;
+  border-top: 1px solid #ddd;
+}
+
+.iconWrapper {
+  margin-right: 10px;
+  margin-top: 2px;
+}
+
+.infoIcon {
+  width: 24px;
+  height: 24px;
+  color: #00578a;
+}
+
+.links {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.link {
+  color: #00578a;
+  font-size: 14px;
+  text-decoration: underline;
+  transition: text-decoration 0.2s ease;
+}
+
+.link:hover {
+  text-decoration: none;
+}
+/* Responsive */
+@media (max-width: 768px) {
+  .formCard {
+    padding: 20px;
+  }
+
+  .progressContainer {
+    gap: 0;
+  }
+
+  .stepBox {
+    width: 40px;
+    height: 40px;
+    font-size: 18px;
+  }
+
+  .stepLabel {
+    font-size: 11px;
+  }
+
+  .stepConnector {
+    top: 20px;
+    left: calc(50% + 20px);
+    right: calc(-50% + 20px);
+  }
+
+  .continueButton {
+    padding: 12px 40px;
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 480px) {
+  .stepLabel {
+    font-size: 9px;
+  }
+
+  .stepBox {
+    width: 35px;
+    height: 35px;
+    font-size: 16px;
+  }
+
+  .checkboxText,
+  .radioText {
+    font-size: 14px;
+  }
+}

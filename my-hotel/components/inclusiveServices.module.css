@@ -1,0 +1,33 @@
+.whiteSection {
+  width: 100%;
+  background-color: white;
+  padding: 16px 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.whiteSectionContent {
+  max-width: 800px;
+}
+
+.whiteTitle {
+  font-size: 32px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  color: black;
+}
+
+.whiteText {
+  font-size: 18px;
+  line-height: 1.6;
+  color: #333;
+}
+.link {
+  color: black;
+  text-decoration: underline;
+}
+.divider {
+  margin: 60px 0;
+}

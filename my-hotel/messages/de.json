@@ -1,0 +1,1184 @@
+{
+   
+  "metadata": {
+    "title": "Alpen Tesitin Hotel Panorama Resort - Dolomiten 5 Sterne",
+    "siteName": "Hotel Alpen Tesitin",
+    "description": "Alpen Tesitin: Exklusives 5-Sterne-Luxushotel im Herzen der Dolomiten. Erleben Sie unvergleichliche alpine Eleganz mit Panorama-Suiten, Gourmet-Küche und einem Weltklasse-Wellness-Spa.",
+    "keywords": "Hotelbuchung,Italienische Alpen,Dolomiten,Südtirol,5-Sterne-Hotel,Alpenluxus,Panorama-Suiten,Wellness-Hotel,Luxus-Spa,Gourmet-Restaurant,Alpen Tesitin,Wellness-Behandlungen,Kosmetikzentrum,Friseur,Autovermietung,Fitnessstudio,Finnische Sauna,Türkisches Bad,Sonderangebote,Urlaubspakete,Dolomiten-Wetter,Bergwettervorhersage,geführte Wanderungen,Winter Skiurlaub",
+    "author": "Alpen Tesitin",
+    "ogImageAlt": "Alpen Tesitin Hotel - 5-Sterne-Luxushotel mit Panoramablick auf die Dolomiten"
+  },
+  "HomePage": {
+    "main_title": "Alpen Tesitin – Ihr Traum-5-Sterne-Hotel im Pustertal",
+    "main_description": "Unser Hotel im Pustertal, das Alpen Tesitin, ist ein Geheimtipp für alle, die etwas Besonderes suchen. Für Ruhe und Komfort. Für Wellness und Erlebnisse in Südtirol. Direkt vor Ihren Augen ragen die atemberaubenden Gipfel der Dolomiten empor, die die Aussicht dominieren und Sie in eine Welt unvergleichlicher Schönheit entführen. Bäume, Weite, Berge und Sonnenschein draußen. Eine harmonische Wohlfühlatmosphäre und luxuriöser Komfort innen. Dazu ein eingespieltes Team, das Ihre Wünsche intuitiv erfüllt. Und ein Urlaub, der für immer in Ihrem Herzen bleiben wird.",
+    
+    "wellness_title": "Wellness",
+    "wellness_text": "Eine Welt aus geräumigen Pools und wohltuenden Saunen mit Beautybereich, Friseursalon und Fitnessraum erwartet Sie in unserem Hotel in Welsberg, Taisten.",
+    
+    "architecture": "Architektur",
+    "cuisine": "Küche",
+    "panoramic_location": "Panoramalage",
+    
+    "offers_title": "Hotel in Taisten: Angebote",
+    "offers_subtitle": "Sehnen Sie sich nach einem romantischen Paarwochenende, einem abenteuerreichen Familienurlaub oder einfach einem Ausflug in die Natur? Unsere vielfältigen Angebote werden jedem ein Lächeln ins Gesicht zaubern.",
+    "show_offers": "Alle Angebote anzeigen",
+    
+    "testimonial_text": "Ihr Hotel ist einer der besten Orte, die wir besucht haben. Der Ort, Ihr Personal, Ihre Spa und Ihre Mahlzeiten – alles war perfekt.",
+    "testimonial_author": "Die Familie Gennetay",
+    
+    "holiday_title": "Ein Urlaub im Alpen Tesitin - die Höhen des Glücks",
+    "holiday_text": "Hier, wo majestätische Gipfel den Himmel berühren und die Natur in ihrer reinsten Form gedeiht, erwartet Sie Urlaubsglück.",
+    
+    "experiences_title": "Erlebnisse",
+    "experiences_text": "Hier erwarten Sie das weltgrößte Skikarussell und die legendären Wanderwege der Dolomiten neben einsamen Pfaden durch verschneite Natur und atemberaubende Radrouten zu blumenübersäten Almwiesen.",
+    "read_more": "Mehr erfahren",
+    
+    "car_rental": "Autovermietung",
+    "vouchers": "Gutscheine",
+    "impressions": "Eindrücke",
+    
+    "slide1_title": "Bewunderung",
+    "slide1_desc": "Genießen Sie die endlose Weite des Infinity-Pools und lassen Sie sich vom Wasser tragen, während Sie die atemberaubende Landschaft im Morgenlicht bewundern.",
+    
+    "slide2_title": "ausgiebiges Frühstück (7.15–11 Uhr)",
+    "slide2_desc": "Eine Symphonie aus duftendem Espresso und cremigem Cappuccino plus knusprigem Brot aus der Bio-Bäckerei, Honig vom Imker in Taisten, fluffigen Waffeln, feinstem Schinken und vielem mehr. Im Sommer auf unserer Hotelterrasse serviert.",
+    
+    "slide3_title": "Abenteuer",
+    "slide3_desc": "Eine Ruderbootfahrt auf dem Pragser Wildsee, Skifahren am Kronplatz, Wandern im UNESCO-Welterbe Dolomiten oder Langlaufen in der winterlichen Stille des Gsieser Tals – egal zu welcher Jahreszeit, in der Hochpustertal gibt es so viel zu lieben.",
+    
+    "slide4_title": "Mittagsbuffet (12.30–16.30 Uhr)",
+    "slide4_desc": "Wählen Sie aus frischen Salaten, feinen Antipasti und schmackhaften Suppen sowie hausgemachten Kuchen und Köstlichkeiten aus der AT-Patisserie.",
+    
+    "slide5_title": "eine Spritztour",
+    "slide5_desc": "Mercedes, Porsche oder Lamborghini: Entdecken Sie pure Freiheit auf den Passstraßen der Dolomiten mit unserem Luxuswagen-Verleih.",
+    
+    "slide6_title": "Entspannung",
+    "slide6_desc": "Natürlicher Luxus liegt in unserem Wellnessbereich in Ihrer Hand. Geräumige Poolbereiche, gemütliche Saunaoasen und verwöhnende Behandlungen laden zum Verweilen und Träumen ein.",
+    
+    "slide7_title": "Aperitif",
+    "slide7_desc": "Lassen Sie sich inmitten der natürlichen Schönheit unserer Hotelterrasse nieder, umgeben von majestätischen Berggipfeln. Hier, in dieser herrlichen Umgebung, wird ein Aperitif zu einem Erlebnis für alle Sinne.",
+    
+    "slide8_title": "Gourmet-Abendessen (18.45–20.45 Uhr)",
+    "slide8_desc": "Der Höhepunkt des Tages: ein exquisites 5- bis 7-Gänge-Gourmet-Menü, das Sie auf eine kulinarische Reise durch die Aromen Südtirols und Italiens mitnimmt.",
+    
+    "slide9_title": "Prost!",
+    "slide9_desc": "Genießen Sie unsere Auswahl an exzellenten Getränken und erinnern Sie sich an die Abenteuer des Tages. In unserer Bar finden Sie immer die richtige Atmosphäre, um neue Erinnerungen zu schaffen.",
+    
+    "slide10_title": "Zeit zum Kuscheln",
+    "slide10_desc": "Sinken Sie in die Umarmung unserer schönen Zimmer und Suiten und gönnen Sie sich nach einem aufregenden Tag eine wohlverdiente Entspannung. Willkommen in Ihrer persönlichen Wohlfühloase.",
+    "sideSection": {
+      "items": {
+        "wellness": {
+          "title": "Wellness",
+          "description": "Eine Welt aus<link> geräumigen Pools</link> und wohltuenden Saunen, mit Beauty-Bereich, Friseursalon und Fitnessstudio, erwartet Sie in unserem Hotel in Welsberg, Taisten."
+        },
+        "architecture": {
+          "title": "Architektur",
+          "description": "Erleben Sie Alpenflair mit einer neuen Note: Mit bodentiefen Verglasungen und einem zeitgenössischen Design bietet das Alpen Tesitin luxuriösen Komfort in einer hochmodernen Atmosphäre."
+        },
+        "cuisine": {
+          "title": "Kulinarik",
+          "description": "In unserem Hotel im Pustertal verwandelt sich die Küche in ein authentisches Erlebnis. Denn wir sind leidenschaftlich daran interessiert, Ihnen die einzigartige Vielfalt der Südtiroler Küche zu zeigen."
+        },
+        "panoramicLocation": {
+          "title": "Panoramalage",
+          "description": "Oberhalb von Taisten, einem der Südtiroler \"Sonnenorte\", inmitten unberührter Wiesen und dichter Wälder, genießt das Alpen Tesitin uneingeschränkte Blicke auf die Dolomiten UNESCO-Welterbe."
+        }
+      },
+      "activities": {
+        "experiences": {
+          "title": "Erlebnisse",
+          "description": "Hier bei uns erwarten Sie das größte Skikarussell der Welt und die legendären Wanderwege der Dolomiten neben einsamen Pfaden durch verschneite Natur und aufregenden Radrouten zu blumenübersäten Alpenwiesen."
+        },
+        "carRental": {
+          "title": "Autovermietung",
+          "description": "Ob in Porsche oder Lamborghini – mit seinen malerischen Bergstraßen und den legendären Dolomitenpässen bietet das Pustertal eine einzigartige Kulisse für unvergessliche Fahrerlebnisse."
+        },
+        "vouchers": {
+          "title": "Gutscheine",
+          "description": "Beschenken Sie Ihre Liebsten mit Momenten, die zu Herzen gehen, an einem der schönsten Orte Südtirols. Das Alpen Tesitin, Ihr Hotel im Pustertal, wartet!"
+        },
+        "impressions": {
+          "title": "Eindrücke",
+          "description": "Klicken Sie sich durch unsere Welt aus majestätischen Dolomitengipfeln und luxuriösen 5-Sterne-Annehmlichkeiten – das Staunen ist garantiert!"
+        }
+      }
+    }
+  },
+
+
+  "CarRentalPage": {
+    "title": "Autovermietung im Alpen Tesitin",
+    "description": "Ob Sie ohne Auto reisen oder die pure Freiheit auf den Passstraßen der Dolomiten spüren möchten, reservieren Sie sich bei uns im Alpen Tesitin den Wagen Ihrer Träume und sammeln Sie unvergessliche Fahrerlebnisse.",
+    "note": "Bitte beachten Sie: Die Autovermietung steht ausschließlich Gästen zur Verfügung, die im Alpen Tesitin übernachten.",
+    
+    "vwPolo": {
+      "title": "AT VW Polo",
+      "description": "VW Polo mit Handschaltung, Haftpflichtversicherung und wird von voll zu voll übergeben. 1 Tag €45. Ab 5 Tagen €35 pro Tag"
+    },
+    
+    "bmwIx": {
+      "title": "BMW iX 60",
+      "description": "BMW iX 60 (vollelektrisch) mit einer Reichweite von 701 km, 544 PS, Automatikgetriebe und Allradantrieb. Vollkaskoversicherung mit €1.000 Selbstbeteiligung. Kostenloses Aufladen im Hotel. 1 Tag: €95. Ab 5 Tagen: €85 pro Tag"
+    },
+    
+    "mercedesG500": {
+      "title": "Mercedes-Benz G 500",
+      "description": "Mercedes-Benz G 500 mit Automatikgetriebe und Allradantrieb hat eine Vollkaskoversicherung mit einem Selbstbehalt von €2.000 und wird von voll zu voll übergeben. 1 Tag €380. Ab 5 Tagen €320 pro Tag"
+    },
+    
+    "porsche911": {
+      "title": "Porsche 911 Carrera 4 GTS (992)",
+      "intro": "Erleben Sie Traumtage in den Dolomiten mit Traumcabriolets. Voraussetzung: Mindestalter 30 Jahre und seit mindestens 10 Jahren im Besitz eines gültigen Führerscheins.",
+      "halfDay": "½ Tag (4 Stunden)",
+      "km150": "150 km",
+      "price330": "€ 330",
+      "oneDay": "1 Tag (8 Stunden)",
+      "km250": "250 km",
+      "price500": "€ 500",
+      "threeDays": "3 Tage",
+      "km700": "700 km",
+      "price1250": "€ 1.250",
+      "sixDays": "6 Tage",
+      "km1400": "1.400 km",
+      "price2400": "€ 2.400",
+      "tenDayPackage": "10-Tage-Paket (01.05. – 31.10.)",
+      "km2200": "2.200 km",
+      "price3700": "€ 3.700",
+      "additionalKm": "Jeder weitere Kilometer €2,50",
+      "petrol": "Benzin von voll zu voll (98 oder 100 Oktan – Super Plus)"
+    },
+    
+    "mercedesAMG": {
+      "title": "Mercedes-Benz AMG GTC",
+      "intro": "Genießen Sie die geballte Kraft des Mercedes-Benz AMG GTC, während Sie elegant um die Kurven schweben und die Straßen des Pustertals erobern. Voraussetzung: Mindestalter 30 Jahre und seit mindestens 10 Jahren im Besitz eines gültigen Führerscheins.",
+      "halfDay": "½ Tag (4 Stunden)",
+      "km150": "150 km",
+      "price330": "€ 330",
+      "oneDay": "1 Tag (8 Stunden)",
+      "km250": "250 km",
+      "price500": "€ 500",
+      "threeDays": "3 Tage",
+      "km700": "700 km",
+      "price1250": "€ 1.250",
+      "sixDays": "6 Tage",
+      "km1400": "1.400 km",
+      "price2400": "€ 2.400",
+      "tenDayPackage": "10-Tage-Paket (01.05. – 31.10.)",
+      "km2200": "2.200 km",
+      "price3700": "€ 3.700",
+      "additionalKm": "Jeder weitere Kilometer €2,50",
+      "petrol": "Benzin von voll zu voll (98 oder 100 Oktan – Super Plus)"
+    },
+    
+    "lamborghini": {
+      "title": "Lamborghini Huracan Evo Spyder",
+      "intro": "Erleben Sie Traumtage in den Dolomiten mit Traumcabriolets. Voraussetzung: Sportwagenerfahrung, Mindestalter 40 Jahre und seit mindestens 10 Jahren im Besitz eines gültigen Führerscheins.",
+      "halfDay": "½ Tag (4 Stunden)",
+      "km150": "150 km",
+      "price620": "€ 620",
+      "oneDay": "1 Tag (8 Stunden)",
+      "km250": "250 km",
+      "price990": "€ 990",
+      "threeDays": "3 Tage",
+      "km700": "700 km",
+      "price2550": "€ 2.550",
+      "sixDays": "6 Tage",
+      "km1400": "1.400 km",
+      "price5000": "€ 5.000",
+      "tenDayPackage": "10-Tage-Paket (01.05. – 31.10.)",
+      "km2200": "2.200 km",
+      "price8200": "€ 8.200",
+      "additionalKm": "Jeder weitere Kilometer €2,50",
+      "petrol": "Benzin von voll zu voll (100 Oktan – Super Plus)"
+    },
+    
+    "table": {
+      "rentalDuration": "Mietdauer",
+      "included": "Inklusive",
+      "rate": "Preis"
+    },
+    
+    "seeContract": "Mietvertrag ansehen",
+    
+    "responsibility": {
+      "title": "Fahrspaß mit Verantwortung",
+      "quote": "Für jede Cabrio-Fahrt pflanzen wir neue Bäume, um CO2-Emissionen auszugleichen. So bleiben nicht nur unvergessliche Fahrten, sondern auch ein nachhaltiger Beitrag zur Natur.",
+      "signature": "Familie Feichter und das AT-Team"
+    },
+    
+    "voucher": {
+      "title": "Sagen Sie es mit einem Gutschein",
+      "subtitle": "… für Sportwagenliebhaber, Cabrio-Enthusiasten und alle, die Fahrthrills erleben möchten.",
+      "description": "Gutscheine für unsere Autovermietung können Sie direkt bei uns im Hotel kaufen. Bitte beachten Sie, dass eine Einlösung nur in Verbindung mit einem Hotelaufenthalt möglich ist. Bei Fragen können Sie sich jederzeit gerne an uns wenden."
+    }
+  },
+
+  "LivePage": {
+    "heroTitle": "Unser Luxushotel in Südtirol mit 5-Sterne-Service",
+    "intro": "Beim Alpen Tesitin finden Sie eine Fülle von <link>inkludierten Services</link>. Um Ihren Appetit auf den Urlaub anzuregen, hier ein kurzer Einblick in den gesamten Luxus unseres Hotels in Südtirol.",
+    "services": {
+      "item1": "<strong>Üppiges Frühstücksbuffet</strong> von 7:15 bis 11:00 Uhr",
+      "item2": "<link>Mittag- und Nachmittagsbuffet:</link> frisch und jeden Tag anders, immer mit Liebe zubereitet",
+      "item3": "Gourmet-Abendessen mit <strong>5- bis 7-gängigem Gourmet-Menü</strong>",
+      "item4": "<strong>10 geführte Wanderungen oder 6 geführte Schneeschuhwanderungen</strong> pro Woche. Entdecken Sie die Natur des Pustertals sowohl im Sommer als auch im Winter.",
+      "item5": "<strong>3 geführte Skitage</strong> pro Woche im Winter",
+      "item6": "12<strong> Entspannungseinheiten</strong> pro Woche mit Morgengymnastik, Wassergymnastik, Yoga, Rückenentspannung, Stretching, Beine-, Bauch- und Po-Training und vieles mehr",
+      "item7": "<strong>Gästekarte:</strong> Sonderbedingungen für die Teilnahme an Veranstaltungen und Wanderungen des Tourismusverbandes; kostenlose Nutzung der öffentlichen Verkehrsmittel",
+      "item8": "<strong>Vergnügen im Wasser:</strong> Innenpool (33°C) und Außenpool (34°C) plus Infinity-Außenpool (20x9m) mit Wow-Faktor, 180° Traumblick und einer Wassertemperatur von 32°C",
+      "item9": "<strong>Großzügiger Saunabereich</strong> mit phänomenalem Blick auf die Dolomiten UNESCO-Welterbe"
+    },
+    "button": "Und vieles mehr",
+    "infoSections": {
+      "family": {
+        "title": "Reisen Sie mit Ihrer Familie?",
+        "text": "Von geräumigen Familienzimmern über kinderfreundliche Aktivitäten und Services - wir sorgen dafür, dass Sie sich in unserem Luxushotel in Südtirol wie zu Hause fühlen und Ihren Aufenthalt in vollen Zügen genießen können. Tagsüber können Sie gemeinsam die Umgebung erkunden, im Pool plantschen oder die Skipisten oder Mountainbike-Trails unsicher machen. Denn eines ist garantiert: Die Familie steht bei allem, was wir hier tun, im Mittelpunkt und wir tun alles, um Ihren Aufenthalt zu einem unvergesslichen Erlebnis für alle Altersgruppen zu machen."
+      },
+      "adventures": {
+        "title": "Abenteuer, die zu Erinnerungen werden",
+        "text": "Ob Sie die Gipfel erklimmen, durch blühende Wiesen wandern oder einfach nur die Ruhe der Natur genießen - unser Luxushotel in Südtirol bietet Ihnen den idealen Ausgangspunkt für unvergessliche Erlebnisse in unserer einzigartigen Bergwelt."
+      }
+    },
+    "holidayMagic": "Urlaubsmagie liegt in der Luft<br/>in unserem Luxushotel im Pustertal"
+  },
+  
+  "InclusiveServicesPage": {
+    "heroTitle": "Unsere inkludierten Services – für einen unvergleichlichen Urlaub",
+    "heroDescription": "Der majestätische Blick auf die <strong>Pragser Dolomiten</strong>. Die wundersam <strong>klare Bergluft</strong>. Die entspannend <strong>freundliche Atmosphäre</strong>. Ihr Urlaub im Alpen Tesitin? Ganz der Erholung, der inneren Balance und der Lebensfreude gewidmet.<br/><br/>Was Sie sonst noch erwartet? Süßes Nichtstun. Romantik. Ein appetitanregender Cocktail zum Genießen, während Sie an einen <link>fantastischen Tag</link> zurückdenken und einen Abend voller kulinarischer Köstlichkeiten erwarten. Dazu unsere feinen <strong>inkludierten Services</strong>. Für ein Urlaubserlebnis, das in jeder Hinsicht perfekt ist.",
+    "accordion": {
+      "cuisine": {
+        "title": "Kulinarik: Genuss³",
+        "intro": "Genießen Sie die schönen Dinge des Lebens in Ihrem Urlaub im Pustertal mit unserer <strong>¾-Gänge-Gourmet-Pension</strong>.",
+        "breakfast": {
+          "title": "Üppiges Frühstücksbuffet von 7.15 bis 11.00 Uhr",
+          "items": {
+            "item1": "Wir servieren Ihnen duftenden Espresso und cremigen Cappuccino zum Wachwerden. Außerdem erwarten Sie knuspriges Brot aus der Bio-Bäckerei, noch warme Brioche aus dem Ofen, köstliche Torten aus unserer hauseigenen Patisserie, feine Schinken aus Südtirol und anderen Regionen Italiens, würzige Käsesorten, Bio-Eierspeisen nach Wunsch zubereitet, hausgemachte Aufstriche und Honig von einem Imker aus Taisten, fruchtige Säfte und Smoothies, fluffige Waffeln und vieles, vieles mehr. Reiner Frühstücksgenuss!",
+            "item2": "Sie können das Frühstück auch jederzeit über den Room-Service aufs Zimmer bestellen (gegen Aufpreis)."
+          }
+        },
+        "lunch": {
+          "title": "Mittag- und Nachmittagsbuffet: frisch und jeden Tag anders, immer mit Liebe zubereitet",
+          "items": {
+            "item1": "12.30 bis 14.00 Uhr: warmes Mittagessen aus der Showküche",
+            "item2": "12.30 bis 16.30 Uhr: Nachmittagsbuffet mit frischen Salaten und feinen Antipasti, schmackhaften Suppen und knusprigem Brot aus der Bio-Bäckerei, hausgemachten Torten und Köstlichkeiten aus der AT-Patisserie",
+            "item3": "Ab 12.30 Uhr: Köstliches Obst, Gemüsesticks mit Dips, Trockenfrüchte und Nüsse sowie eine Auswahl an Tees und Säften aus unserer Wellnessbar",
+            "item4": "12.00 bis 14.00 Uhr: exquisites À-la-carte-Mittagessen in unserem Restaurant (gegen Aufpreis)."
+          }
+        },
+        "dinner": {
+          "title": "Gourmet-Abendessen mit Gourmet-Menü von 18.45 bis 20.45 Uhr",
+          "items": {
+            "item1": "Am Abend verwöhnt Sie unser Küchenteam mit einem 5- bis 7-gängigen Gourmet-Menü. Begeben Sie sich auf eine kulinarische Reise durch Südtirol und den Rest Italiens. Sie sind auch herzlich eingeladen, Ihr Abendessen aus der À-la-carte-Karte auszuwählen. Aperitifs, Spezialitätenabende, Dessertbuffets mit süßen Versuchungen, ein exquisites Galadinner und Highlights aus der Showküche runden Ihr Gourmet-Erlebnis ab."
+          }
+        },
+        "indulgence": {
+          "title": "Kulinarischer Genuss vom Morgen bis zur Nacht",
+          "items": {
+            "item1": "<strong>24-Stunden-Menü:</strong> Wir verwöhnen Sie gerne rund um die Uhr mit den feinsten À-la-carte-Gerichten (gegen Aufpreis).",
+            "item2": "Unsere Sommeliers Gerold und Max führen Sie leidenschaftlich durch unsere <strong>Weinwelt mit 365 Etiketten.</strong>",
+            "item3": "Der AT-Weinkeller mit Blick auf die atemberaubenden Berge ist eine beeindruckende Kulisse für die <strong>zweimal wöchentlichen Weinproben</strong> (gegen Aufpreis)."
+          }
+        }
+      },
+      "activities": {
+        "title": "Aktivitäten: aktive Erlebnisse",
+        "intro": "Entdecken Sie die <strong>schönsten Plätze</strong> in den <strong>Dolomiten</strong> und erkunden Sie die faszinierende Natur rund um Ihr Urlaubsversteck.",
+        "summer": {
+          "title": "Im Sommer",
+          "items": {
+            "item1": "<strong>10 geführte Wanderungen</strong>, Bergtouren und abenteuerliche Ausflüge pro Woche",
+            "item2": "Verleih von <strong>Mountainbikes</strong> mit Helm (kostenlos)",
+            "item3": "Verleih von <strong>Gravelbikes</strong> mit Helm (gegen Aufpreis)",
+            "item4": "Verleih von <strong>voll ausgestatteten E-Bikes</strong> inklusive Helm (gegen Aufpreis)",
+            "item5": "Dolce vita auf zwei Rädern: <strong>Vespa-Verleih</strong> inklusive Helm (gegen Aufpreis)"
+          }
+        },
+        "winter": {
+          "title": "Im Winter",
+          "items": {
+            "item1": "6 <strong>geführte Schneeschuhwanderungen</strong> pro Woche",
+            "item2": "3 <strong>geführte Skitage</strong> pro Woche: Entdecken Sie die besten Skigebiete in den Dolomiten.",
+            "item3": "Unsere <strong>kostenlosen AT-Skishuttles</strong> bringen Sie in nur 14 Minuten in Südtirols Skigebiet Nr. 1, den Plan de Corones/Kronplatz"
+          }
+        },
+        "yearRound": {
+          "title": "Ganzjährig",
+          "items": {
+            "item1": "12 <strong>Entspannungseinheiten</strong> pro Woche mit Morgengymnastik, Wassergymnastik, Yoga, Rückenentspannung, Stretching, Beine-, Bauch- und Po-Training und vieles mehr",
+            "item2": "Lichtdurchflutetes, 140m² großes <strong>Fitnessstudio</strong> mit atemberaubendem Blick auf die Dolomiten",
+            "item3": "Individuelle Betreuung durch einen <strong>Personal Trainer</strong> im Fitnessstudio (gegen Aufpreis)",
+            "item4": "Lichtdurchfluteter, 100m² großer <strong>Übungs- und Yogaraum</strong>",
+            "item5": "<strong>Gästekarte:</strong> Sonderbedingungen für die Teilnahme an Veranstaltungen und Wanderungen des Tourismusverbandes und kostenlose Nutzung der öffentlichen Verkehrsmittel (ausgenommen: Shuttle zur Plätzwiese und zur Auronzohütte sowie Transport von Hunden und Fahrrädern)",
+            "item6": "<strong>Kostenloser Verleih:</strong> Wander- und Nordic-Walking-Stöcke, Rucksäcke, Wasserflaschen, Wanderkarten, Schneeschuhe und vieles mehr",
+            "item7": "<strong>Berg-Ecke:</strong> Berg-Ecke mit Wanderempfehlungen, Karten und vielem mehr",
+            "item8": "Sie erhalten alle von unserem Wanderführer während der Wanderungen aufgenommenen Fotos per WeTransfer in Originalgröße (Alternative: USB-Stick für 5€)."
+          }
+        }
+      },
+      "wellness": {
+        "title": "Wellness: entspannen und genießen",
+        "intro": "Halten Sie einen Moment inne. Hören Sie auf Ihre Gedanken. Entdecken Sie die Freude am Entschleunigen. Und freuen Sie sich auf entspannende inkludierte Services.",
+        "items": {
+          "item1": "Spa-Tasche, flauschige Bademäntel und weiche AT-Pantoffeln",
+          "item2": "<strong>Innenpool</strong> (33°C) und <strong>Außenpool</strong> (34°C) mit einzigartigem Blick auf die Dolomiten für Liebhaber des Feinen",
+          "item3": "Höchstes Badevergnügen: <strong>Infinity-Außenpool in der Sonne</strong> (20x9m) mit Wow-Faktor, 180° Traumblick und einer Wassertemperatur von 32°C",
+          "item4": "<strong>Luxus-Infinity-Whirlpool</strong> (8x5m) mit atemberaubendem Blick auf die Dolomiten und 36°C warmem Wasser; ab 16 Jahren",
+          "item5": "<strong>Infinity-Salz-Relax-Pool</strong> (8x5m) mit Salzwasser zum Treiben und Entspannen bei 36°C; Textilfreier Bereich – ab 16 Jahren",
+          "item6": "<strong>Plunge-Pool</strong> (8x3m) mit 14°C frischem Bergquellwasser; Textilfreier Bereich – ab 16 Jahren",
+          "item7": "<strong>Unsere Saunawelt:</strong> Aufguss-Erlebnis-Sauna, Panorama-Finnische Sauna, Sauna aus Keloholz, Bio-Soft-Kräutersauna aus Schweizer Kiefer, Kristall-Aroma-Dampfbad, Salz-Dampfbad und Infrarotliegen; Textilfreier Bereich – ab 16 Jahren",
+          "item8": "Bio-Soft-Sauna und Aroma-Dampfbad im <strong>Textilbereich rund um den Swimmingpool</strong>",
+          "item9": "12 exzellent ausgebildete Spa-Mitarbeiter für <strong>Behandlungen und Massagen</strong>",
+          "item10": "<strong>Panorama-Sonnenliegewiese</strong> mit bequemen Liegen, Schaukeln und gemütlichen Nestern (im Sommer)",
+          "item11": "Im Saunagarten: Sonnenliegewiese mit Schaukeln und Liegen mit Bergblick (im Sommer, ab 16 Jahren)",
+          "item12": "Gemütliche Nischen und Wasserbetten in schönen <strong>Panorama-Entspannungsräumen</strong>",
+          "item13": "<strong>Wi-Fi-Entspannungsraum</strong> mit gemütlichen Betten",
+          "item14": "<strong>Wellnessbar</strong> mit frischem Obst und Gemüsesticks mit Dips, Trockenfrüchten und Nüssen sowie Quellwasser, Tees und Säften",
+          "item15": "Drei <strong>Sauna-Aufguss-Events</strong> pro Tag mit wechselnden Themen",
+          "item16": "Tägliche <strong>Kräuterpeelings</strong> im Kristall-Aroma-Dampfbad",
+          "item17": "Romantische Feuerstelle im Saunagarten (im Winter)"
+        }
+      },
+      "kids": {
+        "title": "Unsere Services für Kinder und Jugendliche",
+        "intro": "Auch für Kinder und Jugendliche gibt es in Ihrem Urlaub im Pustertal viel zu entdecken.",
+        "items": {
+          "item1": "Flauschige Bademäntel und AT-Pantoffeln in Kinder- und Jugendgrößen",
+          "item2": "<strong>Kinder- und Jugendzimmer</strong> mit vielen Highlights (Chill-out-Ecke, Kletterwand, Lamborghini-Fahrsimulator, Tischkicker, weiche Lego-Steine, Fun4Four-Spieltisch und vieles mehr)",
+          "item3": "Spaß im Wasser: <strong>Innenpool</strong> (33°C) und <strong>Außenpool</strong> (34°C) plus <strong>Infinity-Außenpool in der Sonne</strong> (20x9m) mit Wow-Faktor, 180° Traumblick und einer Wassertemperatur von 32°C",
+          "item4": "<strong>Bio-Soft-Sauna</strong> und <strong>Aroma-Dampfbad</strong> im Textilbereich rund um den Swimmingpool",
+          "item5": "Auf Vorbestellung ausleihbar: Wasserkocher auf dem Zimmer, Hochstühle, Kinderbett, Babyfon, Kinderwagen, Babytrage für Wanderungen",
+          "item6": "Eine Auswahl an leckeren Kindergerichten"
+        }
+      }
+    }
+  },
+  
+  "RelaxPage": {
+    "heroTitle": "Ihr Wellnesshotel im Pustertal mit Dolomitenblick",
+    "heroDescription": "Die Dolomiten zum Greifen nah, üppige Natur direkt vor Ihrem Fenster – in unserem <strong>Wellnesshotel im Pustertal</strong> erleben Sie Wellness in einer Kulisse, die Ihr Herz höherschlagen lässt. Bei einem Sprung in den Innen- oder Außenpool tauchen Sie in das atemberaubende Bergpanorama ein, das sich im kristallklaren Wasser spiegelt, während Ihr Blick über die majestätischen Gipfel vor Ihnen schweift. Die Magie der Dolomiten begleitet Sie sogar in der Hitze der Sauna oder beim Schwitzen in der <link>Fitness- und Übungsraum.</link> Und während wir Sie in unseren Behandlungsräumen verwöhnen, werden Sie von der Schönheit der Natur umarmt und in Frieden und Komfort getaucht.",
+    "spaTitle": "Ein Wellness- & Sporthotel im Pustertal<br/>das Ihre Sinne wiederbelebt",
+    "relaxActivities": {
+      "warmth": {
+        "title": "Umarmt von Wärme",
+        "description": "Beruhigende Kräuterdüfte führen Sie durch den großzügigen Saunabereich unseres Wellnesshotels im Pustertal. Folgen Sie einfach Ihrer Nase, aber halten Sie auch die Augen offen, denn die Aussicht von unseren acht Saunen und Dampfbädern ist einfach atemberaubend!"
+      },
+      "water": {
+        "title": "Umgeben von Wasser",
+        "description": "Alle Anspannung löst sich in den ganzjährig beheizten Innen- und Außenpools unseres Wellnesshotels im Pustertal auf, während eine Sitzung im sprudelnden Whirlpool Sie wie neugeboren fühlen lässt."
+      }
+    },
+    "infoSections": {
+      "pampered": {
+        "title": "Verwöhnt von Profis",
+        "text": "Genießen Sie das <link1>Gefühl der Leichtigkeit</link1> und finden Sie neue Lebensfreude dank der Kraft der Natur – sowohl im <link2>Winter</link2> als auch im <link3>Sommer</link3>. Die <strong>reiche Auswahl an Massagen und Behandlungen</strong> in unserem Wellnesshotel im Pustertal spiegelt die Vielfalt Südtirols wider und lässt Sie die Behandlungsmethode finden, die perfekt zu Ihnen und Ihren Bedürfnissen passt. Unser <strong>Haarexperte</strong> wird Ihre natürliche Schönheit auch mit einem neuen Schnitt oder einer trendigen Frisur unterstreichen – für einen besonderen Anlass oder einfach so."
+      },
+      "revitalised": {
+        "title": "Belebt durch Frische",
+        "text": "Ein Besuch an der <strong>Wellnessbar</strong> lohnt sich. Frisches Obst und Gemüsesticks mit Dips, Trockenfrüchte, Quellwasser, Tees und Säfte sind wunderbar erfrischend – und es ist auch ein toller Ort für einen freundlichen Plausch."
+      }
+    },
+    "activeHotel": {
+      "title": "Suchen Sie ein aktives Hotel in Südtirol?",
+      "description": "Wenn Sie von den Dolomiten fasziniert sind, werden Sie unseren <strong>Fitness- und Übungsraum</strong> mit Blick auf die Pale di San Martino absolut lieben. Er ist von <strong>7.00 bis 22.00 Uhr</strong> geöffnet – bei Wunsch mit professioneller Anleitung. Entspannungs- und Fitnesssitzungen wie Yoga und Stretching finden ebenfalls regelmäßig statt."
+    },
+    "catalog": {
+      "title": "Beauty-Katalog",
+      "download": "Herunterladen"
+    }
+  },
+  
+  "PoolPage": {
+    "heroTitle": "Wassererfrischung in unserem Hotel im Pustertal mit Pool",
+    "heroDescription": "Sanftes Wasser, fesselnde Ruhe und bezaubernde Ausblicke – die Wasserwelt unseres <strong>Hotels im Pustertal mit Pool</strong> ist ein Ort magischer <link>Entspannung</link>. Ob Sie im erfrischenden Wasser treiben oder sich an einem Pool-Liegestuhl in der Sonne aalen.",
+    "poolData": {
+      "infinityPool": {
+        "title": "Highlight: Infinity-Außenpool in der Sonne im Pustertal",
+        "specs": "(20x9m | 32°C)",
+        "text": "Schwimmen Sie im Infinity-Außenpool auf der Weltspitze. Das Zusammenspiel von kristallklarem, auf 32°C erwärmtem Wasser und herrlichen Ausblicken schafft eine magische Atmosphäre, die Sie einlädt, den Alltagsstress hinter sich zu lassen und sich dem Moment mit Leib und Seele hinzugeben. Unser Hotel mit beheiztem Außenpool in Südtirol verspricht Wow-Momente und einen Traumblick auf 180°."
+      },
+      "indoorPool": {
+        "title": "Panorama-Innenpool",
+        "specs": "(26m lang | 34°C)",
+        "text": "Umgeben von bodentiefen Fenstern, die einen verzaubernden Blick auf die majestätischen Dolomiten eröffnen, können Sie in unserem Hotel im Pustertal mit Pool einen Sprung ins Wasser machen und dabei die Schönheit der Natur in sich aufnehmen. Oder Sie gleiten durch den Durchgang hinaus in den Außenpool – 26 Meter lang und das ganze Jahr über auf eine angenehme Temperatur von 34°C beheizt."
+      },
+      "brinePool": {
+        "title": "Infinity-Salz-Relax-Pool",
+        "specs": "(8x5m | 36°C)",
+        "text": "Die warme Sole streichelt sanft Ihre Haut und hilft, alle Spuren von Anspannung zu lösen. Dieser Pool wird Ihr Herz mit seinem einzigartigen Design und den unendlichen Ausblicken erobern. Im Sommer können Sie es sich dann auf den Außenliegen bequem machen, während im Winter Wärme und Ruhe im Innenbereich auf Sie warten.<br /><br />Bitte beachten Sie, dass der Infinity-Salz-Relax-Pool ein textilfreier Bereich ist. Nur für Gäste ab 16 Jahren geöffnet."
+      },
+      "whirlpool": {
+        "title": "Luxus-Infinity-Whirlpool",
+        "specs": "(8x5m | 36°C)",
+        "text": "Ob Sie sich eine entspannende Auszeit alleine gönnen oder den Whirlpool mit Freunden oder Ihrem Partner teilen – dieser luxuriöse Rückzugsort mit atemberaubendem Dolomitenpanorama bietet Ihnen ein unvergessliches Wellnesserlebnis. Lassen Sie sich von den sprudelnden Wasserstrahlen verwöhnen und erleben Sie ein 36°C warmes Badeerlebnis, das Sie so schnell nicht vergessen werden.<br /><br />Nur für Gäste ab 16 Jahren geöffnet."
+      },
+      "plungePool": {
+        "title": "Plunge-Pool",
+        "specs": "(8x3m | 14°C)",
+        "text": "Nach einer Saunasession oder einer heißen Dusche in unserem Hotel im Pustertal mit Pool ist ein schneller Sprung in den Plunge-Pool ein Wohlfühlerlebnis, das Ihren Kreislauf anregt und Ihren Körper belebt. Das knackige 14°C kalte Bergquellwasser macht Sie erfrischt und revitalisiert.<br /><br />Bitte beachten Sie, dass der Plunge-Pool ein textilfreier Bereich ist. Nur für Gäste ab 16 Jahren geöffnet."
+      }
+    }
+  },
+  
+  "SaunaPage": {
+    "heroTitle": "Ihr Hotel mit Saunabereich in Südtirol",
+    "heroDescription": "<strong>Jeden Tag von 12.00 bis 19.30 Uhr</strong> öffnet sich in unserem <strong>Hotel mit Sauna in Südtirol</strong> die Tür zu einer Welt<link1> tiefgreifender Entspannung</link1>, in der Sie sich in wohliger Wärme zurücklehnen und sich mit einem erneuerten Gefühl der Leichtigkeit erfüllt fühlen können. Ein Ort, an dem Sie nicht nur die wohltuende Wärme unserer Saunen genießen, sondern auch phänomenale Ausblicke auf die<link2> Dolomiten UNESCO-Welterbe</link2> in sich aufnehmen.",
+    "dailyInfusions": "3 Sauna-Aufgüsse & Peelings täglich",
+    "saunaData": {
+      "infusionSauna": {
+        "title": "Aufguss-Erlebnis-Sauna",
+        "specs": "80-85°C | 10-20% Luftfeuchtigkeit | textilfreier Bereich",
+        "text": "Unsere finnische Sauna im Pustertal, aus feinem Nussbaumholz gefertigt, stärkt das Immunsystem, trainiert das Herz-Kreislauf-System, senkt den Blutdruck, reinigt den Körper und entspannt die Muskeln. Sie verbessert auch die Durchblutung des Atmungssystems und steigert die Gesamteffizienz. Regelmäßige Saunagänge können Übersäuerung vorbeugen, die Hautalterung verlangsamen und Kopfschmerzen und Migräne lindern."
+      },
+      "panoramicSauna": {
+        "title": "Panorama-Aufguss-Sauna aus Antikholz",
+        "specs": "75-80°C | 10-20% Luftfeuchtigkeit | textilfreier Bereich",
+        "text": "Eine Sauna für alle, auch für Anfänger, mit fantastischer Wirkung: Sie stärkt das Immunsystem, aktiviert die körpereigenen Abwehrkräfte, trainiert das Herz-Kreislauf-System, entspannt die Muskeln, verbessert die Durchblutung der Schleimhäute, steigert die Leistungsfähigkeit … und hat eine Aussicht, in die Sie sich verlieben werden!"
+      },
+      "bioSauna": {
+        "title": "Bio-Soft-Kräutersauna aus Schweizer Kiefer",
+        "specs": "60-65°C | 35-45% Luftfeuchtigkeit | textilfreier Bereich",
+        "text": "Eine schonende Sauna für Neulinge und Menschen mit Kreislaufproblemen. Die Mischung aus Kräutern (Ringelblume, Zitronenmelisse, Pfefferminze) aus dem Alpen Tesitin Garten und der atemberaubende Blick in die Ferne wirken zusammen, um Ihnen beim Entspannen zu helfen."
+      },
+      "finnishSauna": {
+        "title": "Finnische Sauna aus Keloholz",
+        "specs": "90°C | 10-20% Luftfeuchtigkeit | textilfreier Bereich",
+        "text": "Die trockene Hitze der finnischen Sauna ist ein Allheilmittel für erfahrene Saunafans. Sie stärkt die Abwehrkräfte und das Herz-Kreislauf-System, entspannt die Muskeln und hilft bei Alterserscheinungen, Kopfschmerzen und Migräne."
+      },
+      "crystalBath": {
+        "title": "Kristallbad",
+        "specs": "40-45°C | 100% Luftfeuchtigkeit | textilfreier Bereich",
+        "text": "Hier öffnen sich die Poren, damit Masken oder Peelings tief in die unteren Hautschichten eindringen können, um noch effektiver zu nähren. Das Immunsystem wird ebenfalls gestärkt, die Durchblutung angeregt und die Atemwege befreit."
+      },
+      "brineBath": {
+        "title": "Sorapis-Salz-Dampfbad",
+        "specs": "40-45°C | 100% Luftfeuchtigkeit | textilfreier Bereich",
+        "text": "Genießen Sie die ideale Kombination aus Wärme, Salz und Luftfeuchtigkeit im Salz-Dampfbad. Es wirkt entspannend, reinigend, pflegend und beruhigend."
+      },
+      "infraredLoungers": {
+        "title": "Infrarotliegen",
+        "specs": "38-55°C | Textilbereich",
+        "text": "Während Sie auf der Liege entspannen, erhöht die Strahlungswärme Ihre Körpertemperatur von innen. Dies hilft Ihnen, gut zu schwitzen, ohne den Körper zu belasten, was sie besonders bei hitzeempfindlichen Menschen beliebt macht."
+      }
+    },
+    "steamBath": {
+      "title": "Dampfbad im Textilbereich",
+      "temperature": "40–42°C",
+      "humidity": "100% Luftfeuchtigkeit",
+      "area": "Textilbereich",
+      "description": "Besonders schonend für den Körper, daher ideal für Sauna-Neulinge sowie für Kinder und Jugendliche. Die hohe Luftfeuchtigkeit hilft bei Atemwegsproblemen und wirkt antibakteriell."
+    },
+    "bioSauna": {
+      "title": "Bio-Sauna im Textilbereich",
+      "temperature": "50–60°C",
+      "humidity": "30–40% Luftfeuchtigkeit",
+      "area": "Textilbereich",
+      "description": "Duftende Kräuter aus unserem Garten (Ringelblume, Zitronenmelisse, Pfefferminze) fördern nicht nur das Wohlbefinden, sondern wirken sich auch positiv auf Stimmung, Stoffwechsel und Kreislaufsystem aus."
+    },
+    "havenSection": {
+      "title": "Friedliche Oasen, die zum Träumen einladen",
+      "description": "Wellness und Dolomiten sind eine außergewöhnliche Kombination. Einfach durch die Panoramafenster schauen, die Sie in allen <strong>vier Entspannungsbereichen</strong> unseres Wellnesshotels erwarten, und Sie werden von einem einzigartigen Gefühl der Ruhe und Gelassenheit erfüllt sein. Gemütliche Nischen und Wasserbetten erwarten Sie im beeindruckenden Panorama-Entspannungsraum, und auch andere kleine, liebliche Entspannungsräume laden zum Verweilen ein. Im Sommer, wenn die Sonne hoch am Himmel steht, gibt es nichts Schöneres, als den Frieden der Natur auf der <strong>großzügigen Sonnenliegewiese</strong> aufzunehmen und sich in die bequemen Liegen, Stühle und gemütlichen Nischen zu kuscheln."
+    }
+  },
+  
+  "GymPage": {
+    "heroTitle": "Ihr Wellnesshotel mit Fitnessstudio und Blick auf die Dolomiten",
+    "heroDescription": "Im Herzen der majestätischen <link1>Dolomiten</link1> finden Sie neben den atemberaubenden Ausblicken auch unser <strong>Wellnesshotel mit Fitnessstudio</strong>, das nur darauf wartet, Ihre Sinne zu beflügeln und Ihre Fitnessziele in Reichweite zu bringen. Gönnen Sie sich ein Training mit Aussicht und erleben Sie die <link2>Kraft der Natur</link2><strong>, die Sie zu neuen Leistungshöhen inspiriert </strong> - und entspannen Sie dann in unserer <link3>sublim schönen Wellnesswelt</link3>.",
+    "gymHours": "Unser Fitnessstudio:<br></br>für Sie täglich von 7.00 bis 22.00 Uhr geöffnet!",
+    "gymSection": {
+      "title": "Was wird es heute?",
+      "description": "Entdecken Sie unser Fitnessstudio mit <strong>modernster Ausstattung</strong> – oder nehmen Sie an unserem aktiven Programm teil. Sie können sich jeden Tag auf ein <link>abwechslungsreiches Aktivitätenprogramm</link> freuen, darunter <strong>Morgengymnastik</strong>, Yoga, <strong>gesundes Rückentraining</strong>, Stretching, <strong>Beine-, Bauch- und Po-Training</strong> und vieles mehr."
+    },
+    "activities": {
+      "skiing": {
+        "title": "Skifahren"
+      },
+      "crossCountry": {
+        "title": "Langlauf"
+      },
+      "snowshoeing": {
+        "title": "Schneeschuhwandern"
+      },
+      "hiking": {
+        "title": "Wandern"
+      },
+      "biking": {
+        "title": "Radfahren"
+      }
+    }
+  },
+
+  "ExperiencePage": {
+    "heroTitle": "Ihr 5-Sterne-Sporthotel in Südtirol",
+    "heroDescription": "Das Alpen Tesitin, Ihr<strong> Sporthotel in Südtirol</strong>, ist Ihr Tor zu einem echten Paradies. Treten Sie ein und entdecken Sie die endlose Magie einer Welt voller Abenteuer und unvergesslicher Naturerlebnisse.",
+    "seasons": {
+      "winter": {
+        "title": "Winter",
+        "description": "Die kristallklare Bergluft, die verschneiten Dolomitengipfel und die atemberaubenden Pisten des Plan de Corones/Kronplatz, Südtirols Skiberg Nr. 1 – <a href='/winter'>im Winter</a> strahlt das Pustertal seinen ganz eigenen, besonderen Charme aus."
+      },
+      "summer": {
+        "title": "Sommer",
+        "description": "<a href='/summer'>Der Sommer</a> lässt Sie die innere Ruhe der Natur entdecken und mühelos dem Alltagsstress entfliehen, umgeben von dichten Wäldern, wilden Wiesen und einem majestätischen Bergpanorama."
+      }
+    },
+    "infoSections": {
+      "wonderDay": {
+        "title": "Ein Tag voller Wunder",
+        "text": "Einzigartige Abenteuer erwarten Sie vor der Kulisse der majestätischen Dolomiten, des legendären Plan de Corones/Kronplatz und der weltberühmten Drei Zinnen. Egal, ob Sie die Natur beim <strong>Wandern, Radfahren oder Genießen</strong> erkunden oder mit <strong>Skiern, Langlaufskiern oder Schneeschuhen</strong> an den Füßen Gipfel erklimmen – rund um unser Sporthotel in Südtirol finden Sie ein aktives Paradies, das seinesgleichen sucht. Tauchen Sie gleich ein und bewundern Sie die Schönheit der Natur im Pustertal. Machen Sie sich bereit, sich zu verlieben!"
+      },
+      "seasonsMagic": {
+        "title": "Die Magie der Jahreszeiten",
+        "text": "Erleben Sie den Frühling, wenn die <strong>Alpenwiesen</strong> von <strong>bunten Blüten</strong> übersät sind. Genießen Sie den <a href='/summer'>Sommer</a>, wenn die <strong>üppige Natur</strong> von einer angenehmen Brise gestreichelt wird. Bewundern Sie den Herbst, wenn die <strong>Aussichten von den Gipfeln</strong> beeindruckend weit reichen. Oder tauchen Sie ein in den <a href='/winter'>Winter</a>, wenn das Pustertal sich in eine <strong>verschneite Winterlandschaft</strong> verwandelt und Schneeflocken sanft vom Himmel tanzen. Im Alpen Tesitin, Ihrem Sporthotel in Südtirol, hat jede Jahreszeit ihren eigenen, unvergleichlichen Charme. Finden Sie es selbst heraus!"
+      }
+    },
+    "luxuryCar": {
+      "title": "Das Sporthotel im Pustertal mit <br /> Luxus-Cabrio-Vermietung",
+      "description": "Unverfälschter Luxus auf den majestätischen Passstraßen der Dolomiten. Der Wind in den Haaren, ein Freiheitsgefühl im Herzen. Mieten Sie einen der <link>Luxus-Cabrios</link> in unserem Sporthotel in Südtirol und erleben Sie die ungebändigte Kraft der Natur, während Sie die <strong>Schönheit unserer ikonischen Routen</strong> in sich aufnehmen. Während die herrliche Landschaft vorbeizieht und sich Ihre Horizonte erweitern, werden Sie sich lebendiger fühlen als je zuvor."
+    },
+    "topThree": {
+      "title": "Unsere Top 3",
+      "subtitle": "in unserem aktiven Hotel in Südtirol",
+      "items": {
+        "item1": "Erkunden Sie das Winterparadies auf den sonnigen <strong>Langlaufloipen im Gsieser Tal</strong>",
+        "item2": "Bewundern Sie mit eigenen Augen die glitzernde <strong>Schönheit des Pragser Wildsees</strong>, des Toblacher Sees und des Dürrensees",
+        "item3": "Entdecken Sie die abgeschiedene <strong>Ruhe des Lutterkopfs</strong> auf einer Wanderung und erleben Sie die Natur in all ihrer unberührten Schönheit"
+      }
+    }
+  },
+  
+  "CuisinePage": {
+    "heroTitle": "Unser Gourmethotel in Südtirol: Genuss im Überfluss",
+    "heroDescription": "In unserem<strong> Gourmethotel in Südtirol</strong> verschmelzen Leidenschaft für kreative Küche und Liebe zu<link> unserer Heimat </link> zu einem unvergleichlichen kulinarischen Erlebnis. Wenn Sie erst einmal die köstlichen Spezialitäten Südtirols gekostet haben, werden Sie immer mehr davon wollen. Die intensiven Aromen, verlockenden Düfte und die Fülle regionaler Produkte, die Sie im Alpen Tesitin erwarten, werden jedes Feinschmeckerherz erfreuen.",
+    "cuisineItems": {
+      "breakfast": {
+        "title": "Üppiges Frühstück",
+        "description": "<strong>(7.15 - 11.00 Uhr)</strong><br/><br/>Duftender Espresso und cremiger Cappuccino, knuspriges Brot aus der <strong>Bio-Bäckerei</strong>, frische Backwaren und Torten aus unserer Patisserie, feinste Schinken und Käsesorten sowie <strong>Bio-Eierspeisen</strong> auf Bestellung. Dazu hausgemachte Aufstriche und Honig vom örtlichen Imker, Fruchtsäfte, Smoothies und fluffige Waffeln. Kann auch ganztägig aufs Zimmer serviert werden (gegen Aufpreis)."
+      },
+      "lunch": {
+        "title": "Mittagsbuffet",
+        "description": "<strong>(12.30 – 16.30 Uhr)</strong><br/>Sie haben vier Optionen für das Mittagessen:<br/><br/><ul><li>Ein warmes <strong>Mittagessen aus unserer Showküche</strong> (12.30 – 14.00 Uhr)</li><li>Frische Salate, köstliche Antipasti, wärmende Suppen und eine Auswahl an Brot, Kuchen und anderen Köstlichkeiten aus unserer <strong>AT-Patisserie</strong> (12.30 – 16.30 Uhr)</li><li>Köstliches Obst, Gemüsesticks mit Dips, Trockenfrüchte und Nüsse sowie eine Vielzahl von Tees und Säften aus unserer <strong>Wellnessbar</strong> (ab 12.30 Uhr)</li><li>Oder, gegen Aufpreis, ein exquisites <strong>À-la-carte-Mittagessen</strong> in unserem Restaurant (12.00 – 14.00 Uhr)</li></ul>"
+      },
+      "dinner": {
+        "title": "Gourmet-Abendessen",
+        "description": "<strong>(18.45 – 20.45 Uhr)</strong><br/><br/>Ein <strong>5- bis 7-gängiger Genuss-Trip</strong> durch die kulinarische Vielfalt Südtirols und des restlichen Italiens oder ein <strong>À-la-carte-Abendessen</strong>? Sie haben täglich die Freiheit zu wählen. Sie können sich auch regelmäßig auf Aperitifs, besondere Themenabende, verführerische Dessertbuffets, exklusive Galadiners und Live-Kochshows freuen. Wir freuen uns,<strong> auf Ihre individuellen Bedürfnisse einzugehen</strong> und empfehlen ausgewählte Weine aus dem AT-Weinkeller."
+      }
+    },
+    "menus": {
+      "menu": "Menü ansehen",
+      "wineList": "Weinkarte ansehen",
+      "barMenu": "Bar-Menü ansehen"
+    },
+    "slideData": {
+      "item1": {
+        "time": "9.00 Uhr",
+        "title": "üppiges Frühstück",
+        "description": "Eine Symphonie aus duftendem Espresso und cremigem Cappuccino plus knusprigem Brot aus der Bio-Bäckerei, Honig vom Imker in Taisten, fluffigen Waffeln, feinsten Schinken und vielem mehr. Im Sommer auf unserer Hotelterrasse serviert. <br/><br/>Wann? 7.15 - 11.00 Uhr – oder gegen Aufpreis jederzeit auf dem Zimmer"
+      },
+      "item2": {
+        "time": "12:30 Uhr",
+        "title": "Vitalitätsbuffet",
+        "description": "Genießen Sie unser Vitalitätsbuffet an der Wellnessbar, das Sie mit frischem Obst und Gemüsesticks mit Dips, Trockenfrüchten und Nüssen sowie einer großen Auswahl an Tees und erfrischenden Säften erwartet.<br/><br/>Wann? Ab 12.30 Uhr"
+      },
+      "item3": {
+        "time": "13.00 Uhr",
+        "title": "à la carte",
+        "description": "Verzaubern Sie Ihre Sinne mit den exquisiten À-la-carte-Gerichten in unserem Restaurant (gegen Aufpreis), die Ihren Magen und Ihr Herz wunderbar sättigen werden.<br/><br/>Wann? 12.00 - 14.00 Uhr"
+      },
+      "item4": {
+        "time": "13.30 Uhr",
+        "title": "Showküche",
+        "description": "In unserer Showküche zaubern wir täglich schmackhafte Mittagsoptionen, die Ihre Geschmacksknospen kitzeln und Ihnen Momente puren Genusses bescheren.<br/><br/>Wann? 12.30 - 14.00 Uhr"
+      },
+      "item5": {
+        "time": "15.00 Uhr",
+        "title": "Nachmittagsbuffet",
+        "description": "Wählen Sie aus frischen Salaten, feinen Antipasti und schmackhaften Suppen sowie hausgemachten Kuchen und Köstlichkeiten aus der AT-Patisserie.<br/><br/>Wann? 12.30 - 16.30 Uhr"
+      },
+      "item6": {
+        "time": "19.00 Uhr",
+        "title": "Weinprobe",
+        "description": "Der AT-Weinkeller mit Blick auf die atemberaubenden Berge ist eine beeindruckende Kulisse für die zweimal wöchentlichen Weinproben (gegen Aufpreis).<br/><br/>Wann? Zweimal pro Woche"
+      },
+      "item7": {
+        "time": "20.30 Uhr",
+        "title": "Gourmet-Abendessen",
+        "description": "Der Höhepunkt des Tages: ein exquisites 5- bis 7-gängiges Gourmet-Menü, das Sie auf eine kulinarische Reise durch die Aromen Südtirols und des restlichen Italiens mitnimmt.<br/><br/>Wann? 18.45 - 20.45 Uhr"
+      },
+      "item8": {
+        "time": "21.30 Uhr",
+        "title": "Prost!",
+        "description": "Genießen Sie unsere Auswahl an exzellenten Getränken, während Sie an die Abenteuer des Tages zurückdenken. In unserer Bar finden Sie immer die richtige Atmosphäre, um neue Erinnerungen zu schaffen.<br/><br/>Wann? Während der Öffnungszeiten der Bar"
+      },
+      "item9": {
+        "time": "23.00 Uhr",
+        "title": "Hungrig?",
+        "description": "Morgens, nachmittags, abends oder nachts – mit unserem 24-Stunden-Menü erwarten Sie zu jeder Tages- und Nachtzeit kulinarische Köstlichkeiten."
+      }
+    },
+    "chefSection": {
+      "title": "Lassen Sie uns unseren Küchenchef Michael vorstellen",
+      "description": "Unser Küchenchef und sein erstklassiges Küchenteam schwingen täglich unermüdlich ihre Holzlöffel und servieren Ihnen <strong>traditionelle Gerichte mit einer Prise internationalem Flair</strong>. Erleben Sie unsere kreativen täglichen Menükombinationen und lassen Sie sich von unserem Gourmethotel in Südtirol auf eine kulinarische Reise entführen, die Ihre Sinne verzaubern wird."
+    },
+    "quoteSection": {
+      "quote": "\"Frische Zutaten, ehrliches Kochen – das ist mein Ding.\"",
+      "chefName": "Küchenchef Michael"
+    },
+    "introSection": {
+      "title": "Küche im Alpen Tesitin:",
+      "subtitle": "ein unvergessliches Erlebnis",
+      "description": "<underlineText>Unsere Herzen</underlineText> schlagen dafür, Ihnen die unvergleichliche Vielfalt der Südtiroler Küche vorzustellen – ein ernstes Versprechen, das wir leidenschaftlich von Sonnenaufgang bis Sonnenuntergang in unserem Gourmethotel in Südtirol halten."
+    }
+  },
+  
+  "SummerPage": {
+    "heroTitle": "Sommerurlaub im Pustertal – ein Traum wird wahr",
+    "heroDescription": "Das Alpen Tesitin liegt in einer <link1>hervorragenden Lage</link1> im \"Sonnenort\" Taisten und ist somit der perfekte Stützpunkt für den <strong>Sommerurlaub im Pustertal</strong>. Hier – umgeben von dichten Wäldern, wilden Wiesen und einem majestätischen Bergpanorama – können Sie die innere Ruhe der Natur entdecken und mühelos dem Alltagsstress entfliehen. Egal, ob Sie die <link2>sanften Wege</link2> durch die Weiden des Gsieser Tals oder die atemberaubenden Gipfel der Dolomiten bevorzugen, ob Sie einen entspannten Tag mit der Familie oder ein actionreiches Abenteuer mit Freunden planen – rund um unser Hotel steht Ihnen eine Welt voller Möglichkeiten zur Verfügung!",
+    "weeklyProgramme": {
+      "title": "Wöchentliches Programm",
+      "description": "Im Pustertal gibt es immer etwas zu tun – wie wir Einheimischen wissen. Deshalb ist es für uns so einfach, ein wunderbar abwechslungsreiches Wochenprogramm für Sie zu erstellen, das Ihnen alle schönsten Orte und Höhepunkte Ihrer Urlaubsregion zeigt!",
+      "link": "Siehe das wöchentliche Programm"
+    },
+    "activities": {
+      "hiking": {
+        "title": "Wandern"
+      },
+      "biking": {
+        "title": "Radfahren"
+      },
+      "climbing": {
+        "title": "Klettern"
+      },
+      "action": {
+        "title": "Action & Abenteuer"
+      }
+    },
+    "golf": {
+      "title": "Golf",
+      "description": "Perfekte Schläge inmitten von Traumlandschaften sind rund um das Alpen Tesitin an der Tagesordnung. Unsere Lieblingsplätze? Wir teilen sie gerne mit Ihnen."
+    },
+    "golfClubs": {
+      "pustertal": {
+        "title": "Golfclub Pustertal | Bruneck",
+        "description": "Der Golfclub Pustertal am Fuße des Plan de Corones/Kronplatz bietet einen umfangreichen 9-Loch-Platz – Par 33 über 2.690m, teilweise im Wald und teilweise im Freien. Die breite Palette an Möglichkeiten, die die Löcher und der moderne Übungsplatz bieten, sind eine echte Attraktion für Anfänger, erfahrene Golfer und ambitionierte Turnierteilnehmer, ebenso wie der professionelle Unterricht und das <strong>Clubhaus mit Restaurant, Bar und Sonnenterrasse.</strong>"
+      },
+      "mirabell": {
+        "title": "Golfclub Mirabell | Olang",
+        "description": "Der Golfclub Mirabell ist ein hervorragender Ort für <strong>Profis zum Training</strong> und für <strong>Anfänger, um die Grundlagen zu lernen</strong>. Der kleine aber hervorragend gepflegte 3-Loch-Platz mit Driving Range verfügt über einen Teich und einen kleinen Bach sowie perfekt gepflegtes Gras. Ein echter Genuss für Ihren Golfurlaub in den Dolomiten!"
+      },
+      "dolomitengolf": {
+        "title": "Golfclub Dolomitengolf | Osttirol",
+        "description": "36 Löcher vor der <strong>Silhouette der Lienzer Dolomiten</strong> erwarten Sie im Golfclub Dolomitengolf in der Nähe der sonnigen Stadt Lienz. Freuen Sie sich auf eine fantastisch gepflegte Anlage inmitten unberührter Natur mit Feuchtgebieten, Biotopen, unberührter Flora und Fauna und einem angenehmen südlichen Klima. Übrigens: Die Dolomitengolf Academy ist eine der Top-Profischulen für Golf in Österreich."
+      },
+      "cortina": {
+        "title": "Golfclub Cortina | Cortina d'Ampezzo",
+        "description": "Der historische Golfclub Cortina liegt zwischen den <strong>imposanten Dolomitengipfeln</strong> des Monte Faloria und Monte Cristallo und bietet Golfern das ganze Jahr über eine anspruchsvolle Partie. Neben dem 9-Loch-Platz und einer Indoor-Trainingsanlage für die Wintermonate können Sie sich auch auf ein elegantes Clubhaus freuen, das ein <strong>renommiertes Gourmet-Restaurant</strong> beherbergt."
+      },
+      "altaBadia": {
+        "title": "Golfclub Alta Badia | Corvara",
+        "description": "Par 72, der 9-Loch-Golfclub \"Tranrüs\" in Alta Badia ist <strong>einer der höchstgelegenen Golfplätze in ganz Europa</strong>. Eingebettet in die majestätische Landschaft der Dolomiten, am Fuße des Sassongher und der Sellagruppe, bietet dieser Platz Golfern die Möglichkeit, ihr Spiel inmitten atemberaubender Naturszenerie zu verbessern und sich von Juni bis Oktober im <strong>alpinen</strong> Clubhaus zu entspannen."
+      }
+    },
+    "tennis": {
+      "title": "Tennis",
+      "description": "Mit seinen herrlichen Panoramen, <strong>exzellent ausgestatteten Tennisanlagen</strong> und qualifizierten Trainern ist das Hochpustertal ein absolutes Paradies für Tennisliebhaber. <strong>Mieten Sie Schläger und Ausrüstung bei Ihrer Ankunft</strong> und verlieren Sie sich in packenden Outdoor- oder Indoor-Matches. Wer weiß: Vielleicht lässt sich Ihr nächster Aufschlag von <strong>Jannik Sinner inspirieren, der hier seine Leidenschaft für Tennis entdeckt hat.</strong>"
+    },
+    "guestPass": {
+      "title": "In Ihrem Sommerurlaub in Südtirol inbegriffen: <br /> GUEST PASS",
+      "description": "Ihr Ticket für die kostenlose Nutzung aller öffentlichen Verkehrsmittel in ganz Südtirol und die Teilnahme am abwechslungsreichen Wochenprogramm des örtlichen Tourismusverbandes."
+    },
+    "tips": {
+      "title": "Tipps für Action und Erlebnisse?",
+      "button": "Genau hier."
+    }
+  },
+  
+  "WinterPage": {
+    "heroTitle": "Planen Sie einen Winterurlaub im Pustertal?",
+    "heroDescription": "Ein <strong>Winterurlaub im Pustertal</strong> garantiert jedes Jahr aufs Neue außergewöhnliche Erlebnisse. Aber die Region zeigt erst, wie schön sie sein kann, wenn eine funkelnde Schneedecke über das Land gebreitet ist. Die <strong>kristallklare Bergluft</strong>, das Knirschen des Schnees unter den Stiefeln und die majestätische Schönheit der verschneiten Dolomiten schaffen eine Atmosphäre, die nicht magischer sein könnte.",
+    "weeklyProgramme": {
+      "title": "Wöchentliches Programm",
+      "description": "Im Pustertal gibt es immer etwas zu tun – wie wir Einheimischen wissen. Deshalb ist es für uns so einfach, ein wunderbar abwechslungsreiches Wochenprogramm für Sie und Ihre Familie zu erstellen, das Ihnen alle schönsten Orte und Höhepunkte Ihrer Urlaubsregion zeigt!",
+      "link": "Siehe das wöchentliche Programm"
+    },
+    "activities": {
+      "skiing": {
+        "title": "Skifahren",
+        "description": "Ein <a href='/experience/skiing'>Skiurlaub</a> im Alpen Tesitin? Absolut legendär! Nur eine kurze Distanz von unserem Hotel entfernt finden Sie nicht nur die sonnigen Pisten des<strong> Plan de Corones/Kronplatz, Südtirols Skiberg Nr. 1,</strong> sondern auch 12 miteinander verbundene Skigebiete und 1.200 Kilometer perfekt präparierte Pisten, die Sie mit nur einem Skipass befahren können. Und das alles dank Dolomiti Superski!"
+      },
+      "crossCountry": {
+        "title": "Langlauf",
+        "description": "Träumen Sie davon, entlang atemberaubender Loipen durch unberührte Landschaften zu gleiten? Mit <strong>über 1.300 Kilometern perfekt präparierten Loipen</strong> und garantiertem Schnee von Weihnachten bis März erwartet Sie rund um das Alpen Tesitin ein unvergleichliches Langlaufparadies."
+      },
+      "snowshoeing": {
+        "title": "Schneeschuhwandern",
+        "description": "Haben Sie sich schon immer danach gesehnt, die Dolomiten mit Schneeschuhen an den Füßen zu erkunden? Selige Momente, <strong>panoramareiche Gipfel</strong> und verzaubernde Schneelandschaften erwarten Sie rund um unser Hotel."
+      },
+      "winterHiking": {
+        "title": "Winterwandern",
+        "description": "Winterwandern in den Dolomiten ist ein fantastisches Erlebnis. Der knirschende Schnee unter den Füßen, weiße Weiten, so weit das Auge reicht, die belebende Winterluft – einfach göttlich! Das Beste daran, Ihren Urlaub in der Plan de Corones/Kronplatz-Urlaubsregion zu verbringen, ist, dass drei prächtige Berglandschaften leicht erreichbar sind: Winterwandern in den Dolomiten heute, die <strong>Rieserfernergruppe</strong> morgen und vielleicht die <strong>Deferegger Alpen</strong> übermorgen. Und eine Tour auf der verschneiten <a href='/experience/attractions-distances'>Plätzwiese</a> bei Prags ist ein absolutes Muss!"
+      }
+    },
+    "infoSections": {
+      "iceSkating": {
+        "title": "Eislaufen im Park",
+        "text": "Von <strong>Mitte November bis Ende Januar</strong> lädt der Prenninger Park in Welsberg zum Eislaufen in einer bezaubernden Umgebung ein. Mieten Sie dort Ihre Schlittschuhe und gleiten Sie elegant über das Eis."
+      },
+      "tobogganing": {
+        "title": "Lust auf ein bisschen Rodelspaß?",
+        "text": "<strong>Taistner Alm</strong><br/><br/>Die familienfreundliche Rodelbahn zur bewirteten Hütte auf der Vorderen Taistneralm beginnt <strong>weniger als 10 Minuten vom Alpen Tesitin entfernt.</strong> Sobald Sie oben angekommen sind, können Sie köstliche Südtiroler Küche und eine Aussicht auf unseren Hausberg, den Rudlhorn, genießen.<br/><br/><strong>Uwald Alm (Gsies)</strong><br/>Von der Talschlusshütte in St. Magdalena führt Route 12 Sie hinauf zur <strong>2.403 m hohen Uwald Alm.</strong> Genießen Sie die herrliche Aussicht über das Tal, bevor Sie zurück zum Ausgangspunkt sausen.<br/><br/><strong>Baranci/Haunold (Innichen)</strong><br/>Von Kindern und Erwachsenen gleichermaßen geliebt: die Rodelbahn <strong>im Reich des Riesen Baranci</strong> (im Deutschen als Haunold bekannt). Wenn Sie keine Lust auf Skifahren haben, schnappen Sie sich einen Schlitten und sausen fröhlich die 2 km lange Bahn hinunter. Der Viersessellift bringt Sie bequem an den Startpunkt.<br/><br/><strong>Croda Rossa/Rotwand (Sexten)</strong><br/>Mit ihrer legendären 5 km langen Abfahrt <strong>im Herzen der Sextner Dolomiten</strong> verspricht diese Rodelbahn spannende Rodelerlebnisse. Und dank der Seilbahn erreichen Sie die Spitze in nur 6 Minuten!"
+      }
+    },
+    "guestPass": {
+      "title": "In Ihrem Winterurlaub in Südtirol inbegriffen: <br /> GUEST PASS",
+      "description": "Ihr Ticket für die kostenlose Nutzung aller öffentlichen Verkehrsmittel in ganz Südtirol und die Teilnahme am abwechslungsreichen Wochenprogramm des örtlichen Tourismusverbandes."
+    },
+    "tips": {
+      "title": "Tipps für Action und Erlebnisse?",
+      "button": "Genau hier."
+    }
+  },
+  
+  "CarPage": {
+    "heroTitle": "Mieten Sie Ihren Sportwagen in den Dolomiten!",
+    "heroDescription": "Möchten Sie<strong> einen Sportwagen mieten und die Dolomiten erkunden?</strong> Dann ist das Pustertal der ideale Ausgangspunkt für Ihre Abenteuer. Mit seinen malerischen Bergstraßen und den legendären Dolomitenpässen bietet die<link1> Region </link1>eine einzigartige Kulisse für unvergessliche Fahrerlebnisse. Ob Sie berühmte Pässe wie den<strong> Passo Giau, den Passo Falzarego</strong> oder den <strong>Passo Tre Croci</strong> erkunden – das Pustertal verspricht unvergleichlichen Fahrspaß auf kurvenreichen Straßen mit phänomenalen Panoramablicken. Machen Sie sich bereit für das Abenteuer Ihres Lebens und erleben Sie die Dolomiten aus einer völlig neuen Perspektive – vom <link2>Lenkrad Ihres Traumautos aus!</link2>",
+    "note": {
+      "title": "Bitte beachten Sie:",
+      "text": "Die Autovermietung ist nur in Verbindung mit einem Aufenthalt im Alpen Tesitin möglich. <br /> Der Mieter muss seit mindestens 10 Jahren im Besitz einer gültigen Fahrerlaubnis sein."
+    },
+    "tableHeaders": {
+      "duration": "Mietdauer",
+      "included": "Inklusive",
+      "rate": "Preis"
+    },
+    "cars": {
+      "mercedesPorsche": {
+        "title": "Ein Mercedes-Benz oder Porsche: Was gefällt Ihnen?",
+        "description": "Die legendäre Porsche 911 Carrera 4 GTS (992) ist die Essenz aus Leistung, Stil und Luxus und verspricht ein Fahrerlebnis, das Ihre Sinne anregt. Mit ihrem eleganten Design und der beeindruckenden Kraft ist der ikonische Sportwagen eine einzigartige <strong>Kombination aus Ästhetik und Dynamik</strong>. Ihre auffällige Außenhaut und der kraftvolle Motor machen den Mercedes-Benz AMG GTC zu einem echten Hingucker.",
+        "accordion": {
+          "title": "Mercedes-Benz AMG GTC & Porsche 911 Carrera 4 GTS (992)",
+          "description": "Genießen Sie die konzentrierte Kraft des Mercedes-Benz AMG GTC und des Porsche 911 Carrera 4 GTS (992), während Sie elegant um die Kurven schweben und die Straßen des Pustertals erobern.<br /><br/>Erforderlich: Mindestalter von 30 Jahren und seit mindestens 10 Jahren im Besitz einer gültigen Fahrerlaubnis."
+        },
+        "rentalOptions": {
+          "halfDay": {
+            "duration": "½ Tag (4 Stunden)",
+            "km": "150 km",
+            "price": "€ 330"
+          },
+          "fullDay": {
+            "duration": "1 Tag (8 Stunden)",
+            "km": "250 km",
+            "price": "€ 500"
+          },
+          "threeDays": {
+            "duration": "3 Tage",
+            "km": "700 km",
+            "price": "€ 1.250"
+          },
+          "sixDays": {
+            "duration": "6 Tage",
+            "km": "1.400 km",
+            "price": "€ 2.400"
+          },
+          "tenDayPackage": {
+            "duration": "10-Tage-Paket (01.05. – 31.10.)",
+            "km": "2.200 km",
+            "price": "€ 3.700"
+          }
+        },
+        "footer": {
+          "extraKm": "Jeder zusätzliche Kilometer €2,50",
+          "fuel": "Benzin voll zu voll (98 oder 100 Oktan – Super Plus)",
+          "contract": "Mietvertrag ansehen"
+        }
+      },
+      "lamborghini": {
+        "title": "Erfüllen Sie sich Ihren Traum, einen Lamborghini zu mieten!",
+        "description": "Dieses Meisterwerk der Ingenieurskunst vereint höchste Leistung mit unvergleichlicher Eleganz und bietet Ihnen ein Fahrerlebnis, das all Ihre Erwartungen übertrifft. Der kraftvolle Motor, das aerodynamische Design und das Dach, das sich sanft über Ihrem Kopf öffnet, lassen Sie den Rhythmus der Straße spüren. Jede Kurve, jeder Moment hinter dem Steuer dieses Supersportwagens verwandelt sich in ein Fahrerlebnis, an das Sie sich noch Jahre später erinnern werden. Bereit, Ihren Lamborghini zu mieten?",
+        "accordion": {
+          "title": "Lamborghini Huracán EVO Spyder",
+          "description": "Erleben Sie Traumtage in den Dolomiten mit Traumcabrios. <br /><br/>Erforderlich: Sporterfahrung, Mindestalter von 40 Jahren und seit mindestens 10 Jahren im Besitz einer gültigen Fahrerlaubnis."
+        },
+        "rentalOptions": {
+          "halfDay": {
+            "duration": "½ Tag (4 Stunden)",
+            "km": "150 km",
+            "price": "€ 620"
+          },
+          "fullDay": {
+            "duration": "1 Tag (8 Stunden)",
+            "km": "250 km",
+            "price": "€ 990"
+          },
+          "threeDays": {
+            "duration": "3 Tage",
+            "km": "700 km",
+            "price": "€ 2.550"
+          },
+          "sixDays": {
+            "duration": "6 Tage",
+            "km": "1.400 km",
+            "price": "€ 5.000"
+          },
+          "tenDayPackage": {
+            "duration": "10-Tage-Paket (01.05. – 31.10.)",
+            "km": "2.200 km",
+            "price": "€ 8.200"
+          }
+        },
+        "footer": {
+          "extraKm": "Jeder zusätzliche Kilometer €4,50",
+          "fuel": "Benzin voll zu voll (100 Oktan – Super Plus)",
+          "contract": "Mietvertrag ansehen"
+        }
+      }
+    }
+  },
+
+  "MagicMoments": {
+    "heroTitle": "Die magischen Momente unserer Gäste",
+    "heroDescription": "Ein magischer Moment erfüllt Ihr Herz mit Freude. Das glauben wir hier im <link>Alpen Tesitin </link> – und das wird durch all die besonderen Erfahrungen bestätigt, die unsere Gäste und Freunde während ihres Aufenthalts bei uns mit uns geteilt haben.",
+    "testimonial": {
+      "greeting1": "Hallo,",
+      "greeting2": "danke für Ihre Nachricht.",
+      "message": "Wir möchten Ihnen nur mitteilen, dass wir eine Woche in Ihrem Hotel verbracht haben und es einer der besten Orte war, die wir besucht haben. Wir haben bereits vier Belvita-Hotels besucht und Ihres war das beste!",
+      "compliment": "Der Ort, Ihr Personal, Ihr SPA und Ihre Mahlzeiten, alles war perfekt.",
+      "promise": "Wir werden wiederkommen.",
+      "closing": "Mit freundlichen Grüßen,",
+      "signature": "Die Familie GENNETAY"
+    }
+  },
+  
+  "InfoPage": {
+    "heroTitle": "Alle Informationen auf einen Blick",
+    "heroDescription": "Wir laden Sie ein, mehr über die faszinierende Welt des <link>Alpen Tesitin</link> zu erfahren, wo <strong>jedes Detail liebevoll gestaltet wurde</strong>, um sicherzustellen, dass jeder Moment hier unvergesslich ist. Bewundern Sie unsere Ausblicke, erfahren Sie mehr über unsere Annehmlichkeiten, finden Sie Antworten auf häufig gestellte Fragen und entdecken Sie, wie wir Ihren Aufenthalt zu einem unvergesslichen Erlebnis machen. Willkommen im Alpen Tesitin – wo Träume wahr werden und herzerwärmende Erinnerungen geschaffen werden.",
+    "activities": {
+      "photos": {
+        "title": "Fotos & Videos"
+      },
+      "information": {
+        "title": "Nützliche Informationen"
+      },
+      "carRental": {
+        "title": "Autovermietung"
+      },
+      "giftVouchers": {
+        "title": "Geschenkgutscheine"
+      },
+      "gettingHere": {
+        "title": "Anreise"
+      }
+    }
+  },
+  
+  "PhotosVideos": {
+    "heroTitle": "Eine Symphonie aus Naturschönheit und Luxus",
+    "heroDescription": "Eine Welt aus rauen Dolomitengipfeln und 5-Sterne-Luxus, unvergesslichen Erlebnissen und den Höhen des Genusses – tauchen Sie ein in unsere inspirierende Bildergalerie und verlieben Sie sich, noch bevor Sie <link>ankommen.</link>",
+    "filters": {
+      "all": "Alle",
+      "hotel": "Hotel",
+      "architecture": "Architektur",
+      "wellness": "Wellness",
+      "cuisine": "Kulinarik",
+      "video": "Video",
+      "social": "Social Media Wall"
+    },
+    "mediaItems": {
+      "item1": {
+        "alt": "Hotel-Außenansicht im Winter"
+      },
+      "item2": {
+        "alt": "Hotel-Lobby"
+      },
+      "item3": {
+        "alt": "Hotel-Rezeption"
+      },
+      "item4": {
+        "alt": "Dekorativer Kronleuchter"
+      },
+      "item5": {
+        "alt": "Innenpool"
+      },
+      "item6": {
+        "alt": "Spa-Bereich"
+      },
+      "item7": {
+        "alt": "Restaurant"
+      },
+      "item8": {
+        "alt": "Hotel-Video"
+      },
+      "item9": {
+        "alt": "Social-Media-Foto"
+      },
+      "item10": {
+        "alt": "Restaurant"
+      },
+      "item11": {
+        "alt": "Restaurant"
+      },
+      "item12": {
+        "alt": "Restaurant"
+      }
+    }
+  },
+  
+  "GettingHere": {
+    "heroTitle": "Wo die Natur Sie mit offenen Armen empfängt",
+    "heroDescription": "Die Reise zum Alpen Tesitin im Hochpustertal ist bereits für sich ein atemberaubendes Erlebnis. Die majestätischen Berge und grünen Alpenwiesen rundherum werden Ihre Sehnsucht nach unvergesslichen Abenteuern wecken.",
+    "rentCarButton": "Mieten Sie Ihren Traumwagen im Urlaub",
+    "mapTitle": "Standort des Alpen Tesitin auf Google Maps",
+    "tips": {
+      "title": "Tipps zur Anreise",
+      "description": "Wir teilen gerne unsere Tipps, um eine stressfreie, komfortable Reise zu Ihrem <link>Urlaubsparadies</link> zu genießen und jeden Moment in vollen Zügen zu genießen."
+    },
+    "transportation": {
+      "car": {
+        "title": "Anreise mit dem Auto",
+        "description": "Reisen Sie aus Norden, Süden oder Westen? Folgen Sie der Route über die Brennerautobahn bis zur Ausfahrt Brixen-Pustertal und fahren Sie dann etwa 60 Kilometer entlang der Pustertaler Staatsstraße bis nach Welsberg. Biegen Sie direkt nach dem Ortseingang links Richtung Gsies/Taisten ab. Sobald Sie in Taisten angekommen sind, folgen Sie den Schildern zum Alpen Tesitin vorbei an idyllischen Wiesen und Wäldern. Genießen Sie die einzigartigen Ausblicke während Ihrer Reise und bestaunen Sie die Schönheit der umgebenden Natur. (Wichtig: Die Auswahl der \"schnellsten Route\" könnte Sie über eine etwas unkomfortable Bergstraße führen.)<br /><br />Die Route von Osten über Lienz führt über die österreichisch-italienische Grenze. Von der Grenze aus folgen Sie der Staatsstraße nach Welsberg und biegen dann rechts Richtung Gsies/Taisten ab. Sobald Sie in Taisten angekommen sind, folgen Sie den Schildern zum Alpen Tesitin vorbei an idyllischen Wiesen und Wäldern. Sie werden sich mit Sicherheit in die atemberaubenden Ausblicke verlieben, die Ihre Reise begleiten."
+      },
+      "train": {
+        "title": "Anreise mit dem Zug",
+        "description": "Genießen Sie eine entspannte Reise mit den Zügen von Italiens Trenitalia, Österreichs ÖBB, Deutschlands DB oder Südtirols SAD nach Franzensfeste. Steigen Sie dort um und nehmen Sie den Regionalzug nach Welsberg im Pustertal. Wir holen Sie gerne kostenlos vom Bahnhof ab. Rufen Sie uns einfach unter +39 0474 950020 an, um uns Ihre genaue Ankunftszeit mitzuteilen, bevor Sie losfahren."
+      },
+      "plane": {
+        "title": "Anreise mit dem Flugzeug",
+        "description": "Die Südtiroler Fluggesellschaft SkyAlps bringt Sie direkt von den europäischen Großstädten in die Südtiroler Landeshauptstadt Bozen. Von dort aus erreichen Sie unser Hotel schnell und bequem mit Zug, Hubschrauber oder Shuttle-Transfer."
+      },
+      "helicopter": {
+        "title": "Helikopter-Transfer",
+        "description": "Luxus und Komfort mit Vogelperspektive: Genießen Sie einen Traumflug oder einen Flughafentransfer mit dem Hubschrauber und erleben Sie eine unvergessliche, sorgenfreie Reise. <link>Klicken Sie hier für weitere Informationen oder um eine unverbindliche Anfrage zu senden.</link>"
+      },
+      "shuttle": {
+        "title": "Shuttle-Transfer",
+        "description": "Möchten Sie umweltbewusst sein und mit dem Zug oder Fernbus nach Südtirol reisen? Der Anschluss-Shuttle von Südtirol Transfer verspricht eine stressfreie Reise vom Bahn- oder Busbahnhof direkt zum Alpen Tesitin.<link> Sie können ihn hier anfragen.</link>"
+      }
+    }
+  },
+  
+  "Footer": {
+    "address": {
+      "title": "Panorama Wellness Resort Alpen Tesitin",
+      "family": "Die Familie Feichter",
+      "street": "Unterrainerstraße 22",
+      "city": "39035 Tesido/Monguelfo",
+      "region": "Kronplatz / Pustertal",
+      "country": "Dolomiten | Südtirol | Italien"
+    },
+    "contact": {
+      "title": "Kontakt",
+      "phone": "+39 0474 950020",
+      "email": "info@alpentesitin.it"
+    },
+    "links": {
+      "title": "Weitere Links",
+      "guestnet": "Guestnet",
+      "live": "Live",
+      "relax": "Relax",
+      "experience": "Erlebnis",
+      "info": "Info",
+      "belvita": "Belvita",
+      "catalogue": "Kataloganfrage"
+    },
+    "newsletter": {
+      "title": "Newsletter",
+      "placeholder": "E-Mail-Adresse",
+      "button": "Anmelden"
+    },
+    "icons": {
+      "download": "Download",
+      "weather": "Wetter",
+      "gift": "Geschenkgutscheine",
+      "photos": "360° Fotos & Videos"
+    },
+    "bottom": {
+      "home": "Home",
+      "privacy": "Datenschutz",
+      "settings": "Datenschutzeinstellungen",
+      "copyright": "© 2025 Panorama Wellness Resort Alpen Tesitin | USt-ID: IT01622840211"
+    },
+    "dropdowns": {
+      "partners": "Partner",
+      "pages": "Interessante Seiten",
+      "pageItems": {
+        "luxury": "Luxushotel Südtirol,",
+        "spa": "Wellnesshotel Pustertal,",
+        "pool": "Hotel Pustertal mit Pool,",
+        "sport": "Sporthotel Südtirol,",
+        "gourmet": "Gourmethotel Südtirol,",
+        "hiking": "Wanderhotel Pustertal,",
+        "ski": "Skiferien Südtirol,",
+        "rent": "Sportwagen mieten Südtirol"
+      }
+    },
+    "modal": {
+      "title": "Newsletter-Registrierung",
+      "titleLabel": "Titel",
+      "titles": {
+        "family": "Familie",
+        "mr": "Herr",
+        "ms": "Frau"
+      },
+      "placeholders": {
+        "name": "Name",
+        "surname": "Nachname*",
+        "email": "E-Mail*"
+      },
+      "consent": {
+        "text": "Einwilligung zu Marketingaktivitäten*",
+        "tooltip": "Nachdem ich die Datenschutzerklärung unter diesem Link gelesen und verstanden habe und mit Bezug auf die Datenverarbeitungsaktivitäten, für die die Einwilligung der betroffenen Person gesetzlich erforderlich ist, erkläre ich mich damit einverstanden, dass meine persönlichen Daten von Alpen Tesitin für den Versand von Werbebotschaften und Marketingmitteilungen, einschließlich Newslettern, über deren Werbeaktionen, Angebote usw., verwendet werden, die durch automatisierte (E-Mail, SMS usw.) und nicht automatisierte Mittel (normale Post, Telefonanrufe von Operatoren) durchgeführt werden."
+      },
+      "requiredFields": "*Pflichtfelder",
+      "submitButton": "Senden"
+    }
+  },
+  "Header": {
+    "languages": {
+      "en": "Englisch",
+      "de": "Deutsch",
+      "it": "Italienisch"
+    },
+    "buttons": {
+      "close": "Schließen",
+      "menu": "Menü",
+      "phone": "Rufen Sie uns an",
+      "enquire": "Anfragen",
+      "book": "Buchen"
+    },
+    "logo": "AT ALPEN TESITIN",
+    "subtitle": "PANORAMA WELLNESS RESORT ★★★★★"
+  },
+  "EnquirePage": {
+    "hero": {
+      "title": "Jetzt anfragen und zu träumen beginnen",
+      "subtitle": "Entdecken Sie die luxuriöse Welt des <bold>Alpen Tesitin</bold>. Ihre unverbindliche Anfrage öffnet die Tür zu einem fantastischen Urlaubserlebnis."
+    },
+    "extras": {
+      "sectionTitle": "Extras",
+      "selectedService": "Ausgewählter Zusatzservice",
+      "addAdditionalBtn": "Zusätzliche Services hinzufügen",
+      "notePlaceholder": "Gewünschtes Datum, Uhrzeit usw. eingeben...",
+      "amount": "Menge",
+      "modal": {
+        "title": "Zusätzlichen Service auswählen",
+        "category": "Kategorie",
+        "addServices": "Services hinzufügen"
+      }
+    },
+    "offers": {
+      "selectedOffer": "Ausgewähltes Angebot",
+      "defaultDescription": "7 Nächte mit ¾ Gourmet-Verpflegung"
+    },
+    "stay": {
+      "sectionTitle": "Details zu Ihrem Aufenthalt #",
+      "arrivalDeparture": "Anreise und Abreise*",
+      "guests": {
+        "adults": "Erwachsene",
+        "adultsSub": "Über 17 Jahre alt",
+        "children": "Kinder",
+        "childrenSub": "Bis 17 Jahre alt",
+        "boardOption": "Verpflegungsoption",
+        "save": "Speichern"
+      },
+      "roomOptions": {
+        "noParticular": "Kein bestimmtes Zimmer",
+        "noParticularSub": "Bitte beraten Sie mich",
+        "specificRequest": "Spezielle Zimmeranfrage",
+        "specificRequestSub": "Ich möchte ein bestimmtes Zimmer auswählen",
+        "addRoom": "Zimmer hinzufügen",
+        "modal": {
+          "title": "Zimmer auswählen",
+          "selectionHint": "Ihre Auswahl:"
+        }
+      },
+      "addStay": "Aufenthalt hinzufügen"
+    },
+    "personalInfo": {
+      "sectionTitle": "Persönliche Informationen",
+      "titleLabel": "Titel",
+      "titles": {
+        "family": "Familie",
+        "mr": "Herr",
+        "ms": "Frau"
+      },
+      "fields": {
+        "firstName": "Vorname*",
+        "lastName": "Nachname*",
+        "email": "E-Mail*",
+        "street": "Straße",
+        "postcode": "Postleitzahl",
+        "city": "Stadt",
+        "country": "Land auswählen",
+        "comment": "Kommentar",
+        "phone": "Telefon"
+      },
+      "address": {
+        "show": "Adressfelder anzeigen",
+        "hide": "Adressfelder ausblenden"
+      },
+      "consent": "Einwilligung zu Marketingaktivitäten",
+      "privacyText": "Nachdem ich die <link>unter diesem Link verfügbare Datenschutzerklärung</link> gelesen und verstanden habe und in Bezug auf die Datenverarbeitungsaktivitäten, für die nach dem Gesetz die Einwilligung der betroffenen Person erforderlich ist, erkläre ich mich damit einverstanden, dass meine persönlichen Daten von Alpen Tesitin***** für den Versand von Werbemitteilungen und Marketingkommunikation verwendet werden.",
+      "requiredNote": "*Pflichtfelder",
+      "submit": "Absenden",
+      "submitting": "Wird gesendet..."
+    },
+    "errors": {
+      "required": "Dieses Feld darf nicht leer bleiben.",
+      "dateRequired": "Bitte wählen Sie Anreise- und Abreisedaten."
+    },
+    "alerts": {
+      "success": "Anfrage erfolgreich gesendet!",
+      "error": "Fehler: ",
+      "failed": "Anfrage konnte nicht gesendet werden",
+      "wentWrong": "Etwas ist schief gelaufen. Bitte versuchen Sie es erneut."
+    },
+    "countries": {
+      "GB": "Vereinigtes Königreich",
+      "AL": "Albanien",
+      "XK": "Kosovo",
+      "IT": "Italien",
+      "DE": "Deutschland",
+      "AT": "Österreich",
+      "CH": "Schweiz",
+      "FR": "Frankreich",
+      "US": "Vereinigte Staaten",
+      "GR": "Griechenland",
+      "MK": "Nordmazedonien",
+      "ME": "Montenegro",
+      "HR": "Kroatien",
+      "SI": "Slowenien",
+      "BE": "Belgien",
+      "NL": "Niederlande",
+      "ES": "Spanien",
+      "TR": "Türkei",
+      "SE": "Schweden",
+      "NO": "Norwegen"
+    },
+    "boardOptions": {
+      "threeQuarter": "¾ Gourmet-Verpflegung"
+    },
+    "room": {
+      "approx": "ca.",
+      "capacity": "Personen",
+      "size": "ca."
+    },
+    "ariaLabels": {
+      "remove": "entfernen",
+      "close": "schließen",
+      "showAll": "alles anzeigen",
+      "removeOffer": "Angebot entfernen",
+      "removeButton": "Entfernen-Button",
+      "removeStay": "Diesen Aufenthalt entfernen",
+      "decreaseAdults": "Erwachsene reduzieren",
+      "addAdult": "Erwachsenen hinzufügen",
+      "decreaseChildren": "Kinder reduzieren",
+      "addChildren": "Kinder hinzufügen",
+      "chooseBoard": "Verpflegung wählen",
+      "saveButton": "Speichern-Button",
+      "addRoom": "Zimmer hinzufügen",
+      "family": "Familie",
+      "mr": "Herr",
+      "ms": "Frau",
+      "country": "Land",
+      "submitButton": "Absenden-Button"
+    }
+  }
+}
