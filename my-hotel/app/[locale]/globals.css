@@ -3,3 +3,10 @@
 body {
   background-attachment: fixed;
 }
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow-x: clip; 
+  height: auto;
+  width: 100vw; 
+}

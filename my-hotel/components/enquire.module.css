@@ -95,7 +95,7 @@
   background-color: white;
 }
 
-:global(.react-datepicker) {
+.wrapper :global(.react-datepicker) {
   display: flex !important;
   flex-direction: row;
   border: 1px solid #e2e1db !important;
