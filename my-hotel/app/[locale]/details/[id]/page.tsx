@@ -1,4 +1,4 @@
-"use client";
+
 import { query } from '@/lib/db';
 import SmallHeader from '@/components/Smallheader';
 import Footer from '@/components/Footer';
