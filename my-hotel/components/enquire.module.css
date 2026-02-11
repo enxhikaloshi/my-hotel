@@ -105,7 +105,7 @@
 }
 
 /* Ngjyra e datave të bllokuara */
-:global(.react-datepicker__day--disabled) {
+.wrapper :global(.react-datepicker__day--disabled) {
   color: #ccc !important;
   cursor: not-allowed;
   background: transparent !important;

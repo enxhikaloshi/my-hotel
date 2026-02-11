@@ -10,3 +10,6 @@ html, body {
   height: auto;
   width: 100vw; 
 }
+body {
+   font-family: 'Playfair Display', serif;
+}
