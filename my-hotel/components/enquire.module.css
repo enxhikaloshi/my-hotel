@@ -112,18 +112,18 @@
 }
 
 
-:global(.react-datepicker__day--today) {
+.wrapper  :global(.react-datepicker__day--today) {
   font-weight: bold;
   color: #000;
 }
 
-:global(.react-datepicker__day--in-range) {
+.wrapper :global(.react-datepicker__day--in-range) {
   background-color: #f4f1ea !important; /* Ngjyra bezhë e hapur e hotelit */
   color: #000 !important;
 }
 
-:global(.react-datepicker__day--range-start),
-:global(.react-datepicker__day--range-end) {
+.wrapper :global(.react-datepicker__day--range-start),
+.wrapper :global(.react-datepicker__day--range-end) {
   background-color: #8b7a5e !important; /* Ngjyra gold/kafe për fillimin dhe fundin */
   color: white !important;
 }
