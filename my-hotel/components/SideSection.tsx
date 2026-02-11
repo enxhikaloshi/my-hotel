@@ -1,3 +1,4 @@
+"use client";
 import React, { useState } from 'react';
 import styles from './SideSection.module.css';
 import { MoveRight } from 'lucide-react';

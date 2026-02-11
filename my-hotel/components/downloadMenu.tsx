@@ -1,3 +1,4 @@
+"use client";
 import React from 'react';
 import styles from './downloads.module.css';
 import { ArrowDownToLine, MoveRight } from 'lucide-react';

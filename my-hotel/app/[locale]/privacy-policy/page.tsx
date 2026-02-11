@@ -1,3 +1,4 @@
+"use client";
 import React from 'react';
 import styles from '@/components/privacy.module.css';
 import SmallHeader from '@/components/Smallheader';

@@ -1,3 +1,4 @@
+"use client";
 import { useState } from 'react';
 import styles from './AvailableRoomCard.module.css';
 import { Users,Info, ChevronDown, ChevronUp,Maximize,CalendarDays, UtensilsCrossed } from 'lucide-react';

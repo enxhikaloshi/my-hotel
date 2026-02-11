@@ -1,3 +1,4 @@
+"use client";
 import Footer from '@/components/Footer';
 import SmallHeader from '@/components/Smallheader';
 import styles from '@/components/weather.module.css';

@@ -1,3 +1,4 @@
+"use client";
 import { useState } from 'react';
 import styles from './overview.module.css';
 import { CircleCheck, CircleDollarSign, CircleUserRound, IdCard, Mail, Mailbox, Send, Star } from 'lucide-react';
