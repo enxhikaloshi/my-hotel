@@ -1,6 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { getRooms } from '../rooms/actions';
-import { getBookings } from '../bookings/actions';
+import { query } from '@/lib/db';
 
 export async function GET(req: NextRequest) {
   const { searchParams } = new URL(req.url);
@@ -12,32 +11,75 @@ export async function GET(req: NextRequest) {
   }
 
   try {
-    // 1. Fetch all data from your actions
-    const allRooms = await getRooms();
-    const allBookings = await getBookings();
+    // Query direkt për dhomat e disponueshme
+    const availableRooms = await query<any[]>(`
+      SELECT 
+        r.id, 
+        r.name, 
+        r.description,
+        r.price, 
+        r.capacity,
+        r.size,
+        r.images, 
+        r.equipment,        
+        CAST(r.type AS CHAR) AS room_type, 
+        r.created_at, 
+        r.updated_at
+      FROM rooms r
+      WHERE r.id NOT IN (
+        SELECT b.room_id 
+        FROM bookings b
+        WHERE (
+          b.check_in <= ? AND b.check_out >= ?
+        ) OR (
+          b.check_in BETWEEN ? AND ?
+        ) OR (
+          b.check_out BETWEEN ? AND ?
+        )
+      )
+      ORDER BY r.id DESC
+    `, [
+      endDate, startDate,
+      startDate, endDate,
+      startDate, endDate
+    ]);
 
-    // 2. Parse selected dates once
-    const sStart = new Date(startDate).getTime();
-    const sEnd = new Date(endDate).getTime();
+    // Process images and equipment
+    const processedRooms = availableRooms.map(r => {
+      let imagesArr: string[] = [];
+      try {
+        if (r.images) {
+          imagesArr = typeof r.images === 'string' ? JSON.parse(r.images) : r.images;
+        }
+      } catch {
+        imagesArr = [];
+      }
 
-    // 3. Filter bookings that overlap with the selected range
-    const overlappingBookings = allBookings.filter((booking: any) => {
-      const bStart = new Date(booking.check_in).getTime();
-      const bEnd = new Date(booking.check_out).getTime();
+      let equipmentArr: string[] = [];
+      try {
+        if (r.equipment) {
+          equipmentArr = typeof r.equipment === 'string' ? JSON.parse(r.equipment) : r.equipment;
+        }
+      } catch {
+        equipmentArr = [];
+      }
 
-      // Logic: A booking overlaps if it starts BEFORE our search ends
-      // AND it ends AFTER our search starts.
-      // Using < and > (instead of <=) allows check-in/out on the same day.
-      return bStart < sEnd && bEnd > sStart;
+      return {
+        id: r.id,
+        name: r.name,
+        price: Number(r.price),
+        capacity: r.capacity,
+        size: r.size?.toString() ?? '20m²',
+        description: r.description ? r.description.toString() : '',
+        images: imagesArr,
+        equipment: equipmentArr,
+        type: r.room_type,
+        created_at: r.created_at,
+        updated_at: r.updated_at,
+      };
     });
 
-    // 4. Extract IDs of rooms that are taken
-    const bookedRoomIds = new Set(overlappingBookings.map((b: any) => b.room_id));
-
-    // 5. Return only rooms whose ID is NOT in the booked set
-    const availableRooms = allRooms.filter(room => !bookedRoomIds.has(room.id));
-
-    return NextResponse.json(availableRooms);
+    return NextResponse.json(processedRooms);
   } catch (error) {
     console.error('Error fetching available rooms:', error);
     return NextResponse.json({ error: 'Failed to fetch available rooms' }, { status: 500 });
