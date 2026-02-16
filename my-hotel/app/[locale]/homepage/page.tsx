@@ -355,7 +355,7 @@ export default function HomePage() {
           </p>
 
           <Link 
-            href={`/offers`} 
+            href={`/details`} 
             className={styles.showLinkk}
             aria-label="View all special offers and packages at Alpen Tesitin Hotel"
           >
