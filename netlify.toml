@@ -1,7 +1,7 @@
 [build]
   base = "my-hotel"
   command = "npm install && npm run build"
-  publish = "my-hotel/.next"
+  publish = ".next"
 
 [build.environment]
   NODE_VERSION = "18"
