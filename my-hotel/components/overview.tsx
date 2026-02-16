@@ -1,7 +1,7 @@
 "use client";
 import { useState } from 'react';
 import styles from './overview.module.css';
-import { CircleCheck, CircleDollarSign, CircleUserRound, IdCard, Mail, Mailbox, Send, Star } from 'lucide-react';
+import { CircleCheck, CircleDollarSign, CircleUserRound, CreditCard, Mail, Mailbox, Send, Star } from 'lucide-react';
 
 interface VoucherData {
   name: string;
@@ -168,7 +168,7 @@ export default function Overview({
         {/* Payment Method */}
         <div className={styles.gridItem}>
           <div className={styles.iconText}>
-            <span className={styles.icon}><IdCard /></span>
+            <span className={styles.icon}><CreditCard /></span>
             <div>
               <div className={styles.mainValue}>
                 {getPaymentMethodLabel(paymentData.paymentMethod)}

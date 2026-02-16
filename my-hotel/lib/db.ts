@@ -83,7 +83,6 @@ const createPool = (): mysql.Pool => {
   }
 
   // Otherwise use individual credentials for TiDB Cloud
-  console.log(`✅ Connecting to TiDB Cloud at ${DB_HOST}:${DB_PORT || 4000}`);
   return mysql.createPool({
     host: DB_HOST,
     user: DB_USER,
