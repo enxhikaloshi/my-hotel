@@ -36,8 +36,9 @@ export default function Summary({
   const [detailsOpen, setDetailsOpen] = useState(false);
   const [ratesOpen, setRatesOpen] = useState(true); 
   const [showModal, setShowModal] = useState(false);
-  const touristTax = selectedRoom.price * 0.0181;
-  const totalAmount = selectedRoom.price + touristTax;
+  // guard against null selectedRoom when component renders unexpectedly
+  const touristTax = (selectedRoom?.price ?? 0) * 0.0181;
+  const totalAmount = (selectedRoom?.price ?? 0) + touristTax;
   // Helper functions
   const formatDate = (date: Date | undefined) => 
     date ? date.toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' }) : '—';

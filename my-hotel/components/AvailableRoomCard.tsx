@@ -3,7 +3,6 @@ import { useState } from 'react';
 import styles from './AvailableRoomCard.module.css';
 import { Users,Info, ChevronDown, ChevronUp,Maximize,CalendarDays, UtensilsCrossed } from 'lucide-react';
 
-// Ky interface duhet të jetë fiks si JSON-i që të kthen API yt
 interface Room {
   id: number;
   name: string;
@@ -140,7 +139,58 @@ const [showModal, setShowModal] = useState(false);
           </div>
           <div className={styles.rateRight}>
             <span className={styles.bottomPrice}>€{room.price.toLocaleString() }</span>
-            <button className={styles.selectBtn} onClick={() => onSelect(room)}>
+            <button
+              className={styles.selectBtn}
+              onClick={async () => {
+                // If dates are provided, check room-level availability server-side first
+                if (startDate && endDate) {
+                  try {
+                    const toIsoDate = (d: Date | string | undefined) => {
+                      if (!d) return null;
+                      if (typeof d === 'string') return d; // already ISO-like string
+                      if (d instanceof Date && !Number.isNaN(d.getTime())) return d.toISOString().split('T')[0];
+                      // fallback: try to coerce
+                      const parsed = new Date(d as any);
+                      return Number.isNaN(parsed.getTime()) ? null : parsed.toISOString().split('T')[0];
+                    };
+
+                    const startStr = toIsoDate(startDate as any);
+                    const endStr = toIsoDate(endDate as any);
+
+                    if (!startStr || !endStr) {
+                      console.warn('Invalid date(s) provided to availability check', { startDate, endDate });
+                      // do not throw — allow selection to avoid blocking UX
+                      onSelect(room);
+                      return;
+                    }
+
+                    const res = await fetch(`/api/available-rooms?roomId=${room.id}&startDate=${startStr}&endDate=${endStr}`);
+                    const body = await res.json();
+                    console.debug('[available-rooms:room] check', { roomId: room.id, startStr, endStr, status: res.status, payload: body });
+
+                    if (!res.ok) {
+                      alert(body?.error || 'Availability check failed');
+                      return;
+                    }
+
+                    if (body.available === false) {
+                      // show friendly message if conflict
+                      alert('Sorry — this room is no longer available for the selected dates.');
+                      return;
+                    }
+
+                    // available === true -> proceed
+                    onSelect(room);
+                  } catch (err) {
+                    console.error('Room availability check failed:', err);
+                    alert('Failed to check availability — please try again');
+                  }
+                } else {
+                  // no dates -> allow selecting room (keeps prior behavior)
+                  onSelect(room);
+                }
+              }}
+            >
               Select
             </button>
           </div>

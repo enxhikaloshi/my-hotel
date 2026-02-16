@@ -25,6 +25,8 @@ export default function RoomDescription({
   const [allRooms, setAllRooms] = useState<any[]>([]);
   const [availableRooms, setAvailableRooms] = useState<any[]>([]);
   const [loading, setLoading] = useState(false);
+  const [errorMsg, setErrorMsg] = useState<string | null>(null);
+  const [lastFetch, setLastFetch] = useState<any>(null); // dev debug helper
   const [activeTab, setActiveTab] = useState<'rooms' | 'deals'>('rooms');
   const [deals, setDeals] = useState<any[]>([]);
   const [showRoomsMap, setShowRoomsMap] = useState<Map<number, boolean>>(new Map());
@@ -34,10 +36,12 @@ export default function RoomDescription({
   const endDate = dates?.endDate;
 
   const isRangeSelected = useMemo(() => {
+    // Consider the range "selected" as soon as both dates exist (Date or ISO string).
     if (!startDate || !endDate) return false;
-    return startDate instanceof Date && 
-           endDate instanceof Date && 
-           startDate.getTime() !== endDate.getTime();
+
+    const hasStart = startDate instanceof Date || typeof startDate === 'string';
+    const hasEnd = endDate instanceof Date || typeof endDate === 'string';
+    return !!(hasStart && hasEnd);
   }, [startDate, endDate]);
 
  useEffect(() => {
@@ -62,27 +66,64 @@ export default function RoomDescription({
   // 2. Fetch Available Rooms 
   useEffect(() => {
   if (isRangeSelected && startDate && endDate) {
+    // defensive: accept Date or ISO string
+    const start = typeof startDate === 'string' ? new Date(startDate) : startDate;
+    const end = typeof endDate === 'string' ? new Date(endDate) : endDate;
+
+    console.debug('[roomdescription] fetch trigger', { start, end, isRangeSelected, onlyShowId });
+
     setLoading(true);
     
-    const startStr = startDate.toLocaleDateString('en-CA'); 
-    const endStr = endDate.toLocaleDateString('en-CA');
+    // use ISO format YYYY-MM-DD to avoid locale differences
+    const startStr = start.toISOString().split('T')[0];
+    const endStr = end.toISOString().split('T')[0];
 
-    fetch(`/api/available-rooms?startDate=${startStr}&endDate=${endStr}`)
-      .then((res) => res.json())
-      .then((data) => {
-       
+    (async () => {
+      try {
+        const res = await fetch(`/api/available-rooms?startDate=${startStr}&endDate=${endStr}`);
+        const data = await res.json();
+        console.debug('[available-rooms] request', { startStr, endStr, status: res.status, payload: data });
+
+        setLastFetch({ startStr, endStr, status: res.status, payload: data });
+
+        if (!res.ok) {
+          console.error('Availability API returned error:', data);
+          setAvailableRooms([]);
+          setErrorMsg(data?.error || 'Availability check failed');
+          setLoading(false);
+          return;
+        }
+
+        // Ensure an array is returned for the list case
+        if (!Array.isArray(data)) {
+          console.warn('Availability API returned unexpected payload:', data);
+          setAvailableRooms([]);
+          setErrorMsg('Unexpected response from availability service');
+          setLoading(false);
+          return;
+        }
+
+        setErrorMsg(null);
         if (onlyShowId) {
           const filtered = data.filter((r: any) => r.id === Number(onlyShowId));
           setAvailableRooms(filtered);
         } else {
           setAvailableRooms(data);
         }
+      } catch (err) {
+        console.error('Availability API Error:', err);
+        // Fallback: if we already have the full room list, show it so UX isn't broken in production.
+        if (Array.isArray(allRooms) && allRooms.length > 0) {
+          setAvailableRooms(allRooms);
+          setErrorMsg('Failed to fetch availability — showing all rooms as a fallback');
+        } else {
+          setAvailableRooms([]);
+          setErrorMsg('Failed to fetch availability — please try again');
+        }
+      } finally {
         setLoading(false);
-      })
-      .catch((err) => {
-        console.error("Availability API Error:", err);
-        setLoading(false);
-      });
+      }
+    })();
   }
 }, [isRangeSelected, startDate, endDate, onlyShowId]); 
   // 3. Fetch Deals
@@ -153,12 +194,20 @@ export default function RoomDescription({
             <>
               {loading ? (
                 <div className={styles.loadingMessage}>Loading...</div>
+              ) : errorMsg ? (
+                <div className={styles.noResults}>
+                  <p>{errorMsg}</p>
+                  <button type="button" onClick={() => setStep(1)} className={styles.backBtn}>
+                    Change Dates
+                  </button>
+                </div>
               ) : availableRooms.length > 0 ? (
                 availableRooms.map((room) => (
                   <AvailableRoomCard
                     key={room.id}
                     room={room}
                     startDate={startDate}
+                    endDate={endDate}
                     adults={adults}
                     children={children}
                     onSelect={(selected: any) => {
@@ -174,6 +223,14 @@ export default function RoomDescription({
                   <button type="button" onClick={() => setStep(1)} className={styles.backBtn}>
                     Change Dates
                   </button>
+                  {process.env.NODE_ENV !== 'production' && lastFetch && (
+                    <div style={{ marginTop: 12, fontSize: 13, color: '#666' }}>
+                      <strong>Debug:</strong>
+                      <div>start: {lastFetch.startStr} — end: {lastFetch.endStr}</div>
+                      <div>status: {lastFetch.status} — results: {Array.isArray(lastFetch.payload) ? lastFetch.payload.length : 'n/a'}</div>
+                      <pre style={{ whiteSpace: 'pre-wrap', marginTop: 6 }}>{JSON.stringify(lastFetch.payload?.slice?.(0,2) ?? lastFetch.payload, null, 2)}</pre>
+                    </div>
+                  )}
                 </div>
               )}
             </>

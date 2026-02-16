@@ -1,0 +1,8 @@
+[build]
+  base = "my-hotel"
+  command = "npm ci && npm run build"
+  publish = "my-hotel/.next"
+
+[build.environment]
+  NODE_VERSION = "18"
+  NPM_FLAGS = "--legacy-peer-deps"
