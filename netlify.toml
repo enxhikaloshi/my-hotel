@@ -1,5 +1,5 @@
 [build]
-  base = "my-hotel/my-hotel"
+  base = "my-hotel"
   command = "npm run build"
   publish = ".next"
 
